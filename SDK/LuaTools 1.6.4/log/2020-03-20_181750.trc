@@ -1,0 +1,39 @@
+[2020-03-20 18:17:50,121.121]: start tool
+[2020-03-20 18:18:34,848.848]: host event 0xffffffff
+[2020-03-20 18:18:34,848.848]: host event 0x07778888
+[2020-03-20 18:18:34,848.848]: host event 0x07778889
+[2020-03-20 18:18:34,848.848]: host event 0x077788a0
+[2020-03-20 18:18:34,848.848]: host event 0x077788b0
+[2020-03-20 18:18:34,848.848]: host event 0x077788b1
+[2020-03-20 18:18:34,864.864]: host event 0x09999092
+[2020-03-20 18:18:34,867.867]: host event 0x09999093
+[2020-03-20 18:18:34,868.868]: host event 0x09999098
+[2020-03-20 18:18:34,871.871]: host event 0x09999099
+[2020-03-20 18:18:34,872.872]: host event 0x0999909a
+[2020-03-20 18:18:34,875.875]: host event 0x00000004
+[2020-03-20 18:18:34,875.875]: host event 0x66660021
+[2020-03-20 18:18:34,875.875]: host event 0x0000000f
+[2020-03-20 18:18:34,875.875]: host event 0x00000000
+[2020-03-20 18:18:34,875.875]: host event 0x888888df
+[2020-03-20 18:18:34,875.875]: host event 0x888888cf
+[2020-03-20 18:18:34,875.875]: host event 0x95555667
+[2020-03-20 18:18:34,875.875]: host event 0x9555566a
+[2020-03-20 18:18:34,875.875]: host event 0x9555566b
+[2020-03-20 18:18:34,875.875]: host event 0x95555668
+[2020-03-20 18:18:34,875.875]: host event 0x001660c8
+[2020-03-20 18:18:34,890.890]: host event 0x85555667
+[2020-03-20 18:18:34,890.890]: host event 0x55555667
+[2020-03-20 18:18:34,890.890]: host event 0x00000a00
+[2020-03-20 18:18:34,890.890]: host event 0x8888889f
+[2020-03-20 18:18:34,890.890]: host event 0x077788b2
+[2020-03-20 18:18:34,890.890]: host event 0x077788c0
+[2020-03-20 18:18:34,890.890]: host event 0x077788d0
+[2020-03-20 18:18:34,994.994]: host event 0x00000057
+[2020-03-20 18:19:02,144.144]: could not open port 'COM4': WindowsError(5, '\xbe\xdc\xbe\xf8\xb7\xc3\xce\xca\xa1\xa3')
+Traceback (most recent call last):
+  File "main.py", line 473, in handle_open_com
+  File "host_trace.pyo", line 492, in open
+  File "serial\serialwin32.pyo", line 31, in __init__
+  File "serial\serialutil.pyo", line 180, in __init__
+  File "serial\serialwin32.pyo", line 62, in open
+SerialException: could not open port 'COM4': WindowsError(5, '\xbe\xdc\xbe\xf8\xb7\xc3\xce\xca\xa1\xa3')

@@ -1,0 +1,17 @@
+[2020-03-20 18:15:45,121.121]: start tool
+[2020-03-20 18:15:46,721.721]: could not open port 'COM3': WindowsError(5, '\xbe\xdc\xbe\xf8\xb7\xc3\xce\xca\xa1\xa3')
+Traceback (most recent call last):
+  File "main.py", line 473, in handle_open_com
+  File "host_trace.pyo", line 492, in open
+  File "serial\serialwin32.pyo", line 31, in __init__
+  File "serial\serialutil.pyo", line 180, in __init__
+  File "serial\serialwin32.pyo", line 62, in open
+SerialException: could not open port 'COM3': WindowsError(5, '\xbe\xdc\xbe\xf8\xb7\xc3\xce\xca\xa1\xa3')
+[2020-03-20 18:16:01,812.812]: could not open port 'COM3': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
+Traceback (most recent call last):
+  File "main.py", line 473, in handle_open_com
+  File "host_trace.pyo", line 492, in open
+  File "serial\serialwin32.pyo", line 31, in __init__
+  File "serial\serialutil.pyo", line 180, in __init__
+  File "serial\serialwin32.pyo", line 62, in open
+SerialException: could not open port 'COM3': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
