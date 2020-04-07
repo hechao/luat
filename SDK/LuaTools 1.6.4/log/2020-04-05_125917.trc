@@ -1,0 +1,1635 @@
+[2020-04-05 12:59:17,190.190]: start tool
+[2020-04-05 12:59:20,769.769]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,770.770]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,773.773]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,773.773]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,776.776]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,779.779]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,780.780]: host trace Module %d not registered !
+[2020-04-05 12:59:20,782.782]: host trace Module %d not registered !
+[2020-04-05 12:59:20,792.792]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,798.798]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,803.803]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,809.809]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,812.812]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,818.818]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,822.822]: host trace Module %d not registered !
+[2020-04-05 12:59:20,826.826]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,831.831]: host trace Module %d not registered !
+[2020-04-05 12:59:20,835.835]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,839.839]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,844.844]: host trace Module %d not registered !
+[2020-04-05 12:59:20,848.848]: host trace Module %d not registered !
+[2020-04-05 12:59:20,851.851]: host trace Module %d not registered !
+[2020-04-05 12:59:20,855.855]: host trace Module %d not registered !
+[2020-04-05 12:59:20,859.859]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:20,865.865]: host trace Module %d not registered !
+[2020-04-05 12:59:20,868.868]: host trace Module %d not registered !
+[2020-04-05 12:59:20,874.874]: host trace 
+[2020-04-05 12:59:20,884.884]: host trace 
+[2020-04-05 12:59:20,887.887]: host trace 
+[2020-04-05 12:59:20,890.890]: host trace 
+[2020-04-05 12:59:20,894.894]: host trace 
+[2020-04-05 12:59:20,898.898]: host trace 
+[2020-04-05 12:59:20,901.901]: host trace 
+[2020-04-05 12:59:20,904.904]: host trace 
+[2020-04-05 12:59:20,907.907]: host trace 
+[2020-04-05 12:59:20,911.911]: host trace 
+[2020-04-05 12:59:20,914.914]: host trace 
+[2020-04-05 12:59:20,918.918]: host trace 
+[2020-04-05 12:59:20,921.921]: host trace 
+[2020-04-05 12:59:20,927.927]: host trace 
+[2020-04-05 12:59:20,931.931]: host trace 
+[2020-04-05 12:59:20,934.934]: host trace 
+[2020-04-05 12:59:20,938.938]: host trace 
+[2020-04-05 12:59:20,943.943]: host trace 
+[2020-04-05 12:59:20,946.946]: host trace 
+[2020-04-05 12:59:20,950.950]: host trace 
+[2020-04-05 12:59:20,953.953]: host trace 
+[2020-04-05 12:59:20,957.957]: host trace 
+[2020-04-05 12:59:20,961.961]: host trace 
+[2020-04-05 12:59:20,966.966]: host trace 
+[2020-04-05 12:59:20,969.969]: host trace 
+[2020-04-05 12:59:20,973.973]: host trace 
+[2020-04-05 12:59:20,976.976]: host trace 
+[2020-04-05 12:59:20,980.980]: host trace 
+[2020-04-05 12:59:20,983.983]: host trace 
+[2020-04-05 12:59:20,989.989]: host trace 
+[2020-04-05 12:59:20,993.993]: host trace 
+[2020-04-05 12:59:20,997.997]: host trace 
+[2020-04-05 12:59:21,000.000]: host trace 
+[2020-04-05 12:59:21,005.005]: host trace 
+[2020-04-05 12:59:21,009.009]: host trace 
+[2020-04-05 12:59:21,015.015]: host trace 
+[2020-04-05 12:59:21,017.017]: host trace 
+[2020-04-05 12:59:21,022.022]: host trace 
+[2020-04-05 12:59:21,026.026]: host trace 
+[2020-04-05 12:59:21,030.030]: host trace 
+[2020-04-05 12:59:21,035.035]: host trace 
+[2020-04-05 12:59:21,038.038]: host trace 
+[2020-04-05 12:59:21,040.040]: host trace 
+[2020-04-05 12:59:21,046.046]: host trace 
+[2020-04-05 12:59:21,049.049]: host trace 
+[2020-04-05 12:59:21,055.055]: host trace 
+[2020-04-05 12:59:21,058.058]: host trace 
+[2020-04-05 12:59:21,062.062]: host trace 
+[2020-04-05 12:59:21,065.065]: host trace 
+[2020-04-05 12:59:21,069.069]: host trace 
+[2020-04-05 12:59:21,072.072]: host trace 
+[2020-04-05 12:59:21,076.076]: host trace 
+[2020-04-05 12:59:21,081.081]: host trace 
+[2020-04-05 12:59:21,085.085]: host trace 
+[2020-04-05 12:59:21,088.088]: host trace 
+[2020-04-05 12:59:21,091.091]: host trace 
+[2020-04-05 12:59:21,095.095]: host trace 
+[2020-04-05 12:59:21,098.098]: host trace 
+[2020-04-05 12:59:21,101.101]: host trace 
+[2020-04-05 12:59:21,105.105]: host trace 
+[2020-04-05 12:59:21,109.109]: host trace 
+[2020-04-05 12:59:21,115.115]: host trace 
+[2020-04-05 12:59:21,119.119]: host trace 
+[2020-04-05 12:59:21,124.124]: host trace 
+[2020-04-05 12:59:21,128.128]: host trace 
+[2020-04-05 12:59:21,131.131]: host trace 
+[2020-04-05 12:59:21,134.134]: host trace 
+[2020-04-05 12:59:21,138.138]: host trace ML_InitISO8859_1
+
+[2020-04-05 12:59:21,144.144]: host trace Reg Check ok.record count = 25, reg size = 4564.
+[2020-04-05 12:59:21,148.148]: host trace [ERROR]: src/sms_dm_api.c(451) :NULL
+
+[2020-04-05 12:59:21,153.153]: host trace ^
+[2020-04-05 12:59:21,157.157]: host trace SIM reset buffer: %#x
+[2020-04-05 12:59:21,161.161]: host trace SIM:  argEnd Timeout
+[2020-04-05 12:59:21,164.164]: host trace SIM reset buffer: %#x
+[2020-04-05 12:59:21,168.168]: host trace SIM:  argEnd Timeout
+[2020-04-05 12:59:21,173.173]: host trace LJD VSIM sim_SetNextVoltage:1048,sim_present=0,IsVsim=0
+[2020-04-05 12:59:21,177.177]: host trace [network] sim present 0
+[2020-04-05 12:59:21,194.194]: host trace AT SOFTVERSION:AirM2M_V5984_AT_S_TTS
+
+[2020-04-05 12:59:21,194.194]: host trace 
+[2020-04-05 12:59:21,194.194]: host trace ^
+[2020-04-05 12:59:21,196.196]: host trace ^
+[2020-04-05 12:59:21,196.196]: host trace 
+[2020-04-05 12:59:21,196.196]: host trace SynchChange[%d,%d]
+[2020-04-05 12:59:21,196.196]: host trace 
+[2020-04-05 12:59:21,197.197]: host trace 
+[2020-04-05 12:59:21,197.197]: host trace [network] psStatus=0, pdpStatus=0
+[2020-04-05 12:59:21,197.197]: host trace [network] OPENAT_NetworkStatusChangeInd  state 0
+[2020-04-05 12:59:21,197.197]: host trace 
+[2020-04-05 12:59:21,519.519]: host event 0x89550002
+[2020-04-05 12:59:21,520.520]: host event 0x07778888
+[2020-04-05 12:59:21,523.523]: host event 0x07778889
+[2020-04-05 12:59:21,525.525]: host event 0x077788a0
+[2020-04-05 12:59:21,526.526]: host event 0x077788b0
+[2020-04-05 12:59:21,528.528]: host event 0x000000b1
+[2020-04-05 12:59:21,529.529]: host event 0x89550002
+[2020-04-05 12:59:21,530.530]: host event 0x07778888
+[2020-04-05 12:59:21,532.532]: host event 0x07778889
+[2020-04-05 12:59:21,535.535]: host event 0x077788a0
+[2020-04-05 12:59:21,536.536]: host event 0x077788b0
+[2020-04-05 12:59:21,538.538]: host event 0x077788b1
+[2020-04-05 12:59:21,595.595]: host event 0x89550002
+[2020-04-05 12:59:21,598.598]: host event 0x07778888
+[2020-04-05 12:59:21,599.599]: host event 0x07778889
+[2020-04-05 12:59:21,601.601]: host event 0x077788a0
+[2020-04-05 12:59:21,601.601]: host event 0x077788b0
+[2020-04-05 12:59:21,604.604]: host event 0x077788b1
+[2020-04-05 12:59:21,605.605]: host event 0x09999092
+[2020-04-05 12:59:21,621.621]: host event 0x09999093
+[2020-04-05 12:59:21,624.624]: host event 0x09999098
+[2020-04-05 12:59:21,625.625]: host event 0x09999099
+[2020-04-05 12:59:21,628.628]: host event 0x0999909a
+[2020-04-05 12:59:21,630.630]: host event 0x00000004
+[2020-04-05 12:59:21,631.631]: host event 0x66660021
+[2020-04-05 12:59:21,634.634]: host event 0x0000000f
+[2020-04-05 12:59:21,634.634]: host event 0x00000000
+[2020-04-05 12:59:21,637.637]: host event 0x888888df
+[2020-04-05 12:59:21,638.638]: host event 0x888888cf
+[2020-04-05 12:59:21,640.640]: host event 0x95555667
+[2020-04-05 12:59:21,641.641]: host event 0x9555566a
+[2020-04-05 12:59:21,644.644]: host event 0x9555566b
+[2020-04-05 12:59:21,644.644]: host event 0x95555668
+[2020-04-05 12:59:21,647.647]: host event 0x001660c8
+[2020-04-05 12:59:21,648.648]: host event 0x85555667
+[2020-04-05 12:59:21,648.648]: host event 0x55555667
+[2020-04-05 12:59:21,651.651]: host event 0x00000a00
+[2020-04-05 12:59:21,651.651]: host event 0x8888889f
+[2020-04-05 12:59:21,654.654]: host event 0x077788b2
+[2020-04-05 12:59:21,654.654]: host event 0x077788c0
+[2020-04-05 12:59:21,657.657]: host event 0x077788d0
+[2020-04-05 12:59:21,819.819]: host event 0x00000057
+[2020-04-05 12:59:21,822.822]: host event 0x0eeeeee0
+[2020-04-05 12:59:21,822.822]: host event 0x0eeeeee1
+[2020-04-05 12:59:21,825.825]: host event 0xca1bc2c0
+[2020-04-05 12:59:21,825.825]: host event 0x0eeeeee2
+[2020-04-05 12:59:21,828.828]: host event 0x0eeeeee3
+[2020-04-05 12:59:21,828.828]: host event 0x0eeeeee4
+[2020-04-05 12:59:21,831.831]: host event 0x0eeeeee5
+[2020-04-05 12:59:21,832.832]: host event 0x9999a244
+[2020-04-05 12:59:21,834.834]: host event 0x77770006
+[2020-04-05 12:59:21,835.835]: host event 0x0eeeeee7
+[2020-04-05 12:59:21,836.836]: host event 0x0eeeeee8
+[2020-04-05 12:59:21,838.838]: host event 0x0eeeeee9
+[2020-04-05 12:59:21,839.839]: host event 0x0eeeeeea
+[2020-04-05 12:59:21,841.841]: host event 0x0eeeeeeb
+[2020-04-05 12:59:21,842.842]: host event 0x0eeeeeef
+[2020-04-05 12:59:21,844.844]: host event 0x0eeeeef1
+[2020-04-05 12:59:21,845.845]: host event 0x0eeeeef2
+[2020-04-05 12:59:21,846.846]: host event 0x0eeeeef3
+[2020-04-05 12:59:21,848.848]: host event 0x0eeeeef4
+[2020-04-05 12:59:21,849.849]: host event 0x0eeeeef6
+[2020-04-05 12:59:21,851.851]: host event 0x0eeeeef7
+[2020-04-05 12:59:21,852.852]: host event 0x0eeeeef8
+[2020-04-05 12:59:21,855.855]: host event 0x0eeeeef9
+[2020-04-05 12:59:21,857.857]: host event 0x00000059
+[2020-04-05 12:59:21,858.858]: host event 0xba1ba111
+[2020-04-05 12:59:21,861.861]: host event 0xba1ba112
+[2020-04-05 12:59:21,864.864]: host event 0xba1ba113
+[2020-04-05 12:59:21,867.867]: host event 0xba1ba113
+[2020-04-05 12:59:21,868.868]: host event 0xaaaa001e
+[2020-04-05 12:59:21,871.871]: host event 0x00000064
+[2020-04-05 12:59:21,871.871]: host event 0xaaaa001e
+[2020-04-05 12:59:21,872.872]: host event 0x00000032
+[2020-04-05 12:59:21,875.875]: host event 0xba1ba114
+[2020-04-05 12:59:21,877.877]: host event 0xba1ba115
+[2020-04-05 12:59:21,878.878]: host event 0xba1ba116
+[2020-04-05 12:59:21,880.880]: host event 0xba1ba117
+[2020-04-05 12:59:21,881.881]: host event 0xba1ba118
+[2020-04-05 12:59:21,882.882]: host event 0xba1ba119
+[2020-04-05 12:59:21,884.884]: host event 0xba1ba120
+[2020-04-05 12:59:21,884.884]: host event 0xba1ba121
+[2020-04-05 12:59:21,887.887]: host event 0xba1ba122
+[2020-04-05 12:59:21,888.888]: host event 0xba1ba123
+[2020-04-05 12:59:21,891.891]: host event 0xba1ba124
+[2020-04-05 12:59:21,892.892]: host event 0xba1ba135
+[2020-04-05 12:59:21,894.894]: host event 0xba1ba125
+[2020-04-05 12:59:21,895.895]: host event 0xabcdef02
+[2020-04-05 12:59:21,898.898]: host event 0xabcdeaa1
+[2020-04-05 12:59:21,898.898]: host event 0xabcdeaa1
+[2020-04-05 12:59:21,901.901]: host event 0xba1ba129
+[2020-04-05 12:59:21,901.901]: host event 0xba1ba130
+[2020-04-05 12:59:21,903.903]: host event 0xba1ba131
+[2020-04-05 12:59:21,904.904]: host event 0xba1ba132
+[2020-04-05 12:59:21,905.905]: host event 0xba1ba133
+[2020-04-05 12:59:21,907.907]: host event 0xba1ba134
+[2020-04-05 12:59:21,917.917]: host event 0xffffff03
+[2020-04-05 12:59:21,918.918]: host event 0xffffaa00
+[2020-04-05 12:59:21,921.921]: host event 0xba1ba136
+[2020-04-05 12:59:21,921.921]: host event 0x19191900
+[2020-04-05 12:59:22,338.338]: host event 0x89550002
+[2020-04-05 12:59:22,341.341]: host event 0x07778888
+[2020-04-05 12:59:22,342.342]: host event 0x07778889
+[2020-04-05 12:59:22,344.344]: host event 0x077788a0
+[2020-04-05 12:59:22,345.345]: host event 0x077788b0
+[2020-04-05 12:59:22,348.348]: host event 0x077788b1
+[2020-04-05 12:59:22,362.362]: host event 0x09999092
+[2020-04-05 12:59:22,365.365]: host event 0x09999093
+[2020-04-05 12:59:22,368.368]: host event 0x09999098
+[2020-04-05 12:59:22,371.371]: host event 0x09999099
+[2020-04-05 12:59:22,372.372]: host event 0x0999909a
+[2020-04-05 12:59:22,375.375]: host event 0x00000004
+[2020-04-05 12:59:22,375.375]: host event 0x66660021
+[2020-04-05 12:59:22,378.378]: host event 0x0000000f
+[2020-04-05 12:59:22,378.378]: host event 0x00000000
+[2020-04-05 12:59:22,381.381]: host event 0x888888df
+[2020-04-05 12:59:22,382.382]: host event 0x888888cf
+[2020-04-05 12:59:22,384.384]: host event 0x95555667
+[2020-04-05 12:59:22,385.385]: host event 0x9555566a
+[2020-04-05 12:59:22,387.387]: host event 0x9555566b
+[2020-04-05 12:59:22,388.388]: host event 0x95555668
+[2020-04-05 12:59:22,390.390]: host event 0x001660c8
+[2020-04-05 12:59:22,391.391]: host event 0x85555667
+[2020-04-05 12:59:22,394.394]: host event 0x55555667
+[2020-04-05 12:59:22,394.394]: host event 0x00000a00
+[2020-04-05 12:59:22,397.397]: host event 0x8888889f
+[2020-04-05 12:59:22,398.398]: host event 0x077788b2
+[2020-04-05 12:59:22,400.400]: host event 0x077788c0
+[2020-04-05 12:59:22,401.401]: host event 0x077788d0
+[2020-04-05 12:59:22,530.530]: host event 0x00000057
+[2020-04-05 12:59:22,533.533]: host event 0x0eeeeee0
+[2020-04-05 12:59:22,535.535]: host event 0x0eeeeee1
+[2020-04-05 12:59:22,536.536]: host event 0xca1bc2c0
+[2020-04-05 12:59:22,538.538]: host event 0x0eeeeee2
+[2020-04-05 12:59:22,539.539]: host event 0x0eeeeee3
+[2020-04-05 12:59:22,540.540]: host event 0x0eeeeee4
+[2020-04-05 12:59:22,542.542]: host event 0x0eeeeee5
+[2020-04-05 12:59:22,543.543]: host event 0x9999a244
+[2020-04-05 12:59:22,545.545]: host event 0x77770006
+[2020-04-05 12:59:22,546.546]: host event 0x0eeeeee7
+[2020-04-05 12:59:22,549.549]: host event 0x0eeeeee8
+[2020-04-05 12:59:22,552.552]: host event 0x0eeeeee9
+[2020-04-05 12:59:22,553.553]: host event 0x0eeeeeea
+[2020-04-05 12:59:22,555.555]: host event 0x0eeeeeeb
+[2020-04-05 12:59:22,558.558]: host event 0x0eeeeeef
+[2020-04-05 12:59:22,559.559]: host event 0x0eeeeef1
+[2020-04-05 12:59:22,561.561]: host event 0x0eeeeef2
+[2020-04-05 12:59:22,562.562]: host event 0x0eeeeef3
+[2020-04-05 12:59:22,563.563]: host event 0x0eeeeef4
+[2020-04-05 12:59:22,565.565]: host event 0x0eeeeef6
+[2020-04-05 12:59:22,566.566]: host event 0x0eeeeef7
+[2020-04-05 12:59:22,569.569]: host event 0x0eeeeef8
+[2020-04-05 12:59:22,569.569]: host event 0x0eeeeef9
+[2020-04-05 12:59:22,572.572]: host event 0x00000059
+[2020-04-05 12:59:22,575.575]: host event 0xba1ba111
+[2020-04-05 12:59:22,576.576]: host event 0xba1ba112
+[2020-04-05 12:59:22,578.578]: host event 0xba1ba113
+[2020-04-05 12:59:22,579.579]: host event 0xba1ba113
+[2020-04-05 12:59:22,598.598]: host event 0xaaaa001e
+[2020-04-05 12:59:22,601.601]: host event 0x00000064
+[2020-04-05 12:59:22,601.601]: host event 0xaaaa001e
+[2020-04-05 12:59:22,605.605]: host event 0x00000032
+[2020-04-05 12:59:22,605.605]: host event 0xba1ba114
+[2020-04-05 12:59:22,608.608]: host event 0xba1ba115
+[2020-04-05 12:59:22,608.608]: host event 0xba1ba116
+[2020-04-05 12:59:22,609.609]: host event 0xba1ba117
+[2020-04-05 12:59:22,612.612]: host event 0xba1ba118
+[2020-04-05 12:59:22,615.615]: host event 0xba1ba119
+[2020-04-05 12:59:22,618.618]: host event 0xba1ba120
+[2020-04-05 12:59:22,618.618]: host event 0xba1ba121
+[2020-04-05 12:59:22,627.627]: host event 0xba1ba122
+[2020-04-05 12:59:22,628.628]: host event 0xba1ba123
+[2020-04-05 12:59:22,630.630]: host event 0xba1ba124
+[2020-04-05 12:59:22,631.631]: host event 0xba1ba135
+[2020-04-05 12:59:22,632.632]: host event 0xba1ba125
+[2020-04-05 12:59:22,634.634]: host event 0xabcdef02
+[2020-04-05 12:59:22,650.650]: host event 0xabcdeaa1
+[2020-04-05 12:59:22,651.651]: host event 0xabcdeaa1
+[2020-04-05 12:59:22,654.654]: host event 0xba1ba129
+[2020-04-05 12:59:22,655.655]: host event 0xba1ba130
+[2020-04-05 12:59:22,657.657]: host event 0xba1ba131
+[2020-04-05 12:59:22,657.657]: host event 0xba1ba132
+[2020-04-05 12:59:22,660.660]: host event 0xba1ba133
+[2020-04-05 12:59:22,661.661]: host event 0xba1ba134
+[2020-04-05 12:59:22,663.663]: host event 0xffffff03
+[2020-04-05 12:59:22,664.664]: host event 0xffffaa00
+[2020-04-05 12:59:22,665.665]: host event 0xba1ba136
+[2020-04-05 12:59:22,667.667]: host event 0x19191900
+[2020-04-05 12:59:22,928.928]: host event 0x713effff
+[2020-04-05 12:59:22,930.930]: host event 0x0000104e
+[2020-04-05 12:59:23,118.118]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,118.118]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,119.119]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,121.121]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,121.121]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,122.122]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,124.124]: host trace Module %d not registered !
+[2020-04-05 12:59:23,125.125]: host trace Module %d not registered !
+[2020-04-05 12:59:23,125.125]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,127.127]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,128.128]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,130.130]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,131.131]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,131.131]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,132.132]: host trace Module %d not registered !
+[2020-04-05 12:59:23,134.134]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,135.135]: host trace Module %d not registered !
+[2020-04-05 12:59:23,137.137]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,138.138]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,138.138]: host trace Module %d not registered !
+[2020-04-05 12:59:23,140.140]: host trace Module %d not registered !
+[2020-04-05 12:59:23,141.141]: host trace Module %d not registered !
+[2020-04-05 12:59:23,141.141]: host trace Module %d not registered !
+[2020-04-05 12:59:23,142.142]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:23,144.144]: host trace Module %d not registered !
+[2020-04-05 12:59:23,145.145]: host trace Module %d not registered !
+[2020-04-05 12:59:23,147.147]: host trace 
+[2020-04-05 12:59:23,148.148]: host trace 
+[2020-04-05 12:59:23,148.148]: host trace 
+[2020-04-05 12:59:23,150.150]: host trace 
+[2020-04-05 12:59:23,151.151]: host trace 
+[2020-04-05 12:59:23,153.153]: host trace 
+[2020-04-05 12:59:23,154.154]: host trace 
+[2020-04-05 12:59:23,154.154]: host trace 
+[2020-04-05 12:59:23,155.155]: host trace 
+[2020-04-05 12:59:23,157.157]: host trace 
+[2020-04-05 12:59:23,157.157]: host trace 
+[2020-04-05 12:59:23,158.158]: host trace 
+[2020-04-05 12:59:23,158.158]: host trace 
+[2020-04-05 12:59:23,160.160]: host trace 
+[2020-04-05 12:59:23,161.161]: host trace 
+[2020-04-05 12:59:23,161.161]: host trace 
+[2020-04-05 12:59:23,164.164]: host trace 
+[2020-04-05 12:59:23,164.164]: host trace 
+[2020-04-05 12:59:23,165.165]: host trace 
+[2020-04-05 12:59:23,167.167]: host trace 
+[2020-04-05 12:59:23,167.167]: host trace 
+[2020-04-05 12:59:23,168.168]: host trace 
+[2020-04-05 12:59:23,170.170]: host trace 
+[2020-04-05 12:59:23,171.171]: host trace 
+[2020-04-05 12:59:23,171.171]: host trace 
+[2020-04-05 12:59:23,173.173]: host trace 
+[2020-04-05 12:59:23,174.174]: host trace 
+[2020-04-05 12:59:23,174.174]: host trace 
+[2020-04-05 12:59:23,176.176]: host trace 
+[2020-04-05 12:59:23,177.177]: host trace 
+[2020-04-05 12:59:23,177.177]: host trace 
+[2020-04-05 12:59:23,178.178]: host trace 
+[2020-04-05 12:59:23,180.180]: host trace 
+[2020-04-05 12:59:23,180.180]: host trace 
+[2020-04-05 12:59:23,181.181]: host trace 
+[2020-04-05 12:59:23,183.183]: host trace 
+[2020-04-05 12:59:23,184.184]: host trace 
+[2020-04-05 12:59:23,184.184]: host trace 
+[2020-04-05 12:59:23,186.186]: host trace 
+[2020-04-05 12:59:23,187.187]: host trace 
+[2020-04-05 12:59:23,187.187]: host trace 
+[2020-04-05 12:59:23,188.188]: host trace 
+[2020-04-05 12:59:23,190.190]: host trace 
+[2020-04-05 12:59:23,190.190]: host trace 
+[2020-04-05 12:59:23,191.191]: host trace 
+[2020-04-05 12:59:23,193.193]: host trace 
+[2020-04-05 12:59:23,194.194]: host trace 
+[2020-04-05 12:59:23,194.194]: host trace 
+[2020-04-05 12:59:23,196.196]: host trace 
+[2020-04-05 12:59:23,197.197]: host trace 
+[2020-04-05 12:59:23,197.197]: host trace 
+[2020-04-05 12:59:23,198.198]: host trace 
+[2020-04-05 12:59:23,200.200]: host trace 
+[2020-04-05 12:59:23,200.200]: host trace 
+[2020-04-05 12:59:23,201.201]: host trace 
+[2020-04-05 12:59:23,203.203]: host trace 
+[2020-04-05 12:59:23,203.203]: host trace 
+[2020-04-05 12:59:23,204.204]: host trace 
+[2020-04-05 12:59:23,206.206]: host trace 
+[2020-04-05 12:59:23,207.207]: host trace 
+[2020-04-05 12:59:23,207.207]: host trace 
+[2020-04-05 12:59:23,209.209]: host trace 
+[2020-04-05 12:59:23,210.210]: host trace 
+[2020-04-05 12:59:23,210.210]: host trace 
+[2020-04-05 12:59:23,210.210]: host trace 
+[2020-04-05 12:59:23,211.211]: host trace 
+[2020-04-05 12:59:23,213.213]: host trace 
+[2020-04-05 12:59:23,213.213]: host trace ML_InitISO8859_1
+
+[2020-04-05 12:59:23,214.214]: host trace Reg Check ok.record count = 25, reg size = 4564.
+[2020-04-05 12:59:23,216.216]: host trace [ERROR]: src/sms_dm_api.c(451) :NULL
+
+[2020-04-05 12:59:23,217.217]: host trace ^
+[2020-04-05 12:59:23,217.217]: host trace SIM reset buffer: %#x
+[2020-04-05 12:59:23,219.219]: host trace SIM:  argEnd Timeout
+[2020-04-05 12:59:23,220.220]: host trace SIM reset buffer: %#x
+[2020-04-05 12:59:23,220.220]: host trace SIM:  argEnd Timeout
+[2020-04-05 12:59:23,221.221]: host trace LJD VSIM sim_SetNextVoltage:1048,sim_present=0,IsVsim=0
+[2020-04-05 12:59:23,223.223]: host trace AT SOFTVERSION:AirM2M_V5984_AT_S_TTS
+
+[2020-04-05 12:59:23,286.286]: host trace [network] sim present 0
+[2020-04-05 12:59:23,288.288]: host trace 
+[2020-04-05 12:59:23,289.289]: host trace ^
+[2020-04-05 12:59:23,289.289]: host trace ^
+[2020-04-05 12:59:23,290.290]: host trace 
+[2020-04-05 12:59:49,821.821]: could not open port 'COM4': WindowsError(5, '\xbe\xdc\xbe\xf8\xb7\xc3\xce\xca\xa1\xa3')
+Traceback (most recent call last):
+  File "main.py", line 473, in handle_open_com
+  File "host_trace.pyo", line 492, in open
+  File "serial\serialwin32.pyo", line 31, in __init__
+  File "serial\serialutil.pyo", line 180, in __init__
+  File "serial\serialwin32.pyo", line 62, in open
+SerialException: could not open port 'COM4': WindowsError(5, '\xbe\xdc\xbe\xf8\xb7\xc3\xce\xca\xa1\xa3')
+[2020-04-05 12:59:53,444.444]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,444.444]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,446.446]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,447.447]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,453.453]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,457.457]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,459.459]: host trace Module %d not registered !
+[2020-04-05 12:59:53,463.463]: host trace Module %d not registered !
+[2020-04-05 12:59:53,467.467]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,470.470]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,474.474]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,480.480]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,486.486]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,489.489]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,493.493]: host trace Module %d not registered !
+[2020-04-05 12:59:53,497.497]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,500.500]: host trace Module %d not registered !
+[2020-04-05 12:59:53,505.505]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,507.507]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,512.512]: host trace Module %d not registered !
+[2020-04-05 12:59:53,516.516]: host trace Module %d not registered !
+[2020-04-05 12:59:53,522.522]: host trace Module %d not registered !
+[2020-04-05 12:59:53,523.523]: host trace Module %d not registered !
+[2020-04-05 12:59:53,528.528]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 12:59:53,529.529]: host trace Module %d not registered !
+[2020-04-05 12:59:53,535.535]: host trace Module %d not registered !
+[2020-04-05 12:59:53,536.536]: host trace 
+[2020-04-05 12:59:53,542.542]: host trace 
+[2020-04-05 12:59:53,543.543]: host trace 
+[2020-04-05 12:59:53,546.546]: host trace 
+[2020-04-05 12:59:53,551.551]: host trace 
+[2020-04-05 12:59:53,553.553]: host trace 
+[2020-04-05 12:59:53,556.556]: host trace 
+[2020-04-05 12:59:53,559.559]: host trace 
+[2020-04-05 12:59:53,562.562]: host trace 
+[2020-04-05 12:59:53,565.565]: host trace 
+[2020-04-05 12:59:53,569.569]: host trace 
+[2020-04-05 12:59:53,572.572]: host trace 
+[2020-04-05 12:59:53,575.575]: host trace 
+[2020-04-05 12:59:53,578.578]: host trace 
+[2020-04-05 12:59:53,579.579]: host trace 
+[2020-04-05 12:59:53,584.584]: host trace 
+[2020-04-05 12:59:53,586.586]: host trace 
+[2020-04-05 12:59:53,588.588]: host trace 
+[2020-04-05 12:59:53,591.591]: host trace 
+[2020-04-05 12:59:53,594.594]: host trace 
+[2020-04-05 12:59:53,595.595]: host trace 
+[2020-04-05 12:59:53,599.599]: host trace 
+[2020-04-05 12:59:53,602.602]: host trace 
+[2020-04-05 12:59:53,605.605]: host trace 
+[2020-04-05 12:59:53,608.608]: host trace 
+[2020-04-05 12:59:53,611.611]: host trace 
+[2020-04-05 12:59:53,612.612]: host trace 
+[2020-04-05 12:59:53,615.615]: host trace 
+[2020-04-05 12:59:53,618.618]: host trace 
+[2020-04-05 12:59:53,622.622]: host trace 
+[2020-04-05 12:59:53,625.625]: host trace 
+[2020-04-05 12:59:53,628.628]: host trace 
+[2020-04-05 12:59:53,631.631]: host trace 
+[2020-04-05 12:59:53,637.637]: host trace 
+[2020-04-05 12:59:53,638.638]: host trace 
+[2020-04-05 12:59:53,642.642]: host trace 
+[2020-04-05 12:59:53,645.645]: host trace 
+[2020-04-05 12:59:53,648.648]: host trace 
+[2020-04-05 12:59:53,651.651]: host trace 
+[2020-04-05 12:59:53,654.654]: host trace 
+[2020-04-05 12:59:53,655.655]: host trace 
+[2020-04-05 12:59:53,657.657]: host trace 
+[2020-04-05 12:59:53,661.661]: host trace 
+[2020-04-05 12:59:53,663.663]: host trace 
+[2020-04-05 12:59:53,664.664]: host trace 
+[2020-04-05 12:59:53,670.670]: host trace 
+[2020-04-05 12:59:53,671.671]: host trace 
+[2020-04-05 12:59:53,674.674]: host trace 
+[2020-04-05 12:59:53,677.677]: host trace 
+[2020-04-05 12:59:53,680.680]: host trace 
+[2020-04-05 12:59:53,681.681]: host trace 
+[2020-04-05 12:59:53,686.686]: host trace 
+[2020-04-05 12:59:53,688.688]: host trace 
+[2020-04-05 12:59:53,690.690]: host trace 
+[2020-04-05 12:59:53,694.694]: host trace 
+[2020-04-05 12:59:53,696.696]: host trace 
+[2020-04-05 12:59:53,698.698]: host trace 
+[2020-04-05 12:59:53,701.701]: host trace 
+[2020-04-05 12:59:53,704.704]: host trace 
+[2020-04-05 12:59:53,707.707]: host trace 
+[2020-04-05 12:59:53,710.710]: host trace 
+[2020-04-05 12:59:53,711.711]: host trace 
+[2020-04-05 12:59:53,714.714]: host trace 
+[2020-04-05 12:59:53,719.719]: host trace 
+[2020-04-05 12:59:53,721.721]: host trace 
+[2020-04-05 12:59:53,724.724]: host trace 
+[2020-04-05 12:59:53,726.726]: host trace 
+[2020-04-05 12:59:53,730.730]: host trace ML_InitISO8859_1
+
+[2020-04-05 12:59:53,732.732]: host trace Reg Check ok.record count = 25, reg size = 4564.
+[2020-04-05 12:59:53,736.736]: host trace [ERROR]: src/sms_dm_api.c(451) :NULL
+
+[2020-04-05 12:59:53,737.737]: host trace ^
+[2020-04-05 12:59:53,740.740]: host trace SIM reset buffer: %#x
+[2020-04-05 12:59:53,743.743]: host trace SIM:  argEnd Timeout
+[2020-04-05 12:59:53,746.746]: host trace SIM reset buffer: %#x
+[2020-04-05 12:59:53,747.747]: host trace SIM:  argEnd Timeout
+[2020-04-05 12:59:53,752.752]: host trace LJD VSIM sim_SetNextVoltage:1048,sim_present=0,IsVsim=0
+[2020-04-05 12:59:53,756.756]: host trace AT SOFTVERSION:AirM2M_V5984_AT_S_TTS
+
+[2020-04-05 12:59:53,756.756]: host trace [network] sim present 0
+[2020-04-05 12:59:53,756.756]: host trace 
+[2020-04-05 12:59:53,756.756]: host trace ^
+[2020-04-05 12:59:53,756.756]: host trace ^
+[2020-04-05 12:59:53,756.756]: host trace 
+[2020-04-05 12:59:54,023.023]: host trace SynchChange[%d,%d]
+[2020-04-05 12:59:54,028.028]: host trace 
+[2020-04-05 12:59:54,029.029]: host trace 
+[2020-04-05 12:59:54,030.030]: host trace [network] psStatus=0, pdpStatus=0
+[2020-04-05 12:59:54,030.030]: host trace [network] OPENAT_NetworkStatusChangeInd  state 0
+[2020-04-05 13:00:26,490.490]: host event 0x89550002
+[2020-04-05 13:00:26,492.492]: host event 0x07778888
+[2020-04-05 13:00:26,493.493]: host event 0x07778889
+[2020-04-05 13:00:26,494.494]: host event 0x077788a0
+[2020-04-05 13:00:26,496.496]: host event 0x077788b0
+[2020-04-05 13:00:26,496.496]: host event 0x077788b1
+[2020-04-05 13:00:26,497.497]: host event 0x09999092
+[2020-04-05 13:00:26,497.497]: host event 0x09999093
+[2020-04-05 13:00:26,499.499]: host event 0x09999098
+[2020-04-05 13:00:26,500.500]: host event 0x09999099
+[2020-04-05 13:00:26,500.500]: host event 0x0999909a
+[2020-04-05 13:00:26,500.500]: host event 0x00000004
+[2020-04-05 13:00:26,502.502]: host event 0x66660021
+[2020-04-05 13:00:26,503.503]: host event 0x0000000f
+[2020-04-05 13:00:26,503.503]: host event 0x00000000
+[2020-04-05 13:00:26,517.517]: host event 0x888888df
+[2020-04-05 13:00:26,519.519]: host event 0x888888cf
+[2020-04-05 13:00:26,520.520]: host event 0x95555667
+[2020-04-05 13:00:26,523.523]: host event 0x9555566a
+[2020-04-05 13:00:26,525.525]: host event 0x9555566b
+[2020-04-05 13:00:26,526.526]: host event 0x95555668
+[2020-04-05 13:00:26,526.526]: host event 0x001660c8
+[2020-04-05 13:00:26,526.526]: host event 0x85555667
+[2020-04-05 13:00:26,528.528]: host event 0x55555667
+[2020-04-05 13:00:26,529.529]: host event 0x00000a00
+[2020-04-05 13:00:26,529.529]: host event 0x8888889f
+[2020-04-05 13:00:26,530.530]: host event 0x077788b2
+[2020-04-05 13:00:26,532.532]: host event 0x077788c0
+[2020-04-05 13:00:26,532.532]: host event 0x077788d0
+[2020-04-05 13:00:26,658.658]: host event 0x00000057
+[2020-04-05 13:00:26,661.661]: host event 0x0eeeeee0
+[2020-04-05 13:00:26,661.661]: host event 0x0eeeeee1
+[2020-04-05 13:00:26,663.663]: host event 0xca1bc2c0
+[2020-04-05 13:00:26,664.664]: host event 0x0eeeeee2
+[2020-04-05 13:00:26,664.664]: host event 0x0eeeeee3
+[2020-04-05 13:00:26,664.664]: host event 0x0eeeeee4
+[2020-04-05 13:00:26,665.665]: host event 0x0eeeeee5
+[2020-04-05 13:00:26,667.667]: host event 0x9999a244
+[2020-04-05 13:00:26,667.667]: host event 0x77770006
+[2020-04-05 13:00:26,677.677]: host event 0x0eeeeee7
+[2020-04-05 13:00:26,680.680]: host event 0x0eeeeee8
+[2020-04-05 13:00:26,680.680]: host event 0x0eeeeee9
+[2020-04-05 13:00:26,681.681]: host event 0x0eeeeeea
+[2020-04-05 13:00:26,684.684]: host event 0x0eeeeeeb
+[2020-04-05 13:00:26,684.684]: host event 0x0eeeeeef
+[2020-04-05 13:00:26,684.684]: host event 0x0eeeeef1
+[2020-04-05 13:00:26,686.686]: host event 0x0eeeeef2
+[2020-04-05 13:00:26,687.687]: host event 0x0eeeeef3
+[2020-04-05 13:00:26,687.687]: host event 0x0eeeeef4
+[2020-04-05 13:00:26,688.688]: host event 0x0eeeeef6
+[2020-04-05 13:00:26,690.690]: host event 0x0eeeeef7
+[2020-04-05 13:00:26,691.691]: host event 0x0eeeeef8
+[2020-04-05 13:00:26,693.693]: host event 0x0eeeeef9
+[2020-04-05 13:00:26,694.694]: host event 0x00000059
+[2020-04-05 13:00:26,704.704]: host event 0xba1ba111
+[2020-04-05 13:00:26,707.707]: host event 0xba1ba112
+[2020-04-05 13:00:26,707.707]: host event 0xba1ba113
+[2020-04-05 13:00:26,709.709]: host event 0xba1ba113
+[2020-04-05 13:00:26,729.729]: host event 0xaaaa001e
+[2020-04-05 13:00:26,730.730]: host event 0x00000064
+[2020-04-05 13:00:26,730.730]: host event 0xaaaa001e
+[2020-04-05 13:00:26,732.732]: host event 0x00000032
+[2020-04-05 13:00:26,750.750]: host event 0xba1ba114
+[2020-04-05 13:00:26,753.753]: host event 0xba1ba115
+[2020-04-05 13:00:26,755.755]: host event 0xba1ba116
+[2020-04-05 13:00:26,756.756]: host event 0xba1ba117
+[2020-04-05 13:00:26,756.756]: host event 0xba1ba118
+[2020-04-05 13:00:26,757.757]: host event 0xba1ba119
+[2020-04-05 13:00:26,759.759]: host event 0xba1ba120
+[2020-04-05 13:00:26,759.759]: host event 0xba1ba121
+[2020-04-05 13:00:26,776.776]: host event 0xba1ba122
+[2020-04-05 13:00:26,778.778]: host event 0xba1ba123
+[2020-04-05 13:00:26,779.779]: host event 0xba1ba124
+[2020-04-05 13:00:26,780.780]: host event 0xba1ba135
+[2020-04-05 13:00:26,782.782]: host event 0xba1ba125
+[2020-04-05 13:00:26,782.782]: host event 0xabcdef02
+[2020-04-05 13:00:26,783.783]: host event 0xabcdeaa1
+[2020-04-05 13:00:26,785.785]: host event 0xabcdeaa1
+[2020-04-05 13:00:26,786.786]: host event 0xba1ba129
+[2020-04-05 13:00:26,788.788]: host event 0xba1ba130
+[2020-04-05 13:00:26,789.789]: host event 0xba1ba131
+[2020-04-05 13:00:26,789.789]: host event 0xba1ba132
+[2020-04-05 13:00:26,790.790]: host event 0xba1ba133
+[2020-04-05 13:00:26,792.792]: host event 0xba1ba134
+[2020-04-05 13:00:26,792.792]: host event 0xffffff03
+[2020-04-05 13:00:26,793.793]: host event 0xffffaa00
+[2020-04-05 13:00:26,795.795]: host event 0xba1ba136
+[2020-04-05 13:00:26,805.805]: host event 0x19191900
+[2020-04-05 13:00:26,888.888]: host event 0x713effff
+[2020-04-05 13:00:26,890.890]: host event 0x00000601
+[2020-04-05 13:00:27,940.940]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,941.941]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,943.943]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,944.944]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,944.944]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,951.951]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,954.954]: host trace Module %d not registered !
+[2020-04-05 13:00:27,959.959]: host trace Module %d not registered !
+[2020-04-05 13:00:27,961.961]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,964.964]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,969.969]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,971.971]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,976.976]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,980.980]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,983.983]: host trace Module %d not registered !
+[2020-04-05 13:00:27,986.986]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,989.989]: host trace Module %d not registered !
+[2020-04-05 13:00:27,993.993]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,996.996]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:27,999.999]: host trace Module %d not registered !
+[2020-04-05 13:00:28,000.000]: host trace Module %d not registered !
+[2020-04-05 13:00:28,003.003]: host trace Module %d not registered !
+[2020-04-05 13:00:28,006.006]: host trace Module %d not registered !
+[2020-04-05 13:00:28,009.009]: host trace %s
+ number: %d - date: %d - revision: %d.
+[2020-04-05 13:00:28,010.010]: host trace Module %d not registered !
+[2020-04-05 13:00:28,013.013]: host trace Module %d not registered !
+[2020-04-05 13:00:28,015.015]: host trace 
+[2020-04-05 13:00:28,016.016]: host trace 
+[2020-04-05 13:00:28,019.019]: host trace 
+[2020-04-05 13:00:28,020.020]: host trace 
+[2020-04-05 13:00:28,023.023]: host trace 
+[2020-04-05 13:00:28,026.026]: host trace 
+[2020-04-05 13:00:28,028.028]: host trace 
+[2020-04-05 13:00:28,029.029]: host trace 
+[2020-04-05 13:00:28,032.032]: host trace 
+[2020-04-05 13:00:28,035.035]: host trace 
+[2020-04-05 13:00:28,036.036]: host trace 
+[2020-04-05 13:00:28,039.039]: host trace 
+[2020-04-05 13:00:28,042.042]: host trace 
+[2020-04-05 13:00:28,045.045]: host trace 
+[2020-04-05 13:00:28,046.046]: host trace 
+[2020-04-05 13:00:28,049.049]: host trace 
+[2020-04-05 13:00:28,052.052]: host trace 
+[2020-04-05 13:00:28,055.055]: host trace 
+[2020-04-05 13:00:28,056.056]: host trace 
+[2020-04-05 13:00:28,059.059]: host trace 
+[2020-04-05 13:00:28,062.062]: host trace 
+[2020-04-05 13:00:28,063.063]: host trace 
+[2020-04-05 13:00:28,065.065]: host trace 
+[2020-04-05 13:00:28,068.068]: host trace 
+[2020-04-05 13:00:28,071.071]: host trace 
+[2020-04-05 13:00:28,073.073]: host trace 
+[2020-04-05 13:00:28,075.075]: host trace 
+[2020-04-05 13:00:28,078.078]: host trace 
+[2020-04-05 13:00:28,081.081]: host trace 
+[2020-04-05 13:00:28,082.082]: host trace 
+[2020-04-05 13:00:28,085.085]: host trace 
+[2020-04-05 13:00:28,088.088]: host trace 
+[2020-04-05 13:00:28,091.091]: host trace 
+[2020-04-05 13:00:28,094.094]: host trace 
+[2020-04-05 13:00:28,096.096]: host trace 
+[2020-04-05 13:00:28,098.098]: host trace 
+[2020-04-05 13:00:28,101.101]: host trace 
+[2020-04-05 13:00:28,104.104]: host trace 
+[2020-04-05 13:00:28,107.107]: host trace 
+[2020-04-05 13:00:28,109.109]: host trace 
+[2020-04-05 13:00:28,111.111]: host trace 
+[2020-04-05 13:00:28,114.114]: host trace 
+[2020-04-05 13:00:28,117.117]: host trace 
+[2020-04-05 13:00:28,118.118]: host trace 
+[2020-04-05 13:00:28,121.121]: host trace 
+[2020-04-05 13:00:28,125.125]: host trace 
+[2020-04-05 13:00:28,128.128]: host trace 
+[2020-04-05 13:00:28,131.131]: host trace 
+[2020-04-05 13:00:28,132.132]: host trace 
+[2020-04-05 13:00:28,135.135]: host trace 
+[2020-04-05 13:00:28,138.138]: host trace 
+[2020-04-05 13:00:28,141.141]: host trace 
+[2020-04-05 13:00:28,144.144]: host trace 
+[2020-04-05 13:00:28,147.147]: host trace 
+[2020-04-05 13:00:28,148.148]: host trace 
+[2020-04-05 13:00:28,151.151]: host trace 
+[2020-04-05 13:00:28,154.154]: host trace 
+[2020-04-05 13:00:28,155.155]: host trace 
+[2020-04-05 13:00:28,160.160]: host trace 
+[2020-04-05 13:00:28,161.161]: host trace 
+[2020-04-05 13:00:28,164.164]: host trace 
+[2020-04-05 13:00:28,167.167]: host trace 
+[2020-04-05 13:00:28,170.170]: host trace 
+[2020-04-05 13:00:28,171.171]: host trace 
+[2020-04-05 13:00:28,177.177]: host trace 
+[2020-04-05 13:00:28,178.178]: host trace 
+[2020-04-05 13:00:28,180.180]: host trace 
+[2020-04-05 13:00:28,184.184]: host trace ML_InitISO8859_1
+
+[2020-04-05 13:00:28,187.187]: host trace Reg Check ok.record count = 25, reg size = 4564.
+[2020-04-05 13:00:28,188.188]: host trace [ERROR]: src/sms_dm_api.c(451) :NULL
+
+[2020-04-05 13:00:28,193.193]: host trace ^
+[2020-04-05 13:00:28,194.194]: host trace SIM reset buffer: %#x
+[2020-04-05 13:00:28,197.197]: host trace SIM:  argEnd Timeout
+[2020-04-05 13:00:28,200.200]: host trace SIM reset buffer: %#x
+[2020-04-05 13:00:28,201.201]: host trace SIM:  argEnd Timeout
+[2020-04-05 13:00:28,204.204]: host trace LJD VSIM sim_SetNextVoltage:1048,sim_present=0,IsVsim=0
+[2020-04-05 13:00:28,207.207]: host trace [network] sim present 0
+[2020-04-05 13:00:28,213.213]: host trace AT SOFTVERSION:AirM2M_V5984_AT_S_TTS
+
+[2020-04-05 13:00:28,213.213]: host trace 
+[2020-04-05 13:00:28,213.213]: host trace ^
+[2020-04-05 13:00:28,213.213]: host trace ^
+[2020-04-05 13:00:28,213.213]: host trace 
+[2020-04-05 13:00:31,443.443]: host trace SynchChange[%d,%d]
+[2020-04-05 13:00:31,447.447]: host trace 
+[2020-04-05 13:00:31,448.448]: host trace [network] psStatus=0, pdpStatus=0
+[2020-04-05 13:00:31,448.448]: host trace [network] OPENAT_NetworkStatusChangeInd  state 0
+[2020-04-05 13:01:17,118.118]: host trace SIM reset buffer: %#x
+[2020-04-05 13:01:17,140.140]: host trace SIM:  argEnd Timeout
+[2020-04-05 13:01:17,203.203]: host trace SIM reset buffer: %#x
+[2020-04-05 13:01:17,223.223]: host trace SIM:  argEnd Timeout
+[2020-04-05 13:19:47,105.105]: could not open port 'COM4': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
+Traceback (most recent call last):
+  File "main.py", line 473, in handle_open_com
+  File "host_trace.pyo", line 492, in open
+  File "serial\serialwin32.pyo", line 31, in __init__
+  File "serial\serialutil.pyo", line 180, in __init__
+  File "serial\serialwin32.pyo", line 62, in open
+SerialException: could not open port 'COM4': WindowsError(2, '\xcf\xb5\xcd\xb3\xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xce\xc4\xbc\xfe\xa1\xa3')
+[2020-04-05 13:19:51,441.441]: host event 0x8181e810
+[2020-04-05 13:19:52,091.091]: host trace CDFU_LoadSection: %d-%d
+
+[2020-04-05 13:19:52,092.092]: host trace ====================================
+[2020-04-05 13:19:52,092.092]: host trace INTR VER :Luat_V0038_8955
+[2020-04-05 13:19:52,094.094]: host trace BASE VER :B6005
+[2020-04-05 13:19:52,095.095]: host trace SCRIPT ADDR :0x00260000
+[2020-04-05 13:19:52,095.095]: host trace SCRIPT SIZE :0x000b0000
+[2020-04-05 13:19:52,095.095]: host trace BASE   ADDR :0x00210000
+[2020-04-05 13:19:52,096.096]: host trace BASE   SIZE :0x00050000
+[2020-04-05 13:19:52,098.098]: host trace ====================================
+[2020-04-05 13:19:52,098.098]: host trace [cust_task_main]: Enter message loop
+[2020-04-05 13:19:52,099.099]: host trace lualibc_fopen_ext /integrity.bin rb 0 1 2
+[2020-04-05 13:19:52,099.099]: host trace lualibc_fopen_ext /integrity.bin rb 0 1 2
+[2020-04-05 13:19:52,101.101]: host trace INTEGRITY file correct!
+[2020-04-05 13:19:52,101.101]: host trace FH:file=/lua/utils.lua,len=4108,offset=74370
+[2020-04-05 13:19:52,102.102]: host trace FH:file=/lua/testCall.lua,len=836,offset=73507
+[2020-04-05 13:19:52,102.102]: host trace FH:file=/lua/sys.lua,len=6183,offset=67294
+[2020-04-05 13:19:52,104.104]: host trace FH:file=/lua/socket.lua,len=14801,offset=52468
+[2020-04-05 13:19:52,105.105]: host trace FH:file=/lua/sim.lua,len=1684,offset=50756
+[2020-04-05 13:19:52,105.105]: host trace FH:file=/lua/ril.lua,len=8325,offset=42406
+[2020-04-05 13:19:52,105.105]: host trace FH:file=/lua/pm.lua,len=474,offset=41907
+[2020-04-05 13:19:52,107.107]: host trace FH:file=/lua/patch.lua,len=2097,offset=39786
+[2020-04-05 13:19:52,108.108]: host trace FH:file=/lua/net.lua,len=5310,offset=34449
+[2020-04-05 13:19:52,108.108]: host trace FH:file=/lua/misc.lua,len=3368,offset=31056
+[2020-04-05 13:19:52,108.108]: host trace FH:file=/lua/main.lua,len=300,offset=30730
+[2020-04-05 13:19:52,109.109]: host trace FH:file=/lua/log.lua,len=1174,offset=29530
+[2020-04-05 13:19:52,111.111]: host trace FH:file=/lua/link.lua,len=2839,offset=26666
+[2020-04-05 13:19:52,111.111]: host trace FH:file=/lua/http.lua,len=6716,offset=19924
+[2020-04-05 13:19:52,111.111]: host trace FH:file=/lua/errDump.lua,len=4335,offset=15563
+[2020-04-05 13:19:52,112.112]: host trace FH:file=/lua/common.lua,len=4186,offset=11348
+[2020-04-05 13:19:52,114.114]: host trace FH:file=/lua/clib.lua,len=491,offset=10829
+[2020-04-05 13:19:52,115.115]: host trace FH:file=/lua/cc.lua,len=3713,offset=7090
+[2020-04-05 13:19:52,115.115]: host trace FH:file=/lua/audio.lua,len=7015,offset=51
+[2020-04-05 13:19:52,115.115]: host trace parse_luadb_data:delupdpack=0,err=0,section=1,wrFile=0
+[2020-04-05 13:19:52,117.117]: host trace [fopen_ext]: /lua/main.lua 2!
+[2020-04-05 13:19:52,118.118]: host trace RUN main.lua
+[2020-04-05 13:19:52,118.118]: host trace [fopen_ext]: /lua/main.lua 2!
+[2020-04-05 13:19:52,118.118]: host trace [fopen_ext]: /lua/log.lua 2!
+[2020-04-05 13:19:52,119.119]: host trace [fopen_ext]: /lua/log.lua 2!
+[2020-04-05 13:19:52,119.119]: host trace [fopen_ext]: /lua/sys.lua 2!
+[2020-04-05 13:19:52,121.121]: host trace [fopen_ext]: /lua/sys.lua 2!
+[2020-04-05 13:19:52,121.121]: host trace [fopen_ext]: /lua/utils.lua 2!
+[2020-04-05 13:19:52,122.122]: host trace [fopen_ext]: /lua/utils.lua 2!
+[2020-04-05 13:19:52,124.124]: host trace [fopen_ext]: /lua/patch.lua 2!
+[2020-04-05 13:19:52,124.124]: host trace [fopen_ext]: /lua/patch.lua 2!
+[2020-04-05 13:19:52,125.125]: host trace [fopen_ext]: /lua/pm.lua 2!
+[2020-04-05 13:19:52,125.125]: host trace [fopen_ext]: /lua/pm.lua 2!
+[2020-04-05 13:19:52,127.127]: host trace [fopen_ext]: /lua/clib.lua 2!
+[2020-04-05 13:19:52,128.128]: host trace [fopen_ext]: /lua/clib.lua 2!
+[2020-04-05 13:19:52,128.128]: host trace [fopen_ext]: /lua/net.lua 2!
+[2020-04-05 13:19:52,128.128]: host trace [fopen_ext]: /lua/net.lua 2!
+[2020-04-05 13:19:52,130.130]: host trace [fopen_ext]: /lua/ril.lua 2!
+[2020-04-05 13:19:52,131.131]: host trace [fopen_ext]: /lua/ril.lua 2!
+[2020-04-05 13:19:52,132.132]: host trace [fopen_ext]: /lua/sim.lua 2!
+[2020-04-05 13:19:52,132.132]: host trace [fopen_ext]: /lua/sim.lua 2!
+[2020-04-05 13:19:52,134.134]: host trace [fopen_ext]: /lua/errDump.lua 2!
+[2020-04-05 13:19:52,134.134]: host trace [fopen_ext]: /lua/errDump.lua 2!
+[2020-04-05 13:19:52,135.135]: host trace [fopen_ext]: /lua/socket.lua 2!
+[2020-04-05 13:19:52,137.137]: host trace [fopen_ext]: /lua/socket.lua 2!
+[2020-04-05 13:19:52,138.138]: host trace [fopen_ext]: /lua/link.lua 2!
+[2020-04-05 13:19:52,138.138]: host trace [fopen_ext]: /lua/link.lua 2!
+[2020-04-05 13:19:52,138.138]: host trace [fopen_ext]: /lua/misc.lua 2!
+[2020-04-05 13:19:52,138.138]: host trace [fopen_ext]: /lua/misc.lua 2!
+[2020-04-05 13:19:52,140.140]: host trace [fopen_ext]: /lua/testCall.lua 2!
+[2020-04-05 13:19:52,141.141]: host trace [fopen_ext]: /lua/testCall.lua 2!
+[2020-04-05 13:19:52,141.141]: host trace [fopen_ext]: /lua/cc.lua 2!
+[2020-04-05 13:19:52,142.142]: host trace [fopen_ext]: /lua/cc.lua 2!
+[2020-04-05 13:19:52,144.144]: host trace [fopen_ext]: /lua/audio.lua 2!
+[2020-04-05 13:19:52,144.144]: host trace [fopen_ext]: /lua/audio.lua 2!
+[2020-04-05 13:19:52,144.144]: host trace [fopen_ext]: /lua/common.lua 2!
+[2020-04-05 13:19:52,145.145]: host trace [fopen_ext]: /lua/common.lua 2!
+[2020-04-05 13:19:52,148.148]: host trace [I]-[poweron reason:]	0	CALL	2.0.0	2.3.5	Luat_V0038_8955
+[2020-04-05 13:19:52,148.148]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,150.150]: host trace [I]-[ril.proatc]	RDY
+[2020-04-05 13:19:52,151.151]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,151.151]: host trace [I]-[ril.proatc]	+CFUN: 1
+[2020-04-05 13:19:52,151.151]: host trace [I]-[ril.defurc]	+CFUN: 1
+[2020-04-05 13:19:52,154.154]: host trace [I]-[ril.sendat]	ATE0
+[2020-04-05 13:19:52,154.154]: host trace [I]-[ril.proatc]	ATE0
+[2020-04-05 13:19:52,154.154]: host trace [I]-[ril.defurc]	ATE0
+[2020-04-05 13:19:52,155.155]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,157.157]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,157.157]: host trace [I]-[ril.defrsp]	ATE0	true	OK	nil
+[2020-04-05 13:19:52,158.158]: host trace [I]-[ril.sendat]	AT+CMEE=0
+[2020-04-05 13:19:52,161.161]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,161.161]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,161.161]: host trace [I]-[ril.defrsp]	AT+CMEE=0	true	OK	nil
+[2020-04-05 13:19:52,164.164]: host trace [I]-[ril.sendat]	AT+STON=0
+[2020-04-05 13:19:52,164.164]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,165.165]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,167.167]: host trace [I]-[ril.defrsp]	AT+STON=0	true	OK	nil
+[2020-04-05 13:19:52,167.167]: host trace [I]-[ril.sendat]	AT+CREG=2
+[2020-04-05 13:19:52,168.168]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,170.170]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,171.171]: host trace [I]-[ril.defrsp]	AT+CREG=2	true	OK	nil
+[2020-04-05 13:19:52,171.171]: host trace [I]-[ril.sendat]	AT+CREG?
+[2020-04-05 13:19:52,173.173]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,174.174]: host trace [I]-[ril.proatc]	+CREG: 2,0
+[2020-04-05 13:19:52,174.174]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,176.176]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,177.177]: host trace [I]-[ril.defrsp]	AT+CREG?	true	OK	nil
+[2020-04-05 13:19:52,177.177]: host trace [I]-[ril.sendat]	AT+CENG=1,1
+[2020-04-05 13:19:52,178.178]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,180.180]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,180.180]: host trace [I]-[net.rsp]	AT+CENG=1,1	true	OK	nil
+[2020-04-05 13:19:52,181.181]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-05 13:19:52,183.183]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,184.184]: host trace [I]-[ril.proatc]	+CSQ: 0,0
+[2020-04-05 13:19:52,184.184]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,186.186]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,187.187]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 0,0
+[2020-04-05 13:19:52,187.187]: host trace [I]-[ril.sendat]	AT+CENG?
+[2020-04-05 13:19:52,188.188]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,190.190]: host trace [I]-[ril.proatc]	+CENG:1,1
+[2020-04-05 13:19:52,190.190]: host trace [I]-[ril.proatc]	+CENG:0,"0000,00,00,000,00,00,0000,00,00,0000,00"
+[2020-04-05 13:19:52,191.191]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,193.193]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,194.194]: host trace [I]-[net.rsp]	AT+CENG?	true	OK	nil
+[2020-04-05 13:19:52,194.194]: host trace [I]-[ril.sendat]	AT+TCPUSERPARAM=6,4,7200,16
+[2020-04-05 13:19:52,196.196]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,197.197]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,197.197]: host trace [I]-[ril.defrsp]	AT+TCPUSERPARAM=6,4,7200,16	true	OK	nil
+[2020-04-05 13:19:52,198.198]: host trace [I]-[ril.sendat]	AT+VER
+[2020-04-05 13:19:52,200.200]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,200.200]: host trace [I]-[ril.proatc]	SW_V6005_Air202_LUA
+[2020-04-05 13:19:52,201.201]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,203.203]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,203.203]: host trace [I]-[ril.sendat]	AT+ATWMFT=99
+[2020-04-05 13:19:52,204.204]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,206.206]: host trace [I]-[ril.proatc]	SUCC
+[2020-04-05 13:19:52,206.206]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,207.207]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,207.207]: host trace [I]-[misc.ATWMFT]	SUCC
+[2020-04-05 13:19:52,209.209]: host trace [I]-[ril.sendat]	AT+WISN?
+[2020-04-05 13:19:52,210.210]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,210.210]: host trace [I]-[ril.proatc]	gLqjE06135727504
+[2020-04-05 13:19:52,211.211]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,213.213]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,213.213]: host trace [I]-[ril.sendat]	AT+CGSN
+[2020-04-05 13:19:52,214.214]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,216.216]: host trace [I]-[ril.proatc]	862285036323123
+[2020-04-05 13:19:52,217.217]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,217.217]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,217.217]: host trace [I]-[ril.sendat]	AT+MUID?
+[2020-04-05 13:19:52,220.220]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,220.220]: host trace [I]-[ril.proatc]	+MUID: "20190530002800A773950A4586598190"
+[2020-04-05 13:19:52,221.221]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,221.221]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,223.223]: host trace [I]-[ril.sendat]	ATX4
+[2020-04-05 13:19:52,223.223]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,224.224]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,224.224]: host trace [I]-[ril.defrsp]	ATX4	true	OK	nil
+[2020-04-05 13:19:52,226.226]: host trace [I]-[ril.sendat]	AT+CLIP=1
+[2020-04-05 13:19:52,227.227]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,229.229]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,230.230]: host trace [I]-[ril.defrsp]	AT+CLIP=1	true	OK	nil
+[2020-04-05 13:19:52,230.230]: host trace [I]-[ril.sendat]	ATS7=60
+[2020-04-05 13:19:52,232.232]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,233.233]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,233.233]: host trace [I]-[ril.defrsp]	ATS7=60	true	OK	nil
+[2020-04-05 13:19:52,234.234]: host trace [I]-[ril.sendat]	AT+CMIC=2,1
+[2020-04-05 13:19:52,236.236]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,236.236]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,239.239]: host trace [I]-[ril.sendat]	AT+DTMFDET=2,1,3
+[2020-04-05 13:19:52,240.240]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,240.240]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,240.240]: host trace [I]-[ril.defrsp]	AT+DTMFDET=2,1,3	true	OK	nil
+[2020-04-05 13:19:52,243.243]: host trace [I]-[ril.sendat]	AT+DTMFDET=1
+[2020-04-05 13:19:52,243.243]: host error data len 0 0000
+[2020-04-05 13:19:52,243.243]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,244.244]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,246.246]: host trace [I]-[ril.defrsp]	AT+DTMFDET=1	true	OK	nil
+[2020-04-05 13:19:52,246.246]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-05 13:19:52,247.247]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,247.247]: host trace [I]-[ril.proatc]	+CSQ: 0,0
+[2020-04-05 13:19:52,250.250]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,250.250]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:52,250.250]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 0,0
+[2020-04-05 13:19:52,252.252]: host trace LJD VSIM sim_ProcessInstruction:2751,sim_present=1,IsVsim=0
+[2020-04-05 13:19:52,358.358]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,358.358]: host trace [I]-[ril.proatc]	+CSIMTYPE: 1,1
+[2020-04-05 13:19:52,359.359]: host trace [I]-[ril.defurc]	+CSIMTYPE: 1,1
+[2020-04-05 13:19:52,361.361]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:52,361.361]: host trace [I]-[ril.proatc]	+CPIN: SIM PIN
+[2020-04-05 13:19:52,362.362]: host trace [I]-[SIM.subscribe]	nil	NORDY
+[2020-04-05 13:19:54,930.930]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:54,934.934]: host trace [I]-[ril.proatc]	+CREG: 3
+[2020-04-05 13:19:54,936.936]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-05 13:19:54,936.936]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:54,938.938]: host trace [I]-[ril.proatc]	+CSQ: 14,0
+[2020-04-05 13:19:54,940.940]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:19:54,943.943]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:19:54,947.947]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 14,0
+[2020-04-05 13:20:24,381.381]: host event 0x89550002
+[2020-04-05 13:20:24,381.381]: host event 0x07778888
+[2020-04-05 13:20:24,382.382]: host event 0x07778889
+[2020-04-05 13:20:24,384.384]: host event 0x077788a0
+[2020-04-05 13:20:24,385.385]: host event 0x077788b0
+[2020-04-05 13:20:24,387.387]: host event 0x077788b1
+[2020-04-05 13:20:24,388.388]: host event 0x09999092
+[2020-04-05 13:20:24,404.404]: host event 0x09999093
+[2020-04-05 13:20:24,405.405]: host event 0x09999098
+[2020-04-05 13:20:24,407.407]: host event 0x09999099
+[2020-04-05 13:20:24,410.410]: host event 0x0999909a
+[2020-04-05 13:20:24,411.411]: host event 0x00000004
+[2020-04-05 13:20:24,414.414]: host event 0x66660021
+[2020-04-05 13:20:24,414.414]: host event 0x0000000f
+[2020-04-05 13:20:24,417.417]: host event 0x00000000
+[2020-04-05 13:20:24,417.417]: host event 0x888888df
+[2020-04-05 13:20:24,418.418]: host event 0x888888cf
+[2020-04-05 13:20:24,420.420]: host event 0x95555667
+[2020-04-05 13:20:24,421.421]: host event 0x9555566a
+[2020-04-05 13:20:24,421.421]: host event 0x9555566b
+[2020-04-05 13:20:24,423.423]: host event 0x95555668
+[2020-04-05 13:20:24,424.424]: host event 0x001660c8
+[2020-04-05 13:20:24,424.424]: host event 0x85555667
+[2020-04-05 13:20:24,424.424]: host event 0x55555667
+[2020-04-05 13:20:24,426.426]: host event 0x00000a00
+[2020-04-05 13:20:24,427.427]: host event 0x8888889f
+[2020-04-05 13:20:24,427.427]: host event 0x077788b2
+[2020-04-05 13:20:24,427.427]: host event 0x077788c0
+[2020-04-05 13:20:24,428.428]: host event 0x077788d0
+[2020-04-05 13:20:24,528.528]: host event 0x00000057
+[2020-04-05 13:20:24,529.529]: host event 0x0eeeeee0
+[2020-04-05 13:20:24,530.530]: host event 0x0eeeeee1
+[2020-04-05 13:20:24,532.532]: host event 0xca1bc2c0
+[2020-04-05 13:20:24,532.532]: host event 0x0eeeeee2
+[2020-04-05 13:20:24,532.532]: host event 0x0eeeeee3
+[2020-04-05 13:20:24,533.533]: host event 0x0eeeeee4
+[2020-04-05 13:20:24,535.535]: host event 0x0eeeeee5
+[2020-04-05 13:20:24,536.536]: host event 0x9999a244
+[2020-04-05 13:20:24,536.536]: host event 0x77770006
+[2020-04-05 13:20:24,538.538]: host event 0x0eeeeee7
+[2020-04-05 13:20:24,539.539]: host event 0x0eeeeee8
+[2020-04-05 13:20:24,539.539]: host event 0x0eeeeee9
+[2020-04-05 13:20:24,542.542]: host event 0x0eeeeeea
+[2020-04-05 13:20:24,542.542]: host event 0x0eeeeeeb
+[2020-04-05 13:20:24,543.543]: host event 0x0eeeeeee
+[2020-04-05 13:20:24,543.543]: host event 0x0eeeeeef
+[2020-04-05 13:20:24,545.545]: host event 0x0eeeeef1
+[2020-04-05 13:20:24,546.546]: host event 0x0eeeeef2
+[2020-04-05 13:20:24,546.546]: host event 0x0eeeeef3
+[2020-04-05 13:20:24,548.548]: host event 0x0eeeeef4
+[2020-04-05 13:20:24,549.549]: host event 0x0eeeeef6
+[2020-04-05 13:20:24,549.549]: host event 0x0eeeeef7
+[2020-04-05 13:20:24,549.549]: host event 0x0eeeeef8
+[2020-04-05 13:20:24,551.551]: host event 0x0eeeeef9
+[2020-04-05 13:20:24,552.552]: host event 0x00000059
+[2020-04-05 13:20:24,884.884]: host trace CDFU_LoadSection: %d-%d
+
+[2020-04-05 13:20:24,904.904]: host event 0xba1ba111
+[2020-04-05 13:20:25,137.137]: host event 0xba1ba112
+[2020-04-05 13:20:25,138.138]: host event 0xba1ba113
+[2020-04-05 13:20:25,138.138]: host event 0xba1ba113
+[2020-04-05 13:20:25,158.158]: host event 0xaaaa001e
+[2020-04-05 13:20:25,161.161]: host event 0x00000064
+[2020-04-05 13:20:25,161.161]: host event 0xaaaa001e
+[2020-04-05 13:20:25,163.163]: host event 0x00000032
+[2020-04-05 13:20:25,164.164]: host event 0xba1ba114
+[2020-04-05 13:20:25,164.164]: host event 0xba1ba115
+[2020-04-05 13:20:25,164.164]: host event 0xba1ba116
+[2020-04-05 13:20:25,165.165]: host event 0xba1ba117
+[2020-04-05 13:20:25,167.167]: host event 0xba1ba118
+[2020-04-05 13:20:25,246.246]: host event 0xba1ba119
+[2020-04-05 13:20:25,246.246]: host event 0xba1ba120
+[2020-04-05 13:20:25,247.247]: host event 0xba1ba121
+[2020-04-05 13:20:25,267.267]: host event 0xba1ba122
+[2020-04-05 13:20:25,269.269]: host event 0xba1ba123
+[2020-04-05 13:20:25,270.270]: host event 0xba1ba124
+[2020-04-05 13:20:25,272.272]: host event 0xba1ba135
+[2020-04-05 13:20:25,273.273]: host event 0xba1ba125
+[2020-04-05 13:20:25,273.273]: host event 0xabcdef02
+[2020-04-05 13:20:25,275.275]: host event 0xabcdeaa1
+[2020-04-05 13:20:25,276.276]: host event 0xabcdeaa1
+[2020-04-05 13:20:25,276.276]: host event 0xba1ba129
+[2020-04-05 13:20:25,292.292]: host event 0xba1ba130
+[2020-04-05 13:20:25,293.293]: host event 0xba1ba131
+[2020-04-05 13:20:25,295.295]: host event 0xba1ba132
+[2020-04-05 13:20:25,296.296]: host event 0xba1ba133
+[2020-04-05 13:20:25,298.298]: host event 0xba1ba134
+[2020-04-05 13:20:25,299.299]: host event 0xffffff03
+[2020-04-05 13:20:25,299.299]: host event 0xffffaa00
+[2020-04-05 13:20:25,302.302]: host event 0xba1ba136
+[2020-04-05 13:20:26,428.428]: host event 0x713effff
+[2020-04-05 13:20:26,430.430]: host event 0x00000000
+[2020-04-05 13:20:26,933.933]: host trace CDFU_LoadSection: %d-%d
+
+[2020-04-05 13:20:26,934.934]: host trace ====================================
+[2020-04-05 13:20:26,941.941]: host trace INTR VER :Luat_V0038_8955
+[2020-04-05 13:20:26,943.943]: host trace BASE VER :B6005
+[2020-04-05 13:20:26,946.946]: host trace SCRIPT ADDR :0x00260000
+[2020-04-05 13:20:26,947.947]: host trace SCRIPT SIZE :0x000b0000
+[2020-04-05 13:20:26,948.948]: host trace BASE   ADDR :0x00210000
+[2020-04-05 13:20:26,950.950]: host trace BASE   SIZE :0x00050000
+[2020-04-05 13:20:26,951.951]: host trace ====================================
+[2020-04-05 13:20:26,953.953]: host trace [cust_task_main]: Enter message loop
+[2020-04-05 13:20:26,954.954]: host trace lualibc_fopen_ext /integrity.bin rb 0 1 2
+[2020-04-05 13:20:26,961.961]: host trace lualibc_fopen_ext /integrity.bin rb 0 1 2
+[2020-04-05 13:20:26,966.966]: host trace INTEGRITY file correct!
+[2020-04-05 13:20:26,969.969]: host trace FH:file=/lua/utils.lua,len=4108,offset=74370
+[2020-04-05 13:20:26,973.973]: host trace FH:file=/lua/testCall.lua,len=836,offset=73507
+[2020-04-05 13:20:26,976.976]: host trace FH:file=/lua/sys.lua,len=6183,offset=67294
+[2020-04-05 13:20:26,979.979]: host trace FH:file=/lua/socket.lua,len=14801,offset=52468
+[2020-04-05 13:20:26,982.982]: host trace FH:file=/lua/sim.lua,len=1684,offset=50756
+[2020-04-05 13:20:26,984.984]: host trace FH:file=/lua/ril.lua,len=8325,offset=42406
+[2020-04-05 13:20:26,987.987]: host trace FH:file=/lua/pm.lua,len=474,offset=41907
+[2020-04-05 13:20:26,990.990]: host trace FH:file=/lua/patch.lua,len=2097,offset=39786
+[2020-04-05 13:20:26,993.993]: host trace FH:file=/lua/net.lua,len=5310,offset=34449
+[2020-04-05 13:20:26,996.996]: host trace FH:file=/lua/misc.lua,len=3368,offset=31056
+[2020-04-05 13:20:26,999.999]: host trace FH:file=/lua/main.lua,len=300,offset=30730
+[2020-04-05 13:20:27,002.002]: host trace FH:file=/lua/log.lua,len=1174,offset=29530
+[2020-04-05 13:20:27,005.005]: host trace FH:file=/lua/link.lua,len=2839,offset=26666
+[2020-04-05 13:20:27,009.009]: host trace FH:file=/lua/http.lua,len=6716,offset=19924
+[2020-04-05 13:20:27,010.010]: host trace FH:file=/lua/errDump.lua,len=4335,offset=15563
+[2020-04-05 13:20:27,015.015]: host trace FH:file=/lua/common.lua,len=4186,offset=11348
+[2020-04-05 13:20:27,017.017]: host trace FH:file=/lua/clib.lua,len=491,offset=10829
+[2020-04-05 13:20:27,022.022]: host trace FH:file=/lua/cc.lua,len=3713,offset=7090
+[2020-04-05 13:20:27,025.025]: host trace FH:file=/lua/audio.lua,len=7015,offset=51
+[2020-04-05 13:20:27,028.028]: host trace parse_luadb_data:delupdpack=0,err=0,section=1,wrFile=0
+[2020-04-05 13:20:27,030.030]: host trace [fopen_ext]: /lua/main.lua 2!
+[2020-04-05 13:20:27,033.033]: host trace RUN main.lua
+[2020-04-05 13:20:27,036.036]: host trace [fopen_ext]: /lua/main.lua 2!
+[2020-04-05 13:20:27,039.039]: host trace [fopen_ext]: /lua/log.lua 2!
+[2020-04-05 13:20:27,042.042]: host trace [fopen_ext]: /lua/log.lua 2!
+[2020-04-05 13:20:27,045.045]: host trace [fopen_ext]: /lua/sys.lua 2!
+[2020-04-05 13:20:27,048.048]: host trace [fopen_ext]: /lua/sys.lua 2!
+[2020-04-05 13:20:27,051.051]: host trace [fopen_ext]: /lua/utils.lua 2!
+[2020-04-05 13:20:27,052.052]: host trace [fopen_ext]: /lua/utils.lua 2!
+[2020-04-05 13:20:27,055.055]: host trace [fopen_ext]: /lua/patch.lua 2!
+[2020-04-05 13:20:27,059.059]: host trace [fopen_ext]: /lua/patch.lua 2!
+[2020-04-05 13:20:27,062.062]: host trace [fopen_ext]: /lua/pm.lua 2!
+[2020-04-05 13:20:27,065.065]: host trace [fopen_ext]: /lua/pm.lua 2!
+[2020-04-05 13:20:27,069.069]: host trace [fopen_ext]: /lua/clib.lua 2!
+[2020-04-05 13:20:27,071.071]: host trace [fopen_ext]: /lua/clib.lua 2!
+[2020-04-05 13:20:27,073.073]: host trace [fopen_ext]: /lua/net.lua 2!
+[2020-04-05 13:20:27,076.076]: host trace [fopen_ext]: /lua/net.lua 2!
+[2020-04-05 13:20:27,079.079]: host trace [fopen_ext]: /lua/ril.lua 2!
+[2020-04-05 13:20:27,082.082]: host trace [fopen_ext]: /lua/ril.lua 2!
+[2020-04-05 13:20:27,085.085]: host trace [fopen_ext]: /lua/sim.lua 2!
+[2020-04-05 13:20:27,088.088]: host trace [fopen_ext]: /lua/sim.lua 2!
+[2020-04-05 13:20:27,092.092]: host trace [fopen_ext]: /lua/errDump.lua 2!
+[2020-04-05 13:20:27,095.095]: host trace [fopen_ext]: /lua/errDump.lua 2!
+[2020-04-05 13:20:27,098.098]: host trace [fopen_ext]: /lua/socket.lua 2!
+[2020-04-05 13:20:27,101.101]: host trace [fopen_ext]: /lua/socket.lua 2!
+[2020-04-05 13:20:27,105.105]: host trace [fopen_ext]: /lua/link.lua 2!
+[2020-04-05 13:20:27,108.108]: host trace [fopen_ext]: /lua/link.lua 2!
+[2020-04-05 13:20:27,111.111]: host trace [fopen_ext]: /lua/misc.lua 2!
+[2020-04-05 13:20:27,114.114]: host trace [fopen_ext]: /lua/misc.lua 2!
+[2020-04-05 13:20:27,115.115]: host trace [fopen_ext]: /lua/testCall.lua 2!
+[2020-04-05 13:20:27,118.118]: host trace [fopen_ext]: /lua/testCall.lua 2!
+[2020-04-05 13:20:27,121.121]: host trace [fopen_ext]: /lua/cc.lua 2!
+[2020-04-05 13:20:27,124.124]: host trace [fopen_ext]: /lua/cc.lua 2!
+[2020-04-05 13:20:27,127.127]: host trace [fopen_ext]: /lua/audio.lua 2!
+[2020-04-05 13:20:27,130.130]: host trace [fopen_ext]: /lua/audio.lua 2!
+[2020-04-05 13:20:27,132.132]: host trace [fopen_ext]: /lua/common.lua 2!
+[2020-04-05 13:20:27,135.135]: host trace [fopen_ext]: /lua/common.lua 2!
+[2020-04-05 13:20:27,262.262]: host trace [I]-[poweron reason:]	7	CALL	2.0.0	2.3.5	Luat_V0038_8955
+[2020-04-05 13:20:27,265.265]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,266.266]: host trace [I]-[ril.proatc]	RDY
+[2020-04-05 13:20:27,269.269]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,272.272]: host trace [I]-[ril.proatc]	+CFUN: 1
+[2020-04-05 13:20:27,275.275]: host trace [I]-[ril.defurc]	+CFUN: 1
+[2020-04-05 13:20:27,276.276]: host trace [I]-[ril.sendat]	ATE0
+[2020-04-05 13:20:27,279.279]: host trace [I]-[ril.proatc]	ATE0
+[2020-04-05 13:20:27,282.282]: host trace [I]-[ril.defurc]	ATE0
+[2020-04-05 13:20:27,283.283]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,286.286]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,288.288]: host trace [I]-[ril.defrsp]	ATE0	true	OK	nil
+[2020-04-05 13:20:27,289.289]: host trace [I]-[ril.sendat]	AT+CMEE=0
+[2020-04-05 13:20:27,292.292]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,296.296]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,299.299]: host trace [I]-[ril.defrsp]	AT+CMEE=0	true	OK	nil
+[2020-04-05 13:20:27,302.302]: host trace [I]-[ril.sendat]	AT+STON=0
+[2020-04-05 13:20:27,305.305]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,309.309]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,312.312]: host trace [I]-[ril.defrsp]	AT+STON=0	true	OK	nil
+[2020-04-05 13:20:27,315.315]: host trace [I]-[ril.sendat]	AT+CREG=2
+[2020-04-05 13:20:27,318.318]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,321.321]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,322.322]: host trace [I]-[ril.defrsp]	AT+CREG=2	true	OK	nil
+[2020-04-05 13:20:27,325.325]: host trace [I]-[ril.sendat]	AT+CREG?
+[2020-04-05 13:20:27,328.328]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,342.342]: host trace [I]-[ril.proatc]	+CREG: 2,0
+[2020-04-05 13:20:27,345.345]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,348.348]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,351.351]: host trace [I]-[ril.defrsp]	AT+CREG?	true	OK	nil
+[2020-04-05 13:20:27,352.352]: host trace [I]-[ril.sendat]	AT+CENG=1,1
+[2020-04-05 13:20:27,355.355]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,357.357]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,358.358]: host trace [I]-[net.rsp]	AT+CENG=1,1	true	OK	nil
+[2020-04-05 13:20:27,361.361]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-05 13:20:27,365.365]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,368.368]: host trace [I]-[ril.proatc]	+CSQ: 0,0
+[2020-04-05 13:20:27,371.371]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,372.372]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,375.375]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 0,0
+[2020-04-05 13:20:27,378.378]: host trace [I]-[ril.sendat]	AT+CENG?
+[2020-04-05 13:20:27,461.461]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,464.464]: host trace [I]-[ril.proatc]	+CENG:1,1
+[2020-04-05 13:20:27,467.467]: host trace [I]-[ril.proatc]	+CENG:0,"0000,00,00,000,00,00,0000,00,00,0000,00"
+[2020-04-05 13:20:27,470.470]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,471.471]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,474.474]: host trace [I]-[net.rsp]	AT+CENG?	true	OK	nil
+[2020-04-05 13:20:27,476.476]: host trace [I]-[ril.sendat]	AT+TCPUSERPARAM=6,4,7200,16
+[2020-04-05 13:20:27,480.480]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,483.483]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,484.484]: host trace [I]-[ril.defrsp]	AT+TCPUSERPARAM=6,4,7200,16	true	OK	nil
+[2020-04-05 13:20:27,486.486]: host trace [I]-[ril.sendat]	AT+VER
+[2020-04-05 13:20:27,490.490]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,493.493]: host trace [I]-[ril.proatc]	SW_V6005_Air202_LUA
+[2020-04-05 13:20:27,496.496]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,499.499]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,500.500]: host trace [I]-[ril.sendat]	AT+ATWMFT=99
+[2020-04-05 13:20:27,503.503]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,506.506]: host trace [I]-[ril.proatc]	SUCC
+[2020-04-05 13:20:27,509.509]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,510.510]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,515.515]: host trace [I]-[misc.ATWMFT]	SUCC
+[2020-04-05 13:20:27,517.517]: host trace [I]-[ril.sendat]	AT+WISN?
+[2020-04-05 13:20:27,520.520]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,523.523]: host trace [I]-[ril.proatc]	gLqjE06135727504
+[2020-04-05 13:20:27,526.526]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,528.528]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,529.529]: host trace [I]-[ril.sendat]	AT+CGSN
+[2020-04-05 13:20:27,532.532]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,533.533]: host trace [I]-[ril.proatc]	862285036323123
+[2020-04-05 13:20:27,536.536]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,538.538]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,539.539]: host trace [I]-[ril.sendat]	AT+MUID?
+[2020-04-05 13:20:27,543.543]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,546.546]: host trace [I]-[ril.proatc]	+MUID: "20190530002800A773950A4586598190"
+[2020-04-05 13:20:27,549.549]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,552.552]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,555.555]: host trace [I]-[ril.sendat]	ATX4
+[2020-04-05 13:20:27,556.556]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,559.559]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,562.562]: host trace [I]-[ril.defrsp]	ATX4	true	OK	nil
+[2020-04-05 13:20:27,565.565]: host trace [I]-[ril.sendat]	AT+CLIP=1
+[2020-04-05 13:20:27,571.571]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,573.573]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,575.575]: host trace [I]-[ril.defrsp]	AT+CLIP=1	true	OK	nil
+[2020-04-05 13:20:27,578.578]: host trace [I]-[ril.sendat]	ATS7=60
+[2020-04-05 13:20:27,582.582]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,584.584]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,585.585]: host trace [I]-[ril.defrsp]	ATS7=60	true	OK	nil
+[2020-04-05 13:20:27,588.588]: host trace [I]-[ril.sendat]	AT+CMIC=2,1
+[2020-04-05 13:20:27,596.596]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,598.598]: host error data len 0 0000
+[2020-04-05 13:20:27,601.601]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,604.604]: host trace [I]-[ril.sendat]	AT+DTMFDET=2,1,3
+[2020-04-05 13:20:27,605.605]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,608.608]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,611.611]: host trace [I]-[ril.defrsp]	AT+DTMFDET=2,1,3	true	OK	nil
+[2020-04-05 13:20:27,612.612]: host trace [I]-[ril.sendat]	AT+DTMFDET=1
+[2020-04-05 13:20:27,615.615]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,618.618]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,619.619]: host trace [I]-[ril.defrsp]	AT+DTMFDET=1	true	OK	nil
+[2020-04-05 13:20:27,624.624]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-05 13:20:27,627.627]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,631.631]: host trace [I]-[ril.proatc]	+CSQ: 0,0
+[2020-04-05 13:20:27,632.632]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:27,635.635]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:27,638.638]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 0,0
+[2020-04-05 13:20:27,986.986]: host trace LJD VSIM sim_ProcessInstruction:2751,sim_present=1,IsVsim=0
+[2020-04-05 13:20:28,239.239]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:28,240.240]: host trace [I]-[ril.proatc]	+CSIMTYPE: 1,1
+[2020-04-05 13:20:28,243.243]: host trace [I]-[ril.defurc]	+CSIMTYPE: 1,1
+[2020-04-05 13:20:28,247.247]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:28,266.266]: host trace [I]-[ril.proatc]	+CPIN: SIM PIN
+[2020-04-05 13:20:28,269.269]: host trace [I]-[SIM.subscribe]	nil	NORDY
+[2020-04-05 13:20:31,631.631]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:31,664.664]: host trace [I]-[ril.proatc]	+CREG: 3
+[2020-04-05 13:20:31,664.664]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-05 13:20:31,664.664]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:31,664.664]: host trace [I]-[ril.proatc]	+CSQ: 11,0
+[2020-04-05 13:20:31,664.664]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:20:31,678.678]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:20:31,678.678]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 11,0
+[2020-04-05 13:21:14,480.480]: host event 0x89550002
+[2020-04-05 13:21:14,480.480]: host event 0x07778888
+[2020-04-05 13:21:14,482.482]: host event 0x07778889
+[2020-04-05 13:21:14,483.483]: host event 0x00000000
+[2020-04-05 13:21:14,483.483]: host event 0x89550002
+[2020-04-05 13:21:14,484.484]: host event 0x07778888
+[2020-04-05 13:21:14,486.486]: host event 0x07778889
+[2020-04-05 13:21:14,487.487]: host event 0x077788a0
+[2020-04-05 13:21:14,489.489]: host event 0x077788b0
+[2020-04-05 13:21:14,490.490]: host event 0x077788b1
+[2020-04-05 13:21:14,561.561]: host event 0x89550002
+[2020-04-05 13:21:14,562.562]: host event 0x07778888
+[2020-04-05 13:21:14,562.562]: host event 0x07778889
+[2020-04-05 13:21:14,563.563]: host event 0x077788a0
+[2020-04-05 13:21:14,565.565]: host event 0x077788b0
+[2020-04-05 13:21:14,566.566]: host event 0x077788b1
+[2020-04-05 13:21:14,568.568]: host event 0x09999092
+[2020-04-05 13:21:14,585.585]: host event 0x09999093
+[2020-04-05 13:21:14,586.586]: host event 0x09999098
+[2020-04-05 13:21:14,588.588]: host event 0x09999099
+[2020-04-05 13:21:14,589.589]: host event 0x0999909a
+[2020-04-05 13:21:14,591.591]: host event 0x00000004
+[2020-04-05 13:21:14,592.592]: host event 0x66660021
+[2020-04-05 13:21:14,592.592]: host event 0x0000000f
+[2020-04-05 13:21:14,595.595]: host event 0x00000000
+[2020-04-05 13:21:14,595.595]: host event 0x888888df
+[2020-04-05 13:21:14,596.596]: host event 0x888888cf
+[2020-04-05 13:21:14,598.598]: host event 0x95555667
+[2020-04-05 13:21:14,598.598]: host event 0x9555566a
+[2020-04-05 13:21:14,599.599]: host event 0x9555566b
+[2020-04-05 13:21:14,601.601]: host event 0x95555668
+[2020-04-05 13:21:14,601.601]: host event 0x001660c8
+[2020-04-05 13:21:14,602.602]: host event 0x85555667
+[2020-04-05 13:21:14,604.604]: host event 0x55555667
+[2020-04-05 13:21:14,605.605]: host event 0x00000a00
+[2020-04-05 13:21:14,605.605]: host event 0x8888889f
+[2020-04-05 13:21:14,607.607]: host event 0x077788b2
+[2020-04-05 13:21:14,608.608]: host event 0x077788c0
+[2020-04-05 13:21:14,608.608]: host event 0x077788d0
+[2020-04-05 13:21:14,704.704]: host event 0x00000057
+[2020-04-05 13:21:14,707.707]: host event 0x0eeeeee0
+[2020-04-05 13:21:14,709.709]: host event 0x0eeeeee1
+[2020-04-05 13:21:14,710.710]: host event 0xca1bc2c0
+[2020-04-05 13:21:14,710.710]: host event 0x0eeeeee2
+[2020-04-05 13:21:14,713.713]: host event 0x0eeeeee3
+[2020-04-05 13:21:14,713.713]: host event 0x0eeeeee4
+[2020-04-05 13:21:14,714.714]: host event 0x0eeeeee5
+[2020-04-05 13:21:14,716.716]: host event 0x9999a244
+[2020-04-05 13:21:14,717.717]: host event 0x77770006
+[2020-04-05 13:21:14,717.717]: host event 0x0eeeeee7
+[2020-04-05 13:21:14,719.719]: host event 0x0eeeeee8
+[2020-04-05 13:21:14,720.720]: host event 0x0eeeeee9
+[2020-04-05 13:21:14,720.720]: host event 0x0eeeeeea
+[2020-04-05 13:21:14,721.721]: host event 0x0eeeeeeb
+[2020-04-05 13:21:14,723.723]: host event 0x0eeeeeee
+[2020-04-05 13:21:14,723.723]: host event 0x0eeeeeef
+[2020-04-05 13:21:14,724.724]: host event 0x0eeeeef1
+[2020-04-05 13:21:14,726.726]: host event 0x0eeeeef2
+[2020-04-05 13:21:14,726.726]: host event 0x0eeeeef3
+[2020-04-05 13:21:14,727.727]: host event 0x0eeeeef4
+[2020-04-05 13:21:14,729.729]: host event 0x0eeeeef6
+[2020-04-05 13:21:14,730.730]: host event 0x0eeeeef7
+[2020-04-05 13:21:14,730.730]: host event 0x0eeeeef8
+[2020-04-05 13:21:14,732.732]: host event 0x0eeeeef9
+[2020-04-05 13:21:14,733.733]: host event 0x00000059
+[2020-04-05 13:21:14,959.959]: host trace CDFU_LoadSection: %d-%d
+
+[2020-04-05 13:21:14,980.980]: host event 0xba1ba111
+[2020-04-05 13:21:15,211.211]: host event 0xba1ba112
+[2020-04-05 13:21:15,213.213]: host event 0xba1ba113
+[2020-04-05 13:21:15,214.214]: host event 0xba1ba113
+[2020-04-05 13:21:15,234.234]: host event 0xaaaa001e
+[2020-04-05 13:21:15,236.236]: host event 0x00000064
+[2020-04-05 13:21:15,237.237]: host event 0xaaaa001e
+[2020-04-05 13:21:15,239.239]: host event 0x00000032
+[2020-04-05 13:21:15,240.240]: host event 0xba1ba114
+[2020-04-05 13:21:15,240.240]: host event 0xba1ba115
+[2020-04-05 13:21:15,242.242]: host event 0xba1ba116
+[2020-04-05 13:21:15,243.243]: host event 0xba1ba117
+[2020-04-05 13:21:15,244.244]: host event 0xba1ba118
+[2020-04-05 13:21:15,259.259]: host event 0xba1ba119
+[2020-04-05 13:21:15,260.260]: host event 0xba1ba120
+[2020-04-05 13:21:15,262.262]: host event 0xba1ba121
+[2020-04-05 13:21:15,280.280]: host event 0xba1ba122
+[2020-04-05 13:21:15,282.282]: host event 0xba1ba123
+[2020-04-05 13:21:15,285.285]: host event 0xba1ba124
+[2020-04-05 13:21:15,286.286]: host event 0xba1ba135
+[2020-04-05 13:21:15,286.286]: host event 0xba1ba125
+[2020-04-05 13:21:15,288.288]: host event 0xabcdef02
+[2020-04-05 13:21:15,289.289]: host event 0xabcdeaa1
+[2020-04-05 13:21:15,290.290]: host event 0xabcdeaa1
+[2020-04-05 13:21:15,292.292]: host event 0xba1ba129
+[2020-04-05 13:21:15,292.292]: host event 0xba1ba130
+[2020-04-05 13:21:15,293.293]: host event 0xba1ba131
+[2020-04-05 13:21:15,295.295]: host event 0xba1ba132
+[2020-04-05 13:21:15,296.296]: host event 0xba1ba133
+[2020-04-05 13:21:15,296.296]: host event 0xba1ba134
+[2020-04-05 13:21:15,309.309]: host event 0xffffff03
+[2020-04-05 13:21:15,311.311]: host event 0xffffaa00
+[2020-04-05 13:21:15,312.312]: host event 0xba1ba136
+[2020-04-05 13:21:16,423.423]: host event 0x713effff
+[2020-04-05 13:21:16,424.424]: host event 0x00000000
+[2020-04-05 13:21:16,927.927]: host trace CDFU_LoadSection: %d-%d
+
+[2020-04-05 13:21:16,928.928]: host trace ====================================
+[2020-04-05 13:21:16,933.933]: host trace INTR VER :Luat_V0038_8955
+[2020-04-05 13:21:16,934.934]: host trace BASE VER :B6005
+[2020-04-05 13:21:16,936.936]: host trace SCRIPT ADDR :0x00260000
+[2020-04-05 13:21:16,937.937]: host trace SCRIPT SIZE :0x000b0000
+[2020-04-05 13:21:16,938.938]: host trace BASE   ADDR :0x00210000
+[2020-04-05 13:21:16,940.940]: host trace BASE   SIZE :0x00050000
+[2020-04-05 13:21:16,940.940]: host trace ====================================
+[2020-04-05 13:21:16,943.943]: host trace [cust_task_main]: Enter message loop
+[2020-04-05 13:21:16,944.944]: host trace lualibc_fopen_ext /integrity.bin rb 0 1 2
+[2020-04-05 13:21:16,950.950]: host trace lualibc_fopen_ext /integrity.bin rb 0 1 2
+[2020-04-05 13:21:16,951.951]: host trace INTEGRITY file correct!
+[2020-04-05 13:21:16,953.953]: host trace FH:file=/lua/utils.lua,len=4108,offset=74370
+[2020-04-05 13:21:16,957.957]: host trace FH:file=/lua/testCall.lua,len=836,offset=73507
+[2020-04-05 13:21:16,959.959]: host trace FH:file=/lua/sys.lua,len=6183,offset=67294
+[2020-04-05 13:21:16,960.960]: host trace FH:file=/lua/socket.lua,len=14801,offset=52468
+[2020-04-05 13:21:16,964.964]: host trace FH:file=/lua/sim.lua,len=1684,offset=50756
+[2020-04-05 13:21:16,967.967]: host trace FH:file=/lua/ril.lua,len=8325,offset=42406
+[2020-04-05 13:21:16,970.970]: host trace FH:file=/lua/pm.lua,len=474,offset=41907
+[2020-04-05 13:21:16,973.973]: host trace FH:file=/lua/patch.lua,len=2097,offset=39786
+[2020-04-05 13:21:16,976.976]: host trace FH:file=/lua/net.lua,len=5310,offset=34449
+[2020-04-05 13:21:16,979.979]: host trace FH:file=/lua/misc.lua,len=3368,offset=31056
+[2020-04-05 13:21:16,982.982]: host trace FH:file=/lua/main.lua,len=300,offset=30730
+[2020-04-05 13:21:16,984.984]: host trace FH:file=/lua/log.lua,len=1174,offset=29530
+[2020-04-05 13:21:16,987.987]: host trace FH:file=/lua/link.lua,len=2839,offset=26666
+[2020-04-05 13:21:16,990.990]: host trace FH:file=/lua/http.lua,len=6716,offset=19924
+[2020-04-05 13:21:16,992.992]: host trace FH:file=/lua/errDump.lua,len=4335,offset=15563
+[2020-04-05 13:21:16,994.994]: host trace FH:file=/lua/common.lua,len=4186,offset=11348
+[2020-04-05 13:21:16,997.997]: host trace FH:file=/lua/clib.lua,len=491,offset=10829
+[2020-04-05 13:21:17,000.000]: host trace FH:file=/lua/cc.lua,len=3713,offset=7090
+[2020-04-05 13:21:17,003.003]: host trace FH:file=/lua/audio.lua,len=7015,offset=51
+[2020-04-05 13:21:17,006.006]: host trace parse_luadb_data:delupdpack=0,err=0,section=1,wrFile=0
+[2020-04-05 13:21:17,007.007]: host trace [fopen_ext]: /lua/main.lua 2!
+[2020-04-05 13:21:17,009.009]: host trace RUN main.lua
+[2020-04-05 13:21:17,012.012]: host trace [fopen_ext]: /lua/main.lua 2!
+[2020-04-05 13:21:17,015.015]: host trace [fopen_ext]: /lua/log.lua 2!
+[2020-04-05 13:21:17,016.016]: host trace [fopen_ext]: /lua/log.lua 2!
+[2020-04-05 13:21:17,019.019]: host trace [fopen_ext]: /lua/sys.lua 2!
+[2020-04-05 13:21:17,022.022]: host trace [fopen_ext]: /lua/sys.lua 2!
+[2020-04-05 13:21:17,025.025]: host trace [fopen_ext]: /lua/utils.lua 2!
+[2020-04-05 13:21:17,026.026]: host trace [fopen_ext]: /lua/utils.lua 2!
+[2020-04-05 13:21:17,029.029]: host trace [fopen_ext]: /lua/patch.lua 2!
+[2020-04-05 13:21:17,032.032]: host trace [fopen_ext]: /lua/patch.lua 2!
+[2020-04-05 13:21:17,035.035]: host trace [fopen_ext]: /lua/pm.lua 2!
+[2020-04-05 13:21:17,038.038]: host trace [fopen_ext]: /lua/pm.lua 2!
+[2020-04-05 13:21:17,039.039]: host trace [fopen_ext]: /lua/clib.lua 2!
+[2020-04-05 13:21:17,042.042]: host trace [fopen_ext]: /lua/clib.lua 2!
+[2020-04-05 13:21:17,045.045]: host trace [fopen_ext]: /lua/net.lua 2!
+[2020-04-05 13:21:17,049.049]: host trace [fopen_ext]: /lua/net.lua 2!
+[2020-04-05 13:21:17,051.051]: host trace [fopen_ext]: /lua/ril.lua 2!
+[2020-04-05 13:21:17,052.052]: host trace [fopen_ext]: /lua/ril.lua 2!
+[2020-04-05 13:21:17,055.055]: host trace [fopen_ext]: /lua/sim.lua 2!
+[2020-04-05 13:21:17,059.059]: host trace [fopen_ext]: /lua/sim.lua 2!
+[2020-04-05 13:21:17,062.062]: host trace [fopen_ext]: /lua/errDump.lua 2!
+[2020-04-05 13:21:17,065.065]: host trace [fopen_ext]: /lua/errDump.lua 2!
+[2020-04-05 13:21:17,069.069]: host trace [fopen_ext]: /lua/socket.lua 2!
+[2020-04-05 13:21:17,071.071]: host trace [fopen_ext]: /lua/socket.lua 2!
+[2020-04-05 13:21:17,073.073]: host trace [fopen_ext]: /lua/link.lua 2!
+[2020-04-05 13:21:17,075.075]: host trace [fopen_ext]: /lua/link.lua 2!
+[2020-04-05 13:21:17,078.078]: host trace [fopen_ext]: /lua/misc.lua 2!
+[2020-04-05 13:21:17,082.082]: host trace [fopen_ext]: /lua/misc.lua 2!
+[2020-04-05 13:21:17,085.085]: host trace [fopen_ext]: /lua/testCall.lua 2!
+[2020-04-05 13:21:17,086.086]: host trace [fopen_ext]: /lua/testCall.lua 2!
+[2020-04-05 13:21:17,088.088]: host trace [fopen_ext]: /lua/cc.lua 2!
+[2020-04-05 13:21:17,091.091]: host trace [fopen_ext]: /lua/cc.lua 2!
+[2020-04-05 13:21:17,092.092]: host trace [fopen_ext]: /lua/audio.lua 2!
+[2020-04-05 13:21:17,095.095]: host trace [fopen_ext]: /lua/audio.lua 2!
+[2020-04-05 13:21:17,098.098]: host trace [fopen_ext]: /lua/common.lua 2!
+[2020-04-05 13:21:17,099.099]: host trace [fopen_ext]: /lua/common.lua 2!
+[2020-04-05 13:21:17,270.270]: host trace [I]-[poweron reason:]	7	CALL	2.0.0	2.3.5	Luat_V0038_8955
+[2020-04-05 13:21:17,275.275]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,276.276]: host trace [I]-[ril.proatc]	RDY
+[2020-04-05 13:21:17,280.280]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,283.283]: host trace [I]-[ril.proatc]	+CFUN: 1
+[2020-04-05 13:21:17,288.288]: host trace [I]-[ril.defurc]	+CFUN: 1
+[2020-04-05 13:21:17,290.290]: host trace [I]-[ril.sendat]	ATE0
+[2020-04-05 13:21:17,293.293]: host trace [I]-[ril.proatc]	ATE0
+[2020-04-05 13:21:17,299.299]: host trace [I]-[ril.defurc]	ATE0
+[2020-04-05 13:21:17,302.302]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,305.305]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,309.309]: host trace [I]-[ril.defrsp]	ATE0	true	OK	nil
+[2020-04-05 13:21:17,312.312]: host trace [I]-[ril.sendat]	AT+CMEE=0
+[2020-04-05 13:21:17,316.316]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,319.319]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,323.323]: host trace [I]-[ril.defrsp]	AT+CMEE=0	true	OK	nil
+[2020-04-05 13:21:17,326.326]: host trace [I]-[ril.sendat]	AT+STON=0
+[2020-04-05 13:21:17,332.332]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,336.336]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,338.338]: host trace [I]-[ril.defrsp]	AT+STON=0	true	OK	nil
+[2020-04-05 13:21:17,342.342]: host trace [I]-[ril.sendat]	AT+CREG=2
+[2020-04-05 13:21:17,344.344]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,346.346]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,351.351]: host trace [I]-[ril.defrsp]	AT+CREG=2	true	OK	nil
+[2020-04-05 13:21:17,354.354]: host trace [I]-[ril.sendat]	AT+CREG?
+[2020-04-05 13:21:17,357.357]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,358.358]: host trace [I]-[ril.proatc]	+CREG: 2,0
+[2020-04-05 13:21:17,361.361]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,364.364]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,367.367]: host trace [I]-[ril.defrsp]	AT+CREG?	true	OK	nil
+[2020-04-05 13:21:17,368.368]: host trace [I]-[ril.sendat]	AT+CENG=1,1
+[2020-04-05 13:21:17,371.371]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,374.374]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,375.375]: host trace [I]-[net.rsp]	AT+CENG=1,1	true	OK	nil
+[2020-04-05 13:21:17,378.378]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-05 13:21:17,382.382]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,384.384]: host event 0x8181e810
+[2020-04-05 13:21:17,387.387]: host trace [I]-[ril.proatc]	+CSQ: 0,0
+[2020-04-05 13:21:17,390.390]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,392.392]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,395.395]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 0,0
+[2020-04-05 13:21:17,398.398]: host trace [I]-[ril.sendat]	AT+CENG?
+[2020-04-05 13:21:17,460.460]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,463.463]: host trace [I]-[ril.proatc]	+CENG:1,1
+[2020-04-05 13:21:17,466.466]: host trace [I]-[ril.proatc]	+CENG:0,"0000,00,00,000,00,00,0000,00,00,0000,00"
+[2020-04-05 13:21:17,469.469]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,471.471]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,473.473]: host trace [I]-[net.rsp]	AT+CENG?	true	OK	nil
+[2020-04-05 13:21:17,477.477]: host trace [I]-[ril.sendat]	AT+TCPUSERPARAM=6,4,7200,16
+[2020-04-05 13:21:17,484.484]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,487.487]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,490.490]: host trace [I]-[ril.defrsp]	AT+TCPUSERPARAM=6,4,7200,16	true	OK	nil
+[2020-04-05 13:21:17,493.493]: host trace [I]-[ril.sendat]	AT+VER
+[2020-04-05 13:21:17,494.494]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,497.497]: host trace [I]-[ril.proatc]	SW_V6005_Air202_LUA
+[2020-04-05 13:21:17,500.500]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,502.502]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,505.505]: host trace [I]-[ril.sendat]	AT+ATWMFT=99
+[2020-04-05 13:21:17,510.510]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,515.515]: host trace [I]-[ril.proatc]	SUCC
+[2020-04-05 13:21:17,516.516]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,519.519]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,522.522]: host trace [I]-[misc.ATWMFT]	SUCC
+[2020-04-05 13:21:17,523.523]: host trace [I]-[ril.sendat]	AT+WISN?
+[2020-04-05 13:21:17,526.526]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,529.529]: host trace [I]-[ril.proatc]	gLqjE06135727504
+[2020-04-05 13:21:17,532.532]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,535.535]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,538.538]: host trace [I]-[ril.sendat]	AT+CGSN
+[2020-04-05 13:21:17,540.540]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,542.542]: host trace [I]-[ril.proatc]	862285036323123
+[2020-04-05 13:21:17,546.546]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,549.549]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,551.551]: host trace [I]-[ril.sendat]	AT+MUID?
+[2020-04-05 13:21:17,553.553]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,555.555]: host trace [I]-[ril.proatc]	+MUID: "20190530002800A773950A4586598190"
+[2020-04-05 13:21:17,558.558]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,559.559]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,562.562]: host trace [I]-[ril.sendat]	ATX4
+[2020-04-05 13:21:17,565.565]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,569.569]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,571.571]: host trace [I]-[ril.defrsp]	ATX4	true	OK	nil
+[2020-04-05 13:21:17,573.573]: host trace [I]-[ril.sendat]	AT+CLIP=1
+[2020-04-05 13:21:17,575.575]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,578.578]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,582.582]: host trace [I]-[ril.defrsp]	AT+CLIP=1	true	OK	nil
+[2020-04-05 13:21:17,584.584]: host trace [I]-[ril.sendat]	ATS7=60
+[2020-04-05 13:21:17,586.586]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,592.592]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,595.595]: host trace [I]-[ril.defrsp]	ATS7=60	true	OK	nil
+[2020-04-05 13:21:17,598.598]: host trace [I]-[ril.sendat]	AT+CMIC=2,1
+[2020-04-05 13:21:17,601.601]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,604.604]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,605.605]: host trace [I]-[ril.sendat]	AT+DTMFDET=2,1,3
+[2020-04-05 13:21:17,608.608]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,609.609]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,612.612]: host trace [I]-[ril.defrsp]	AT+DTMFDET=2,1,3	true	OK	nil
+[2020-04-05 13:21:17,615.615]: host error data len 0 0000
+[2020-04-05 13:21:17,618.618]: host trace [I]-[ril.sendat]	AT+DTMFDET=1
+[2020-04-05 13:21:17,621.621]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,624.624]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,625.625]: host trace [I]-[ril.defrsp]	AT+DTMFDET=1	true	OK	nil
+[2020-04-05 13:21:17,628.628]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-05 13:21:17,632.632]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,635.635]: host trace [I]-[ril.proatc]	+CSQ: 0,0
+[2020-04-05 13:21:17,638.638]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:17,641.641]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:17,644.644]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 0,0
+[2020-04-05 13:21:18,000.000]: host trace LJD VSIM sim_ProcessInstruction:2751,sim_present=1,IsVsim=0
+[2020-04-05 13:21:18,253.253]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:18,256.256]: host trace [I]-[ril.proatc]	+CSIMTYPE: 1,1
+[2020-04-05 13:21:18,259.259]: host trace [I]-[ril.defurc]	+CSIMTYPE: 1,1
+[2020-04-05 13:21:18,262.262]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:18,266.266]: host trace [I]-[ril.proatc]	+CPIN: SIM PIN
+[2020-04-05 13:21:18,269.269]: host trace [I]-[SIM.subscribe]	nil	NORDY
+[2020-04-05 13:21:20,608.608]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:20,612.612]: host trace [I]-[ril.proatc]	+CREG: 3
+[2020-04-05 13:21:20,615.615]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-05 13:21:20,618.618]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:20,622.622]: host trace [I]-[ril.proatc]	+CSQ: 11,0
+[2020-04-05 13:21:20,625.625]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:21:20,628.628]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:21:20,631.631]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 11,0
+[2020-04-05 13:22:15,992.992]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-05 13:22:16,015.015]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:22:16,019.019]: host trace [I]-[ril.proatc]	+CSQ: 12,0
+[2020-04-05 13:22:16,020.020]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:22:16,023.023]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:22:16,038.038]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 12,0
+[2020-04-05 13:22:16,040.040]: host trace [I]-[ril.sendat]	AT+CENG?
+[2020-04-05 13:22:16,043.043]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:22:16,046.046]: host trace [I]-[ril.proatc]	+CENG:1,1
+[2020-04-05 13:22:16,049.049]: host trace [I]-[ril.proatc]	+CENG:0,"0630,12,99,460,00,39,4242,12,00,9349,255"
+[2020-04-05 13:22:16,059.059]: host trace [I]-[ril.proatc]	+CENG:1,"613,8,460,0,60,3783,9349"
+[2020-04-05 13:22:16,062.062]: host trace [I]-[ril.proatc]	+CENG:2,"84,5,460,0,53,0,9349"
+[2020-04-05 13:22:16,065.065]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:22:16,069.069]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:22:16,071.071]: host trace [I]-[net.rsp]	AT+CENG?	true	OK	nil
+[2020-04-05 13:23:16,009.009]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-05 13:23:16,032.032]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:23:16,036.036]: host trace [I]-[ril.proatc]	+CSQ: 12,0
+[2020-04-05 13:23:16,039.039]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:23:16,040.040]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:23:16,043.043]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 12,0
+[2020-04-05 13:23:16,052.052]: host trace [I]-[ril.sendat]	AT+CENG?
+[2020-04-05 13:23:16,055.055]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:23:16,058.058]: host trace [I]-[ril.proatc]	+CENG:1,1
+[2020-04-05 13:23:16,061.061]: host trace [I]-[ril.proatc]	+CENG:0,"0630,12,99,460,00,39,4242,12,00,9349,255"
+[2020-04-05 13:23:16,075.075]: host trace [I]-[ril.proatc]	+CENG:1,"613,8,460,0,60,3783,9349"
+[2020-04-05 13:23:16,078.078]: host trace [I]-[ril.proatc]	+CENG:2,"84,5,460,0,53,0,9349"
+[2020-04-05 13:23:16,091.091]: host trace [I]-[ril.proatc]	
+[2020-04-05 13:23:16,092.092]: host trace [I]-[ril.proatc]	OK
+[2020-04-05 13:23:16,095.095]: host trace [I]-[net.rsp]	AT+CENG?	true	OK	nil
+[2020-04-05 13:23:43,775.775]: call to ClearCommError failed
+Traceback (most recent call last):
+  File "host_trace.pyo", line 315, in read_loop
+  File "host_trace.pyo", line 255, in _read
+  File "serial\serialwin32.pyo", line 269, in read
+SerialException: call to ClearCommError failed

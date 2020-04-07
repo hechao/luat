@@ -44,7 +44,7 @@ end
 local function ready()
     log.info("tesCall.ready")
     --呼叫10086
-    cc.dial("10086")
+    cc.dial("18576608994")
 end
 
 --- “通话中收到对方的DTMF”消息处理函数

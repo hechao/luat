@@ -1,0 +1,1386 @@
+[2020-04-07 11:51:06.414]: start tool
+[2020-04-07 11:51:18.036]: host event 0xffffffff
+[2020-04-07 11:51:18.036]: host event 0x07778888
+[2020-04-07 11:51:18.038]: host event 0x07778889
+[2020-04-07 11:51:18.039]: host event 0x077788a0
+[2020-04-07 11:51:18.040]: host event 0x077788b0
+[2020-04-07 11:51:18.042]: host event 0x077788b1
+[2020-04-07 11:51:18.043]: host event 0x09999092
+[2020-04-07 11:51:18.045]: host event 0x09999093
+[2020-04-07 11:51:18.046]: host event 0x09999098
+[2020-04-07 11:51:18.046]: host event 0x09999099
+[2020-04-07 11:51:18.049]: host event 0x0999909a
+[2020-04-07 11:51:18.049]: host event 0x00000004
+[2020-04-07 11:51:18.051]: host event 0x66660021
+[2020-04-07 11:51:18.052]: host event 0x0000000f
+[2020-04-07 11:51:18.052]: host event 0x00000000
+[2020-04-07 11:51:18.052]: host event 0x888888df
+[2020-04-07 11:51:18.053]: host event 0x888888cf
+[2020-04-07 11:51:18.055]: host event 0x95555667
+[2020-04-07 11:51:18.056]: host event 0x9555566a
+[2020-04-07 11:51:18.058]: host event 0x9555566b
+[2020-04-07 11:51:18.058]: host event 0x95555668
+[2020-04-07 11:51:18.059]: host event 0x001660c8
+[2020-04-07 11:51:18.059]: host event 0x85555667
+[2020-04-07 11:51:18.059]: host event 0x55555667
+[2020-04-07 11:51:18.061]: host event 0x00000a00
+[2020-04-07 11:51:18.062]: host event 0x8888889f
+[2020-04-07 11:51:18.062]: host event 0x077788b2
+[2020-04-07 11:51:18.062]: host event 0x077788c0
+[2020-04-07 11:51:18.063]: host event 0x077788d0
+[2020-04-07 11:51:18.164]: host event 0x00000057
+[2020-04-07 11:51:18.164]: host event 0x0eeeeee0
+[2020-04-07 11:51:18.165]: host event 0x0eeeeee1
+[2020-04-07 11:51:18.167]: host event 0xca1bc2c0
+[2020-04-07 11:51:18.167]: host event 0x0eeeeee2
+[2020-04-07 11:51:18.167]: host event 0x0eeeeee3
+[2020-04-07 11:51:18.168]: host event 0x0eeeeee4
+[2020-04-07 11:51:18.170]: host event 0x0eeeeee5
+[2020-04-07 11:51:18.171]: host event 0x9999a244
+[2020-04-07 11:51:18.171]: host event 0x77770006
+[2020-04-07 11:51:18.171]: host event 0x0eeeeee7
+[2020-04-07 11:51:18.173]: host event 0x0eeeeee8
+[2020-04-07 11:51:18.174]: host event 0x0eeeeee9
+[2020-04-07 11:51:18.174]: host event 0x0eeeeeea
+[2020-04-07 11:51:18.174]: host event 0x0eeeeeeb
+[2020-04-07 11:51:18.176]: host event 0x0eeeeeee
+[2020-04-07 11:51:18.176]: host event 0x0eeeeeef
+[2020-04-07 11:51:18.177]: host event 0x0eeeeef1
+[2020-04-07 11:51:18.177]: host event 0x0eeeeef2
+[2020-04-07 11:51:18.177]: host event 0x0eeeeef3
+[2020-04-07 11:51:18.178]: host event 0x0eeeeef4
+[2020-04-07 11:51:18.180]: host event 0x0eeeeef6
+[2020-04-07 11:51:18.180]: host event 0x0eeeeef7
+[2020-04-07 11:51:18.180]: host event 0x0eeeeef8
+[2020-04-07 11:51:18.181]: host event 0x0eeeeef9
+[2020-04-07 11:51:18.183]: host event 0x00000059
+[2020-04-07 11:51:18.417]: host trace CDFU_LoadSection: %d-%d
+
+[2020-04-07 11:51:18.437]: host event 0xba1ba111
+[2020-04-07 11:51:18.670]: host event 0xba1ba112
+[2020-04-07 11:51:18.671]: host event 0xba1ba113
+[2020-04-07 11:51:18.671]: host event 0xba1ba113
+[2020-04-07 11:51:18.691]: host event 0xaaaa001e
+[2020-04-07 11:51:18.693]: host event 0x00000064
+[2020-04-07 11:51:18.694]: host event 0xaaaa001e
+[2020-04-07 11:51:18.694]: host event 0x00000032
+[2020-04-07 11:51:18.696]: host event 0xba1ba114
+[2020-04-07 11:51:18.697]: host event 0xba1ba115
+[2020-04-07 11:51:18.697]: host event 0xba1ba116
+[2020-04-07 11:51:18.698]: host event 0xba1ba117
+[2020-04-07 11:51:18.700]: host event 0xba1ba118
+[2020-04-07 11:51:18.779]: host event 0xba1ba119
+[2020-04-07 11:51:18.780]: host event 0xba1ba120
+[2020-04-07 11:51:18.780]: host event 0xba1ba121
+[2020-04-07 11:51:18.802]: host event 0xba1ba122
+[2020-04-07 11:51:18.802]: host event 0xba1ba123
+[2020-04-07 11:51:18.803]: host event 0xba1ba124
+[2020-04-07 11:51:18.805]: host event 0xba1ba135
+[2020-04-07 11:51:18.805]: host event 0xba1ba125
+[2020-04-07 11:51:18.806]: host event 0xabcdef02
+[2020-04-07 11:51:18.808]: host event 0xabcdeaa1
+[2020-04-07 11:51:18.808]: host event 0xabcdeaa1
+[2020-04-07 11:51:18.809]: host event 0xba1ba129
+[2020-04-07 11:51:18.825]: host event 0xba1ba130
+[2020-04-07 11:51:18.826]: host event 0xba1ba131
+[2020-04-07 11:51:18.828]: host event 0xba1ba132
+[2020-04-07 11:51:18.828]: host event 0xba1ba133
+[2020-04-07 11:51:18.828]: host event 0xba1ba134
+[2020-04-07 11:51:18.829]: host event 0xffffff00
+[2020-04-07 11:51:18.829]: host event 0xffffea2b
+[2020-04-07 11:51:18.848]: host event 0xba1ba136
+[2020-04-07 11:51:20.466]: host trace CDFU_LoadSection: %d-%d
+
+[2020-04-07 11:51:20.467]: host trace ====================================
+[2020-04-07 11:51:20.473]: host trace INTR VER :Luat_V0038_8955
+[2020-04-07 11:51:20.473]: host trace BASE VER :B6005
+[2020-04-07 11:51:20.476]: host trace SCRIPT ADDR :0x00260000
+[2020-04-07 11:51:20.476]: host trace SCRIPT SIZE :0x000b0000
+[2020-04-07 11:51:20.477]: host trace BASE   ADDR :0x00210000
+[2020-04-07 11:51:20.480]: host trace BASE   SIZE :0x00050000
+[2020-04-07 11:51:20.480]: host trace ====================================
+[2020-04-07 11:51:20.482]: host trace [cust_task_main]: Enter message loop
+[2020-04-07 11:51:20.487]: host trace lualibc_fopen_ext /integrity.bin rb 0 1 2
+[2020-04-07 11:51:20.490]: host trace lualibc_fopen_ext /integrity.bin rb 0 1 2
+[2020-04-07 11:51:20.493]: host trace INTEGRITY file correct!
+[2020-04-07 11:51:20.496]: host trace FH:file=/lua/utils.lua,len=4108,offset=74370
+[2020-04-07 11:51:20.500]: host trace FH:file=/lua/testCall.lua,len=836,offset=73507
+[2020-04-07 11:51:20.503]: host trace FH:file=/lua/sys.lua,len=6183,offset=67294
+[2020-04-07 11:51:20.505]: host trace FH:file=/lua/socket.lua,len=14801,offset=52468
+[2020-04-07 11:51:20.506]: host trace FH:file=/lua/sim.lua,len=1684,offset=50756
+[2020-04-07 11:51:20.507]: host trace FH:file=/lua/ril.lua,len=8325,offset=42406
+[2020-04-07 11:51:20.509]: host trace FH:file=/lua/pm.lua,len=474,offset=41907
+[2020-04-07 11:51:20.512]: host trace FH:file=/lua/patch.lua,len=2097,offset=39786
+[2020-04-07 11:51:20.513]: host trace FH:file=/lua/net.lua,len=5310,offset=34449
+[2020-04-07 11:51:20.516]: host trace FH:file=/lua/misc.lua,len=3368,offset=31056
+[2020-04-07 11:51:20.517]: host trace FH:file=/lua/main.lua,len=300,offset=30730
+[2020-04-07 11:51:20.519]: host trace FH:file=/lua/log.lua,len=1174,offset=29530
+[2020-04-07 11:51:20.522]: host trace FH:file=/lua/link.lua,len=2839,offset=26666
+[2020-04-07 11:51:20.523]: host trace FH:file=/lua/http.lua,len=6716,offset=19924
+[2020-04-07 11:51:20.526]: host trace FH:file=/lua/errDump.lua,len=4335,offset=15563
+[2020-04-07 11:51:20.528]: host trace FH:file=/lua/common.lua,len=4186,offset=11348
+[2020-04-07 11:51:20.529]: host trace FH:file=/lua/clib.lua,len=491,offset=10829
+[2020-04-07 11:51:20.532]: host trace FH:file=/lua/cc.lua,len=3713,offset=7090
+[2020-04-07 11:51:20.533]: host trace FH:file=/lua/audio.lua,len=7015,offset=51
+[2020-04-07 11:51:20.536]: host trace parse_luadb_data:delupdpack=0,err=0,section=1,wrFile=0
+[2020-04-07 11:51:20.538]: host trace [fopen_ext]: /lua/main.lua 2!
+[2020-04-07 11:51:20.539]: host trace RUN main.lua
+[2020-04-07 11:51:20.542]: host trace [fopen_ext]: /lua/main.lua 2!
+[2020-04-07 11:51:20.543]: host trace [fopen_ext]: /lua/log.lua 2!
+[2020-04-07 11:51:20.546]: host trace [fopen_ext]: /lua/log.lua 2!
+[2020-04-07 11:51:20.548]: host trace [fopen_ext]: /lua/sys.lua 2!
+[2020-04-07 11:51:20.549]: host trace [fopen_ext]: /lua/sys.lua 2!
+[2020-04-07 11:51:20.552]: host trace [fopen_ext]: /lua/utils.lua 2!
+[2020-04-07 11:51:20.553]: host trace [fopen_ext]: /lua/utils.lua 2!
+[2020-04-07 11:51:20.555]: host trace [fopen_ext]: /lua/patch.lua 2!
+[2020-04-07 11:51:20.558]: host trace [fopen_ext]: /lua/patch.lua 2!
+[2020-04-07 11:51:20.559]: host trace [fopen_ext]: /lua/pm.lua 2!
+[2020-04-07 11:51:20.562]: host trace [fopen_ext]: /lua/pm.lua 2!
+[2020-04-07 11:51:20.563]: host trace [fopen_ext]: /lua/clib.lua 2!
+[2020-04-07 11:51:20.565]: host trace [fopen_ext]: /lua/clib.lua 2!
+[2020-04-07 11:51:20.568]: host trace [fopen_ext]: /lua/net.lua 2!
+[2020-04-07 11:51:20.569]: host trace [fopen_ext]: /lua/net.lua 2!
+[2020-04-07 11:51:20.572]: host trace [fopen_ext]: /lua/ril.lua 2!
+[2020-04-07 11:51:20.573]: host trace [fopen_ext]: /lua/ril.lua 2!
+[2020-04-07 11:51:20.575]: host trace [fopen_ext]: /lua/sim.lua 2!
+[2020-04-07 11:51:20.578]: host trace [fopen_ext]: /lua/sim.lua 2!
+[2020-04-07 11:51:20.579]: host trace [fopen_ext]: /lua/errDump.lua 2!
+[2020-04-07 11:51:20.582]: host trace [fopen_ext]: /lua/errDump.lua 2!
+[2020-04-07 11:51:20.584]: host trace [fopen_ext]: /lua/socket.lua 2!
+[2020-04-07 11:51:20.585]: host trace [fopen_ext]: /lua/socket.lua 2!
+[2020-04-07 11:51:20.588]: host trace [fopen_ext]: /lua/link.lua 2!
+[2020-04-07 11:51:20.589]: host trace [fopen_ext]: /lua/link.lua 2!
+[2020-04-07 11:51:20.592]: host trace [fopen_ext]: /lua/misc.lua 2!
+[2020-04-07 11:51:20.594]: host trace [fopen_ext]: /lua/misc.lua 2!
+[2020-04-07 11:51:20.595]: host trace [fopen_ext]: /lua/testCall.lua 2!
+[2020-04-07 11:51:20.598]: host trace [fopen_ext]: /lua/testCall.lua 2!
+[2020-04-07 11:51:20.598]: host trace [fopen_ext]: /lua/cc.lua 2!
+[2020-04-07 11:51:20.601]: host trace [fopen_ext]: /lua/cc.lua 2!
+[2020-04-07 11:51:20.602]: host trace [fopen_ext]: /lua/audio.lua 2!
+[2020-04-07 11:51:20.605]: host trace [fopen_ext]: /lua/audio.lua 2!
+[2020-04-07 11:51:20.607]: host trace [fopen_ext]: /lua/common.lua 2!
+[2020-04-07 11:51:20.608]: host trace [fopen_ext]: /lua/common.lua 2!
+[2020-04-07 11:51:20.815]: host trace [I]-[poweron reason:]	0	CALL	2.0.0	2.3.5	Luat_V0038_8955
+[2020-04-07 11:51:20.819]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.821]: host trace [I]-[ril.proatc]	RDY
+[2020-04-07 11:51:20.822]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.828]: host trace [I]-[ril.proatc]	+CFUN: 1
+[2020-04-07 11:51:20.832]: host trace [I]-[ril.defurc]	+CFUN: 1
+[2020-04-07 11:51:20.835]: host trace [I]-[ril.sendat]	ATE0
+[2020-04-07 11:51:20.836]: host trace [I]-[ril.proatc]	ATE0
+[2020-04-07 11:51:20.838]: host trace [I]-[ril.defurc]	ATE0
+[2020-04-07 11:51:20.842]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.845]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:20.848]: host trace [I]-[ril.defrsp]	ATE0	true	OK	nil
+[2020-04-07 11:51:20.851]: host trace [I]-[ril.sendat]	AT+CMEE=0
+[2020-04-07 11:51:20.852]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.855]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:20.861]: host trace [I]-[ril.defrsp]	AT+CMEE=0	true	OK	nil
+[2020-04-07 11:51:20.865]: host trace [I]-[ril.sendat]	AT+STON=0
+[2020-04-07 11:51:20.868]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.871]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:20.874]: host trace [I]-[ril.defrsp]	AT+STON=0	true	OK	nil
+[2020-04-07 11:51:20.875]: host trace [I]-[ril.sendat]	AT+CREG=2
+[2020-04-07 11:51:20.878]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.881]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:20.884]: host trace [I]-[ril.defrsp]	AT+CREG=2	true	OK	nil
+[2020-04-07 11:51:20.888]: host trace [I]-[ril.sendat]	AT+CREG?
+[2020-04-07 11:51:20.890]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.924]: host trace [I]-[ril.proatc]	+CREG: 2,0
+[2020-04-07 11:51:20.927]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.930]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:20.934]: host trace [I]-[ril.defrsp]	AT+CREG?	true	OK	nil
+[2020-04-07 11:51:20.937]: host trace [I]-[ril.sendat]	AT+CENG=1,1
+[2020-04-07 11:51:20.940]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.944]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:20.947]: host trace [I]-[net.rsp]	AT+CENG=1,1	true	OK	nil
+[2020-04-07 11:51:20.950]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-07 11:51:20.950]: host event 0x8181e810
+[2020-04-07 11:51:20.953]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.957]: host trace [I]-[ril.proatc]	+CSQ: 0,0
+[2020-04-07 11:51:20.960]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.963]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:20.966]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 0,0
+[2020-04-07 11:51:20.967]: host trace [I]-[ril.sendat]	AT+CENG?
+[2020-04-07 11:51:20.993]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:20.997]: host trace [I]-[ril.proatc]	+CENG:1,1
+[2020-04-07 11:51:21.000]: host trace [I]-[ril.proatc]	+CENG:0,"0000,00,00,000,00,00,0000,00,00,0000,00"
+[2020-04-07 11:51:21.003]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.006]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.007]: host trace [I]-[net.rsp]	AT+CENG?	true	OK	nil
+[2020-04-07 11:51:21.010]: host trace [I]-[ril.sendat]	AT+TCPUSERPARAM=6,4,7200,16
+[2020-04-07 11:51:21.013]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.016]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.019]: host trace [I]-[ril.defrsp]	AT+TCPUSERPARAM=6,4,7200,16	true	OK	nil
+[2020-04-07 11:51:21.023]: host trace [I]-[ril.sendat]	AT+VER
+[2020-04-07 11:51:21.028]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.032]: host trace [I]-[ril.proatc]	SW_V6005_Air202_LUA
+[2020-04-07 11:51:21.035]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.038]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.040]: host trace [I]-[ril.sendat]	AT+ATWMFT=99
+[2020-04-07 11:51:21.042]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.046]: host trace [I]-[ril.proatc]	SUCC
+[2020-04-07 11:51:21.049]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.052]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.055]: host trace [I]-[misc.ATWMFT]	SUCC
+[2020-04-07 11:51:21.058]: host trace [I]-[ril.sendat]	AT+WISN?
+[2020-04-07 11:51:21.061]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.063]: host trace [I]-[ril.proatc]	gLqjE06135727504
+[2020-04-07 11:51:21.066]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.069]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.072]: host trace [I]-[ril.sendat]	AT+CGSN
+[2020-04-07 11:51:21.075]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.078]: host trace [I]-[ril.proatc]	862285036323123
+[2020-04-07 11:51:21.081]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.084]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.086]: host trace [I]-[ril.sendat]	AT+MUID?
+[2020-04-07 11:51:21.088]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.089]: host trace [I]-[ril.proatc]	+MUID: "20190530002800A773950A4586598190"
+[2020-04-07 11:51:21.092]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.095]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.098]: host trace [I]-[ril.sendat]	ATX4
+[2020-04-07 11:51:21.099]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.101]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.102]: host trace [I]-[ril.defrsp]	ATX4	true	OK	nil
+[2020-04-07 11:51:21.105]: host trace [I]-[ril.sendat]	AT+CLIP=1
+[2020-04-07 11:51:21.107]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.109]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.112]: host trace [I]-[ril.defrsp]	AT+CLIP=1	true	OK	nil
+[2020-04-07 11:51:21.115]: host trace [I]-[ril.sendat]	ATS7=60
+[2020-04-07 11:51:21.118]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.119]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.121]: host trace [I]-[ril.defrsp]	ATS7=60	true	OK	nil
+[2020-04-07 11:51:21.124]: host trace [I]-[ril.sendat]	AT+CMIC=2,1
+[2020-04-07 11:51:21.127]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.130]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.135]: host error data len 0 0000
+[2020-04-07 11:51:21.137]: host trace [I]-[ril.sendat]	AT+DTMFDET=2,1,3
+[2020-04-07 11:51:21.138]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.141]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.144]: host trace [I]-[ril.defrsp]	AT+DTMFDET=2,1,3	true	OK	nil
+[2020-04-07 11:51:21.147]: host trace [I]-[ril.sendat]	AT+DTMFDET=1
+[2020-04-07 11:51:21.148]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.151]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.154]: host trace [I]-[ril.defrsp]	AT+DTMFDET=1	true	OK	nil
+[2020-04-07 11:51:21.154]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-07 11:51:21.163]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.165]: host trace [I]-[ril.proatc]	+CSQ: 0,0
+[2020-04-07 11:51:21.167]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.171]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:21.173]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 0,0
+[2020-04-07 11:51:21.395]: host trace LJD VSIM sim_ProcessInstruction:2751,sim_present=1,IsVsim=0
+[2020-04-07 11:51:21.585]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:21.588]: host trace [I]-[ril.proatc]	+CSIMTYPE: 1,0
+[2020-04-07 11:51:21.607]: host trace [I]-[ril.defurc]	+CSIMTYPE: 1,0
+[2020-04-07 11:51:24.653]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:24.655]: host trace [I]-[ril.proatc]	+CREG: 3
+[2020-04-07 11:51:24.658]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-07 11:51:24.661]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:24.664]: host trace [I]-[ril.proatc]	+CSQ: 11,0
+[2020-04-07 11:51:24.667]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:24.670]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:24.671]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 11,0
+[2020-04-07 11:51:25.186]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:25.187]: host trace [I]-[ril.proatc]	+ENCRET: 0
+[2020-04-07 11:51:25.190]: host trace [I]-[ril.defurc]	+ENCRET: 0
+[2020-04-07 11:51:25.193]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:25.213]: host trace [I]-[ril.proatc]	+CPIN: READY
+[2020-04-07 11:51:25.216]: host trace [I]-[ril.sendat]	AT+CCID
+[2020-04-07 11:51:25.220]: host trace [I]-[SIM.subscribe]	nil	RDY
+[2020-04-07 11:51:25.221]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:25.223]: host trace [I]-[ril.proatc]	898607a9101850140673
+[2020-04-07 11:51:25.226]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:25.227]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:25.230]: host trace [I]-[ril.sendat]	AT+CIMI
+[2020-04-07 11:51:25.232]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:25.234]: host trace [I]-[ril.proatc]	460071952200246
+[2020-04-07 11:51:25.236]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:25.239]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:25.357]: host event 0x2244420b
+[2020-04-07 11:51:25.378]: host event 0x22446804
+[2020-04-07 11:51:25.440]: host event 0x23000042
+[2020-04-07 11:51:25.441]: host event 0x23000068
+[2020-04-07 11:51:25.503]: host event 0x22445c9a
+[2020-04-07 11:51:25.525]: host event 0x22445d3c
+[2020-04-07 11:51:25.546]: host event 0x23000061
+[2020-04-07 11:51:25.630]: host event 0x2300005c
+[2020-04-07 11:51:25.671]: host event 0x2300005d
+[2020-04-07 11:51:25.693]: host event 0x2300003b
+[2020-04-07 11:51:25.694]: host event 0x23000063
+[2020-04-07 11:51:25.713]: host event 0x2300008e
+[2020-04-07 11:51:25.734]: host event 0x23000062
+[2020-04-07 11:51:25.756]: host event 0x2300003f
+[2020-04-07 11:51:25.776]: host event 0x22445f0c
+[2020-04-07 11:51:25.839]: host event 0x2300005f
+[2020-04-07 11:51:28.446]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.447]: host trace [I]-[ril.proatc]	CALL READY
+[2020-04-07 11:51:28.450]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.483]: host trace [I]-[ril.proatc]	+CREG: 1,"2485","1092"
+[2020-04-07 11:51:28.492]: host trace [I]-[ril.sendat]	AT+CCWA=1
+[2020-04-07 11:51:28.494]: host trace [I]-[tesCall.ready]
+[2020-04-07 11:51:28.496]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.499]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:28.500]: host trace [I]-[ril.defrsp]	AT+CCWA=1	true	OK	nil
+[2020-04-07 11:51:28.503]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-07 11:51:28.519]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.529]: host trace [I]-[ril.proatc]	+CSQ: 15,0
+[2020-04-07 11:51:28.530]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.532]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:28.536]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 15,0
+[2020-04-07 11:51:28.539]: host trace [I]-[ril.sendat]	AT+CENG?
+[2020-04-07 11:51:28.540]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.542]: host trace [I]-[ril.proatc]	+CENG:1,1
+[2020-04-07 11:51:28.546]: host trace [I]-[ril.proatc]	+CENG:0,"0630,15,99,460,00,39,4242,12,00,9349,00"
+[2020-04-07 11:51:28.548]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.549]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:28.552]: host trace [I]-[net.rsp]	AT+CENG?	true	OK	nil
+[2020-04-07 11:51:28.555]: host trace [I]-[ril.sendat]	ATD10086;
+[2020-04-07 11:51:28.558]: host trace DEBUG vgOpManModifyCcState 833:1
+[2020-04-07 11:51:28.569]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.571]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:28.572]: host trace [I]-[ril.sendat]	AT+CIICRMODE=2
+[2020-04-07 11:51:28.575]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.576]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:28.592]: host trace [I]-[ril.defrsp]	AT+CIICRMODE=2	true	OK	nil
+[2020-04-07 11:51:28.595]: host trace [I]-[ril.sendat]	AT+CIPMUX=1
+[2020-04-07 11:51:28.598]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.601]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:28.602]: host trace [I]-[ril.sendat]	AT+CIPHEAD=1
+[2020-04-07 11:51:28.605]: host trace [I]-[ril.defrsp]	AT+CIPHEAD=1	true	OK	nil
+[2020-04-07 11:51:28.609]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.611]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:28.614]: host trace [I]-[ril.defrsp]	AT+CIPQSEND=0	true	OK	nil
+[2020-04-07 11:51:28.615]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:28.632]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.648]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:28.650]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.651]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:28.654]: host trace [I]-[ril.sendat]	AT+CLCC
+[2020-04-07 11:51:28.655]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.658]: host trace [I]-[ril.proatc]	+CLCC: 1,0,2,0,0,"10086",129,""
+[2020-04-07 11:51:28.660]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:28.661]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:30.632]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:30.634]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:30.638]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:30.641]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:30.644]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:31.622]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:31.625]: host trace [I]-[ril.proatc]	CONNECT
+[2020-04-07 11:51:31.627]: host trace [I]-[audio.stop]	nil	nil
+[2020-04-07 11:51:31.631]: host trace [I]-[ril.sendat]	AT+CLCC
+[2020-04-07 11:51:31.647]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:31.648]: host trace [I]-[ril.proatc]	+CLCC: 1,0,0,0,0,"10086",129,""
+[2020-04-07 11:51:31.651]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:31.654]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:31.655]: host trace [I]-[testCall.connected]
+[2020-04-07 11:51:31.657]: host trace [I]-[ril.sendat]	AT+SENDSOUND="123",100,100
+[2020-04-07 11:51:32.323]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:32.325]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:32.328]: host trace [I]-[ril.defrsp]	AT+SENDSOUND="123",100,100	true	OK	nil
+[2020-04-07 11:51:32.641]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:32.663]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:32.667]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:32.668]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:32.671]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:34.177]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:34.178]: host trace [I]-[ril.proatc]	+DTMFDET:42
+[2020-04-07 11:51:34.197]: host trace [I]-[testCall.dtmfDetected]	*
+[2020-04-07 11:51:34.661]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:34.683]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:34.687]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:34.690]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:34.691]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:36.428]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:36.430]: host trace [I]-[ril.proatc]	SMS READY
+[2020-04-07 11:51:36.433]: host trace [I]-[ril.defurc]	SMS READY
+[2020-04-07 11:51:36.663]: host trace audio.update	nil	0	TTSCC	通话中播放TTS测试	7	nil	nil	0
+[2020-04-07 11:51:36.680]: host event 0xbb77bb01
+[2020-04-07 11:51:36.681]: host event 0xbb770b02
+[2020-04-07 11:51:36.683]: host event 0x00000002
+[2020-04-07 11:51:36.684]: host event 0x00000006
+[2020-04-07 11:51:36.684]: host event 0xbb770b03
+[2020-04-07 11:51:36.688]: host trace [I]-[audio.taskAudio begin]	0	TTSCC	通话中播放TTS测试	7	nil	nil	0
+[2020-04-07 11:51:36.690]: host trace [I]-[ril.sendat]	AT+QTTS=1
+[2020-04-07 11:51:36.707]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:36.710]: host trace [I]-[ril.proatc]	ERROR
+[2020-04-07 11:51:36.730]: host trace [I]-[ril.sendat]	AT+QTTS=4,"1A90DD8B2D4EAD643E655400540053004B6DD58B"
+[2020-04-07 11:51:36.732]: host trace [I]-[audio.taskAudio resume msg]	ERROR
+[2020-04-07 11:51:36.733]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:36.736]: host trace [I]-[ril.proatc]	ERROR
+[2020-04-07 11:51:36.739]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:36.753]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:36.757]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:36.759]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:36.762]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:36.763]: host trace [I]-[ril.sendat]	AT+QTTS=3
+[2020-04-07 11:51:36.778]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:36.779]: host trace [I]-[ril.proatc]	ERROR
+[2020-04-07 11:51:36.782]: host trace [I]-[audio.playEnd]	1	nil
+[2020-04-07 11:51:38.753]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:38.778]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:38.780]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:38.783]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:38.786]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:40.775]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:40.796]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:40.801]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:40.802]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:40.805]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:42.795]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:42.816]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:42.819]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:42.822]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:42.825]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:44.815]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:44.836]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:44.841]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:44.842]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:44.845]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:46.184]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:46.187]: host trace [I]-[ril.proatc]	+DTMFDET:70
+[2020-04-07 11:51:46.188]: host trace [I]-[testCall.dtmfDetected]	Hz2300
+[2020-04-07 11:51:46.836]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:46.858]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:46.861]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:46.864]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:46.867]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:47.721]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:47.723]: host trace [I]-[ril.proatc]	+DTMFDET:53
+[2020-04-07 11:51:47.726]: host trace [I]-[testCall.dtmfDetected]	5
+[2020-04-07 11:51:48.858]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:48.859]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:48.864]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:48.881]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:48.884]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:50.878]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:50.898]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:50.903]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:50.904]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:50.907]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:52.897]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:52.917]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:52.921]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:52.924]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:52.927]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:54.915]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:54.937]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:54.940]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:54.943]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:54.944]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:56.956]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:56.957]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:56.960]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:56.963]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:56.964]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:51:58.974]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:51:58.976]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:58.980]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:51:58.983]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:51:58.984]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:00.994]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:00.997]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:01.000]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:01.003]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:01.005]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:02.551]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:02.552]: host trace [I]-[ril.proatc]	+CMTI: "ME",1
+[2020-04-07 11:52:02.555]: host trace [I]-[ril.defurc]	+CMTI: "ME",1
+[2020-04-07 11:52:03.015]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:03.017]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:03.020]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:03.023]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:03.026]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:05.035]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:05.038]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:05.040]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:05.042]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:05.046]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:07.055]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:07.059]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:07.062]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:07.063]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:07.066]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:09.075]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:09.078]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:09.082]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:09.084]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:09.085]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:11.095]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:11.098]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:11.101]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:11.104]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:11.105]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:13.115]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:13.118]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:13.121]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:13.124]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:13.125]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:15.135]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:15.138]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:15.141]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:15.144]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:15.147]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:17.154]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:17.157]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:17.161]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:17.163]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:17.165]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:19.174]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:19.177]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:19.180]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:19.183]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:19.184]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:19.536]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-07 11:52:19.539]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:19.545]: host trace [I]-[ril.proatc]	+CSQ: 23,0
+[2020-04-07 11:52:19.546]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:19.549]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:19.552]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 23,0
+[2020-04-07 11:52:19.555]: host trace [I]-[ril.sendat]	AT+CENG?
+[2020-04-07 11:52:19.563]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:19.565]: host trace [I]-[ril.proatc]	+CENG:1,1
+[2020-04-07 11:52:19.569]: host trace [I]-[ril.proatc]	+CENG:0,"0630,23,00,460,00,39,4242,12,00,9349,00"
+[2020-04-07 11:52:19.572]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:19.573]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:19.576]: host trace [I]-[net.rsp]	AT+CENG?	true	OK	nil
+[2020-04-07 11:52:21.184]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:21.187]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:21.190]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:21.193]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:21.194]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:21.671]: host trace [I]-[audio.stop]	nil	nil
+[2020-04-07 11:52:21.674]: host trace [I]-[ril.sendat]	AT+CHUP
+[2020-04-07 11:52:21.799]: host trace DEBUG vgOpManModifyCcState 833:1
+[2020-04-07 11:52:21.801]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:21.803]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:21.805]: host trace [I]-[ril.sendat]	AT+CLCC
+[2020-04-07 11:52:21.823]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:21.825]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:21.828]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:21.831]: host trace [I]-[testCall.disconnected]
+[2020-04-07 11:52:21.867]: host event 0xbb77bb01
+[2020-04-07 11:52:21.868]: host event 0xbb770b02
+[2020-04-07 11:52:21.868]: host event 0x00000002
+[2020-04-07 11:52:21.869]: host event 0x00000006
+[2020-04-07 11:52:21.871]: host event 0xbb770b03
+[2020-04-07 11:52:23.214]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:23.217]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:23.220]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:52:23.236]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:23.240]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:25.233]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:52:25.256]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.259]: host trace [I]-[ril.proatc]	+CGATT: 1
+[2020-04-07 11:52:25.263]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.266]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:25.269]: host trace [I]-[ril.sendat]	AT+CIPSTATUS
+[2020-04-07 11:52:25.280]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.286]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:25.289]: host trace [I]-[ril.defrsp]	AT+CIPSTATUS	true	OK	nil
+[2020-04-07 11:52:25.292]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.295]: host trace [I]-[ril.proatc]	STATE: IP INITIAL
+[2020-04-07 11:52:25.298]: host trace [I]-[link.STATE]	IP STATUS	IP INITIAL
+[2020-04-07 11:52:25.299]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.302]: host trace [I]-[ril.proatc]	C: 0,,"","","","INITIAL"
+[2020-04-07 11:52:25.305]: host trace [I]-[ril.defurc]	C: 0,,"","","","INITIAL"
+[2020-04-07 11:52:25.308]: host trace [I]-[ril.proatc]	C: 1,,"","","","INITIAL"
+[2020-04-07 11:52:25.311]: host trace [I]-[ril.defurc]	C: 1,,"","","","INITIAL"
+[2020-04-07 11:52:25.313]: host trace [I]-[ril.proatc]	C: 2,,"","","","INITIAL"
+[2020-04-07 11:52:25.316]: host trace [I]-[ril.defurc]	C: 2,,"","","","INITIAL"
+[2020-04-07 11:52:25.319]: host trace [I]-[ril.proatc]	C: 3,,"","","","INITIAL"
+[2020-04-07 11:52:25.322]: host trace [I]-[ril.defurc]	C: 3,,"","","","INITIAL"
+[2020-04-07 11:52:25.325]: host trace [I]-[ril.proatc]	C: 4,,"","","","INITIAL"
+[2020-04-07 11:52:25.328]: host trace [I]-[ril.defurc]	C: 4,,"","","","INITIAL"
+[2020-04-07 11:52:25.331]: host trace [I]-[ril.proatc]	C: 5,,"","","","INITIAL"
+[2020-04-07 11:52:25.332]: host trace [I]-[ril.defurc]	C: 5,,"","","","INITIAL"
+[2020-04-07 11:52:25.335]: host trace [I]-[ril.proatc]	C: 6,,"","","","INITIAL"
+[2020-04-07 11:52:25.338]: host trace [I]-[ril.defurc]	C: 6,,"","","","INITIAL"
+[2020-04-07 11:52:25.342]: host trace [I]-[ril.proatc]	C: 7,,"","","","INITIAL"
+[2020-04-07 11:52:25.344]: host trace [I]-[ril.defurc]	C: 7,,"","","","INITIAL"
+[2020-04-07 11:52:25.345]: host trace [I]-[ril.sendat]	AT+CSTT="CMIOT","",""
+[2020-04-07 11:52:25.346]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.348]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:25.351]: host trace [I]-[ril.defrsp]	AT+CSTT="CMIOT","",""	true	OK	nil
+[2020-04-07 11:52:25.355]: host trace [I]-[ril.sendat]	AT+CIICR
+[2020-04-07 11:52:25.357]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.358]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:25.364]: host trace [I]-[ril.defrsp]	AT+CIICR	true	OK	nil
+[2020-04-07 11:52:25.638]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.641]: host trace [I]-[ril.proatc]	STATE: IP GPRSACT
+[2020-04-07 11:52:25.644]: host trace [I]-[link.STATE]	IP STATUS	IP GPRSACT
+[2020-04-07 11:52:25.647]: host trace [I]-[ril.sendat]	AT+CIFSR
+[2020-04-07 11:52:25.650]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.653]: host trace [I]-[ril.proatc]	010.007.032.187
+[2020-04-07 11:52:25.657]: host trace [I]-[ril.defrsp]	AT+CIFSR	true	nil	010.007.032.187
+[2020-04-07 11:52:25.664]: host trace [I]-[ril.sendat]	AT+CIPSTATUS
+[2020-04-07 11:52:25.667]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.671]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:25.674]: host trace [I]-[ril.defrsp]	AT+CIPSTATUS	true	OK	nil
+[2020-04-07 11:52:25.676]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.678]: host trace [I]-[ril.proatc]	STATE: IP STATUS
+[2020-04-07 11:52:25.680]: host trace [I]-[link.STATE]	IP STATUS	IP STATUS
+[2020-04-07 11:52:25.683]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.691]: host trace [I]-[ril.proatc]	C: 0,,"","","","INITIAL"
+[2020-04-07 11:52:25.694]: host trace [I]-[ril.defurc]	C: 0,,"","","","INITIAL"
+[2020-04-07 11:52:25.697]: host trace [I]-[ril.proatc]	C: 1,,"","","","INITIAL"
+[2020-04-07 11:52:25.700]: host trace [I]-[ril.defurc]	C: 1,,"","","","INITIAL"
+[2020-04-07 11:52:25.701]: host trace [I]-[ril.proatc]	C: 2,,"","","","INITIAL"
+[2020-04-07 11:52:25.704]: host trace [I]-[ril.defurc]	C: 2,,"","","","INITIAL"
+[2020-04-07 11:52:25.707]: host trace [I]-[ril.proatc]	C: 3,,"","","","INITIAL"
+[2020-04-07 11:52:25.709]: host trace [I]-[ril.defurc]	C: 3,,"","","","INITIAL"
+[2020-04-07 11:52:25.710]: host trace [I]-[ril.proatc]	C: 4,,"","","","INITIAL"
+[2020-04-07 11:52:25.713]: host trace [I]-[ril.defurc]	C: 4,,"","","","INITIAL"
+[2020-04-07 11:52:25.716]: host trace [I]-[ril.proatc]	C: 5,,"","","","INITIAL"
+[2020-04-07 11:52:25.717]: host trace [I]-[ril.defurc]	C: 5,,"","","","INITIAL"
+[2020-04-07 11:52:25.720]: host trace [I]-[ril.proatc]	C: 6,,"","","","INITIAL"
+[2020-04-07 11:52:25.723]: host trace [I]-[ril.defurc]	C: 6,,"","","","INITIAL"
+[2020-04-07 11:52:25.726]: host trace [I]-[ril.proatc]	C: 7,,"","","","INITIAL"
+[2020-04-07 11:52:25.727]: host trace [I]-[ril.defurc]	C: 7,,"","","","INITIAL"
+[2020-04-07 11:52:25.729]: host trace [I]-[ril.sendat]	AT+CDNSCFG?
+[2020-04-07 11:52:25.730]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.733]: host trace [I]-[ril.proatc]	PrimaryDns: 120.196.165.7
+[2020-04-07 11:52:25.736]: host trace [I]-[ril.defurc]	PrimaryDns: 120.196.165.7
+[2020-04-07 11:52:25.737]: host trace [I]-[ril.proatc]	SecondaryDns: 221.179.38.7
+[2020-04-07 11:52:25.740]: host trace [I]-[ril.defurc]	SecondaryDns: 221.179.38.7
+[2020-04-07 11:52:25.746]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:25.747]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:25.750]: host trace [I]-[ril.defrsp]	AT+CDNSCFG?	true	OK	nil
+[2020-04-07 11:52:35.299]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:35.302]: host trace [I]-[ril.proatc]	+CREG: 1,"2485","115A"
+[2020-04-07 11:52:35.321]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-07 11:52:35.322]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:35.328]: host trace [I]-[ril.proatc]	+CSQ: 19,0
+[2020-04-07 11:52:35.345]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:52:35.346]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:52:35.349]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 19,0
+[2020-04-07 11:53:19.536]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-07 11:53:19.558]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:53:19.562]: host trace [I]-[ril.proatc]	+CSQ: 24,0
+[2020-04-07 11:53:19.565]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:53:19.568]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:53:19.571]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 24,0
+[2020-04-07 11:53:19.572]: host trace [I]-[ril.sendat]	AT+CENG?
+[2020-04-07 11:53:19.581]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:53:19.584]: host trace [I]-[ril.proatc]	+CENG:1,1
+[2020-04-07 11:53:19.585]: host trace [I]-[ril.proatc]	+CENG:0,"0048,23,99,460,00,19,4442,06,05,9349,01"
+[2020-04-07 11:53:19.588]: host trace [I]-[ril.proatc]	+CENG:1,"35,21,460,0,44,0,9349"
+[2020-04-07 11:53:19.602]: host trace [I]-[ril.proatc]	+CENG:2,"50,17,460,0,4,0,9362"
+[2020-04-07 11:53:19.605]: host trace [I]-[ril.proatc]	+CENG:3,"630,24,460,0,39,4242,9349"
+[2020-04-07 11:53:19.608]: host trace [I]-[ril.proatc]	+CENG:4,"617,16,460,0,21,3782,9349"
+[2020-04-07 11:53:19.611]: host trace [I]-[ril.proatc]	+CENG:5,"20,16,460,0,49,5132,9362"
+[2020-04-07 11:53:19.615]: host trace [I]-[ril.proatc]	+CENG:6,"46,17,460,0,15,4443,9349"
+[2020-04-07 11:53:19.618]: host trace [I]-[ril.proatc]	+CENG:7,"43,16,460,0,21,3791,9349"
+[2020-04-07 11:53:19.627]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:53:19.631]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:53:19.634]: host trace [I]-[net.rsp]	AT+CENG?	true	OK	nil
+[2020-04-07 11:54:00.348]: event:89550002
+[2020-04-07 11:54:00.348]: event:07778888
+[2020-04-07 11:54:00.348]: event:07778889
+[2020-04-07 11:54:00.348]: event:077788a0
+[2020-04-07 11:54:00.348]: event:077788b0
+[2020-04-07 11:54:00.349]: event:077788b1
+[2020-04-07 11:54:00.351]: event:89550002
+[2020-04-07 11:54:00.351]: event:07778888
+[2020-04-07 11:54:00.351]: event:07778889
+[2020-04-07 11:54:00.351]: event:077788a0
+[2020-04-07 11:54:00.351]: event:077788b0
+[2020-04-07 11:54:00.351]: event:077788b1
+[2020-04-07 11:54:00.352]: event:89550002
+[2020-04-07 11:54:00.354]: event:07778888
+[2020-04-07 11:54:00.354]: event:07778889
+[2020-04-07 11:54:00.354]: event:077788a0
+[2020-04-07 11:54:00.355]: event:077788b0
+[2020-04-07 11:54:00.355]: event:077788b1
+[2020-04-07 11:54:00.355]: event:89550002
+[2020-04-07 11:54:00.355]: event:07778888
+[2020-04-07 11:54:00.357]: event:07778889
+[2020-04-07 11:54:00.357]: event:077788a0
+[2020-04-07 11:54:00.357]: event:077788b0
+[2020-04-07 11:54:00.358]: event:077788b1
+[2020-04-07 11:54:00.358]: event:89550002
+[2020-04-07 11:54:00.358]: event:07778888
+[2020-04-07 11:54:00.358]: event:07778889
+[2020-04-07 11:54:00.359]: event:077788a0
+[2020-04-07 11:54:00.359]: event:077788b0
+[2020-04-07 11:54:00.359]: event:077788b1
+[2020-04-07 11:54:00.361]: event:09999092
+[2020-04-07 11:54:00.361]: event:09999093
+[2020-04-07 11:54:00.361]: event:09999098
+[2020-04-07 11:54:00.361]: event:09999099
+[2020-04-07 11:54:00.361]: event:0999909a
+[2020-04-07 11:54:00.361]: event:00000004
+[2020-04-07 11:54:00.362]: event:66660021
+[2020-04-07 11:54:00.362]: event:0000000f
+[2020-04-07 11:54:00.364]: event:00000000
+[2020-04-07 11:54:00.364]: event:888888df
+[2020-04-07 11:54:00.364]: event:888888cf
+[2020-04-07 11:54:00.365]: event:95555667
+[2020-04-07 11:54:00.365]: event:9555566a
+[2020-04-07 11:54:00.365]: event:9555566b
+[2020-04-07 11:54:00.365]: event:95555668
+[2020-04-07 11:54:00.365]: event:001660c8
+[2020-04-07 11:54:00.365]: event:85555667
+[2020-04-07 11:54:00.367]: event:55555667
+[2020-04-07 11:54:00.367]: event:00000a00
+[2020-04-07 11:54:00.367]: event:8888889f
+[2020-04-07 11:54:00.368]: event:077788b2
+[2020-04-07 11:54:00.368]: event:077788c0
+[2020-04-07 11:54:00.368]: event:077788d0
+[2020-04-07 11:54:00.368]: event:00000057
+[2020-04-07 11:54:00.368]: event:0eeeeee0
+[2020-04-07 11:54:00.369]: event:0eeeeee1
+[2020-04-07 11:54:00.369]: event:ca1bc2c0
+[2020-04-07 11:54:00.369]: event:0eeeeee2
+[2020-04-07 11:54:00.371]: event:0eeeeee3
+[2020-04-07 11:54:00.371]: event:0eeeeee4
+[2020-04-07 11:54:00.371]: event:0eeeeee5
+[2020-04-07 11:54:00.371]: event:9999a244
+[2020-04-07 11:54:00.371]: event:77770006
+[2020-04-07 11:54:00.371]: event:0eeeeee7
+[2020-04-07 11:54:00.372]: event:0eeeeee8
+[2020-04-07 11:54:00.372]: event:0eeeeee9
+[2020-04-07 11:54:00.372]: event:0eeeeeea
+[2020-04-07 11:54:00.374]: event:0eeeeeeb
+[2020-04-07 11:54:00.374]: event:0eeeeeee
+[2020-04-07 11:54:00.374]: event:0eeeeeef
+[2020-04-07 11:54:00.374]: event:0eeeeef1
+[2020-04-07 11:54:00.375]: event:0eeeeef2
+[2020-04-07 11:54:00.375]: event:0eeeeef3
+[2020-04-07 11:54:00.375]: event:0eeeeef4
+[2020-04-07 11:54:00.375]: event:0eeeeef6
+[2020-04-07 11:54:00.375]: event:0eeeeef7
+[2020-04-07 11:54:00.375]: event:0eeeeef8
+[2020-04-07 11:54:00.377]: event:0eeeeef9
+[2020-04-07 11:54:00.377]: event:00000059
+[2020-04-07 11:54:00.377]: Host Data Error CRC not match,150,0
+[2020-04-07 11:54:00.378]: Host Data Error CRC not match,140,0
+[2020-04-07 11:54:00.378]: event:ba1ba111
+[2020-04-07 11:54:00.378]: event:ba1ba112
+[2020-04-07 11:54:00.378]: event:ba1ba113
+[2020-04-07 11:54:00.378]: event:ba1ba113
+[2020-04-07 11:54:00.380]: event:aaaa001e
+[2020-04-07 11:54:00.381]: event:00000064
+[2020-04-07 11:54:00.381]: event:aaaa001e
+[2020-04-07 11:54:00.381]: event:00000032
+[2020-04-07 11:54:00.381]: event:ba1ba114
+[2020-04-07 11:54:00.381]: event:ba1ba115
+[2020-04-07 11:54:00.381]: event:ba1ba116
+[2020-04-07 11:54:00.382]: event:ba1ba117
+[2020-04-07 11:54:00.382]: event:ba1ba118
+[2020-04-07 11:54:00.382]: event:ba1ba119
+[2020-04-07 11:54:00.384]: event:ba1ba120
+[2020-04-07 11:54:00.384]: event:ba1ba121
+[2020-04-07 11:54:00.384]: event:ba1ba122
+[2020-04-07 11:54:00.384]: event:ba1ba123
+[2020-04-07 11:54:00.384]: event:ba1ba124
+[2020-04-07 11:54:00.384]: event:ba1ba135
+[2020-04-07 11:54:00.385]: event:ba1ba125
+[2020-04-07 11:54:00.385]: event:abcdef02
+[2020-04-07 11:54:00.385]: event:abcdeaa1
+[2020-04-07 11:54:00.385]: event:abcdeaa1
+[2020-04-07 11:54:00.387]: event:ba1ba129
+[2020-04-07 11:54:00.387]: event:ba1ba130
+[2020-04-07 11:54:00.387]: event:ba1ba131
+[2020-04-07 11:54:00.388]: event:ba1ba132
+[2020-04-07 11:54:00.388]: event:ba1ba133
+[2020-04-07 11:54:00.388]: event:ba1ba134
+[2020-04-07 11:54:00.388]: event:ffffff03
+[2020-04-07 11:54:00.388]: event:ffffaa00
+[2020-04-07 11:54:00.388]: event:ba1ba136
+[2020-04-07 11:54:01.286]: event:ff000001
+[2020-04-07 11:54:01.286]: event:ff000004
+[2020-04-07 11:54:02.295]: event:07778888
+[2020-04-07 11:54:02.295]: event:07778889
+[2020-04-07 11:54:02.296]: event:077788a0
+[2020-04-07 11:54:02.296]: event:077788b0
+[2020-04-07 11:54:02.296]: event:077788b1
+[2020-04-07 11:54:02.296]: event:09999092
+[2020-04-07 11:54:02.296]: event:09999093
+[2020-04-07 11:54:02.296]: event:09999098
+[2020-04-07 11:54:02.298]: event:09999099
+[2020-04-07 11:54:02.298]: event:0999909a
+[2020-04-07 11:54:02.298]: event:00000004
+[2020-04-07 11:54:02.299]: event:66660021
+[2020-04-07 11:54:02.299]: event:0000000f
+[2020-04-07 11:54:02.299]: event:00000000
+[2020-04-07 11:54:02.299]: event:888888df
+[2020-04-07 11:54:02.299]: event:888888cf
+[2020-04-07 11:54:02.299]: event:95555667
+[2020-04-07 11:54:02.299]: event:9555566a
+[2020-04-07 11:54:02.301]: event:9555566b
+[2020-04-07 11:54:02.301]: event:95555668
+[2020-04-07 11:54:02.301]: event:001660c8
+[2020-04-07 11:54:02.302]: event:85555667
+[2020-04-07 11:54:02.302]: event:55555667
+[2020-04-07 11:54:02.302]: event:00000a00
+[2020-04-07 11:54:02.302]: event:8888889f
+[2020-04-07 11:54:02.302]: event:077788b2
+[2020-04-07 11:54:02.302]: event:077788c0
+[2020-04-07 11:54:02.303]: event:077788d0
+[2020-04-07 11:54:02.303]: event:00000057
+[2020-04-07 11:54:02.303]: event:0eeeeee0
+[2020-04-07 11:54:02.305]: event:0eeeeee1
+[2020-04-07 11:54:02.305]: event:0eeeeee2
+[2020-04-07 11:54:02.305]: event:0eeeeee3
+[2020-04-07 11:54:02.305]: event:0eeeeee4
+[2020-04-07 11:54:02.305]: event:0eeeeee5
+[2020-04-07 11:54:02.305]: event:9999a244
+[2020-04-07 11:54:02.306]: event:77770006
+[2020-04-07 11:54:02.306]: event:0eeeeee7
+[2020-04-07 11:54:02.306]: event:0eeeeee8
+[2020-04-07 11:54:02.308]: event:0eeeeee9
+[2020-04-07 11:54:02.308]: event:0eeeeeea
+[2020-04-07 11:54:02.308]: event:0eeeeeeb
+[2020-04-07 11:54:02.308]: event:0eeeeeef
+[2020-04-07 11:54:02.309]: event:0eeeeef1
+[2020-04-07 11:54:02.309]: event:0eeeeef2
+[2020-04-07 11:54:02.309]: event:0eeeeef3
+[2020-04-07 11:54:02.309]: event:0eeeeef4
+[2020-04-07 11:54:02.309]: event:0eeeeef6
+[2020-04-07 11:54:02.309]: event:0eeeeef7
+[2020-04-07 11:54:02.311]: event:0eeeeef8
+[2020-04-07 11:54:02.311]: event:0eeeeef9
+[2020-04-07 11:54:02.311]: event:00000059
+[2020-04-07 11:54:02.312]: event:9999a244
+[2020-04-07 11:54:02.312]: event:77770006
+[2020-04-07 11:54:02.312]: event:95555667
+[2020-04-07 11:54:02.312]: event:9555566a
+[2020-04-07 11:54:02.312]: event:9555566b
+[2020-04-07 11:54:02.312]: event:95555668
+[2020-04-07 11:54:02.312]: event:001660c8
+[2020-04-07 11:54:02.313]: event:85555667
+[2020-04-07 11:54:02.313]: event:55555667
+[2020-04-07 11:54:02.313]: event:00000a00
+[2020-04-07 11:54:02.315]: event:000000f0
+[2020-04-07 11:54:02.315]: event:2fc9a508
+[2020-04-07 11:54:02.315]: event:00000a00
+[2020-04-07 11:54:02.315]: event:00400000
+[2020-04-07 11:54:03.073]: event:000000f0
+[2020-04-07 11:54:03.371]: event:000000f1
+[2020-04-07 11:54:03.670]: event:000000f0
+[2020-04-07 11:54:03.967]: event:000000f1
+[2020-04-07 11:54:04.266]: event:000000f0
+[2020-04-07 11:54:04.563]: event:000000f1
+[2020-04-07 11:54:04.861]: event:000000f0
+[2020-04-07 11:54:05.160]: event:000000f1
+[2020-04-07 11:54:05.457]: event:000000f0
+[2020-04-07 11:54:05.756]: event:000000f1
+[2020-04-07 11:54:06.053]: event:000000f0
+[2020-04-07 11:54:06.351]: event:000000f1
+[2020-04-07 11:54:06.650]: event:000000f0
+[2020-04-07 11:54:06.927]: event:000000f1
+[2020-04-07 11:54:07.773]: event:000000f0
+[2020-04-07 11:54:07.779]: event:000000f1
+[2020-04-07 11:54:08.002]: event:000000f0
+[2020-04-07 11:54:08.174]: event:000000f1
+[2020-04-07 11:54:09.194]: event:000000f0
+[2020-04-07 11:54:09.214]: event:000000f1
+[2020-04-07 11:54:09.237]: event:000000f0
+[2020-04-07 11:54:10.273]: event:000000f1
+[2020-04-07 11:54:19.217]: host event 0x89550002
+[2020-04-07 11:54:19.217]: host event 0x07778888
+[2020-04-07 11:54:19.217]: host event 0x07778889
+[2020-04-07 11:54:19.219]: host event 0x077788a0
+[2020-04-07 11:54:19.220]: host event 0x077788b0
+[2020-04-07 11:54:19.220]: host event 0x000000f1
+[2020-04-07 11:54:19.220]: host event 0x89550002
+[2020-04-07 11:54:19.221]: host event 0x07778888
+[2020-04-07 11:54:19.223]: host event 0x07778889
+[2020-04-07 11:54:19.223]: host event 0x077788a0
+[2020-04-07 11:54:19.223]: host event 0x077788b0
+[2020-04-07 11:54:19.224]: host event 0x00000000
+[2020-04-07 11:54:19.306]: host event 0x89550002
+[2020-04-07 11:54:19.308]: host event 0x07778888
+[2020-04-07 11:54:19.309]: host event 0x07778889
+[2020-04-07 11:54:19.311]: host event 0x077788a0
+[2020-04-07 11:54:19.312]: host event 0x077788b0
+[2020-04-07 11:54:19.312]: host event 0x077788b1
+[2020-04-07 11:54:19.315]: host event 0x09999092
+[2020-04-07 11:54:19.315]: host event 0x09999093
+[2020-04-07 11:54:19.315]: host event 0x09999098
+[2020-04-07 11:54:19.316]: host event 0x09999099
+[2020-04-07 11:54:19.318]: host event 0x0999909a
+[2020-04-07 11:54:19.318]: host event 0x00000004
+[2020-04-07 11:54:19.319]: host event 0x66660021
+[2020-04-07 11:54:19.319]: host event 0x0000000f
+[2020-04-07 11:54:19.319]: host event 0x00000000
+[2020-04-07 11:54:19.336]: host event 0x888888df
+[2020-04-07 11:54:19.338]: host event 0x888888cf
+[2020-04-07 11:54:19.338]: host event 0x95555667
+[2020-04-07 11:54:19.341]: host event 0x9555566a
+[2020-04-07 11:54:19.342]: host event 0x9555566b
+[2020-04-07 11:54:19.342]: host event 0x95555668
+[2020-04-07 11:54:19.342]: host event 0x001660c8
+[2020-04-07 11:54:19.344]: host event 0x85555667
+[2020-04-07 11:54:19.344]: host event 0x55555667
+[2020-04-07 11:54:19.345]: host event 0x00000a00
+[2020-04-07 11:54:19.345]: host event 0x8888889f
+[2020-04-07 11:54:19.345]: host event 0x077788b2
+[2020-04-07 11:54:19.346]: host event 0x077788c0
+[2020-04-07 11:54:19.348]: host event 0x077788d0
+[2020-04-07 11:54:19.434]: host event 0x00000057
+[2020-04-07 11:54:19.437]: host event 0x0eeeeee0
+[2020-04-07 11:54:19.437]: host event 0x0eeeeee1
+[2020-04-07 11:54:19.437]: host event 0xca1bc2c0
+[2020-04-07 11:54:19.448]: host event 0x0eeeeee2
+[2020-04-07 11:54:19.450]: host event 0x0eeeeee3
+[2020-04-07 11:54:19.451]: host event 0x0eeeeee4
+[2020-04-07 11:54:19.453]: host event 0x0eeeeee5
+[2020-04-07 11:54:19.453]: host event 0x9999a244
+[2020-04-07 11:54:19.456]: host event 0x77770006
+[2020-04-07 11:54:19.457]: host event 0x0eeeeee7
+[2020-04-07 11:54:19.457]: host event 0x0eeeeee8
+[2020-04-07 11:54:19.457]: host event 0x0eeeeee9
+[2020-04-07 11:54:19.459]: host event 0x0eeeeeea
+[2020-04-07 11:54:19.460]: host event 0x0eeeeeeb
+[2020-04-07 11:54:19.460]: host event 0x0eeeeeee
+[2020-04-07 11:54:19.460]: host event 0x0eeeeeef
+[2020-04-07 11:54:19.461]: host event 0x0eeeeef1
+[2020-04-07 11:54:19.463]: host event 0x0eeeeef2
+[2020-04-07 11:54:19.463]: host event 0x0eeeeef3
+[2020-04-07 11:54:19.464]: host event 0x0eeeeef4
+[2020-04-07 11:54:19.464]: host event 0x0eeeeef6
+[2020-04-07 11:54:19.466]: host event 0x0eeeeef7
+[2020-04-07 11:54:19.466]: host event 0x0eeeeef8
+[2020-04-07 11:54:19.467]: host event 0x0eeeeef9
+[2020-04-07 11:54:19.467]: host event 0x00000059
+[2020-04-07 11:54:19.963]: host trace CDFU_LoadSection: %d-%d
+
+[2020-04-07 11:54:19.983]: host event 0xba1ba111
+[2020-04-07 11:54:20.214]: host event 0xba1ba112
+[2020-04-07 11:54:20.216]: host event 0xba1ba113
+[2020-04-07 11:54:20.216]: host event 0xba1ba113
+[2020-04-07 11:54:20.236]: host event 0xaaaa001e
+[2020-04-07 11:54:20.237]: host event 0x00000064
+[2020-04-07 11:54:20.239]: host event 0xaaaa001e
+[2020-04-07 11:54:20.240]: host event 0x00000032
+[2020-04-07 11:54:20.240]: host event 0xba1ba114
+[2020-04-07 11:54:20.240]: host event 0xba1ba115
+[2020-04-07 11:54:20.242]: host event 0xba1ba116
+[2020-04-07 11:54:20.242]: host event 0xba1ba117
+[2020-04-07 11:54:20.243]: host event 0xba1ba118
+[2020-04-07 11:54:20.323]: host event 0xba1ba119
+[2020-04-07 11:54:20.325]: host event 0xba1ba120
+[2020-04-07 11:54:20.325]: host event 0xba1ba121
+[2020-04-07 11:54:20.345]: host event 0xba1ba122
+[2020-04-07 11:54:20.346]: host event 0xba1ba123
+[2020-04-07 11:54:20.348]: host event 0xba1ba124
+[2020-04-07 11:54:20.348]: host event 0xba1ba135
+[2020-04-07 11:54:20.349]: host event 0xba1ba125
+[2020-04-07 11:54:20.351]: host event 0xabcdef02
+[2020-04-07 11:54:20.351]: host event 0xabcdeaa1
+[2020-04-07 11:54:20.351]: host event 0xabcdeaa1
+[2020-04-07 11:54:20.352]: host event 0xba1ba129
+[2020-04-07 11:54:20.369]: host event 0xba1ba130
+[2020-04-07 11:54:20.371]: host event 0xba1ba131
+[2020-04-07 11:54:20.372]: host event 0xba1ba132
+[2020-04-07 11:54:20.374]: host event 0xba1ba133
+[2020-04-07 11:54:20.374]: host event 0xba1ba134
+[2020-04-07 11:54:20.375]: host event 0xffffff03
+[2020-04-07 11:54:20.375]: host event 0xffffaa00
+[2020-04-07 11:54:20.375]: host event 0xba1ba136
+[2020-04-07 11:54:21.506]: host event 0x713effff
+[2020-04-07 11:54:21.507]: host event 0x00000000
+[2020-04-07 11:54:22.010]: host trace CDFU_LoadSection: %d-%d
+
+[2020-04-07 11:54:22.012]: host trace ====================================
+[2020-04-07 11:54:22.016]: host trace INTR VER :Luat_V0038_8955
+[2020-04-07 11:54:22.019]: host trace BASE VER :B6005
+[2020-04-07 11:54:22.019]: host trace SCRIPT ADDR :0x00260000
+[2020-04-07 11:54:22.020]: host trace SCRIPT SIZE :0x000b0000
+[2020-04-07 11:54:22.022]: host trace BASE   ADDR :0x00210000
+[2020-04-07 11:54:22.023]: host trace BASE   SIZE :0x00050000
+[2020-04-07 11:54:22.023]: host trace ====================================
+[2020-04-07 11:54:22.025]: host trace [cust_task_main]: Enter message loop
+[2020-04-07 11:54:22.026]: host trace lualibc_fopen_ext /integrity.bin rb 0 1 2
+[2020-04-07 11:54:22.026]: host trace lualibc_fopen_ext /integrity.bin rb 0 1 2
+[2020-04-07 11:54:22.028]: host trace INTEGRITY file correct!
+[2020-04-07 11:54:22.029]: host trace FH:file=/lua/utils.lua,len=4108,offset=74376
+[2020-04-07 11:54:22.035]: host trace FH:file=/lua/testCall.lua,len=842,offset=73507
+[2020-04-07 11:54:22.038]: host trace FH:file=/lua/sys.lua,len=6183,offset=67294
+[2020-04-07 11:54:22.039]: host trace FH:file=/lua/socket.lua,len=14801,offset=52468
+[2020-04-07 11:54:22.042]: host trace FH:file=/lua/sim.lua,len=1684,offset=50756
+[2020-04-07 11:54:22.045]: host trace FH:file=/lua/ril.lua,len=8325,offset=42406
+[2020-04-07 11:54:22.048]: host trace FH:file=/lua/pm.lua,len=474,offset=41907
+[2020-04-07 11:54:22.049]: host trace FH:file=/lua/patch.lua,len=2097,offset=39786
+[2020-04-07 11:54:22.052]: host trace FH:file=/lua/net.lua,len=5310,offset=34449
+[2020-04-07 11:54:22.053]: host trace FH:file=/lua/misc.lua,len=3368,offset=31056
+[2020-04-07 11:54:22.055]: host trace FH:file=/lua/main.lua,len=300,offset=30730
+[2020-04-07 11:54:22.058]: host trace FH:file=/lua/log.lua,len=1174,offset=29530
+[2020-04-07 11:54:22.059]: host trace FH:file=/lua/link.lua,len=2839,offset=26666
+[2020-04-07 11:54:22.061]: host trace FH:file=/lua/http.lua,len=6716,offset=19924
+[2020-04-07 11:54:22.062]: host trace FH:file=/lua/errDump.lua,len=4335,offset=15563
+[2020-04-07 11:54:22.065]: host trace FH:file=/lua/common.lua,len=4186,offset=11348
+[2020-04-07 11:54:22.068]: host trace FH:file=/lua/clib.lua,len=491,offset=10829
+[2020-04-07 11:54:22.069]: host trace FH:file=/lua/cc.lua,len=3713,offset=7090
+[2020-04-07 11:54:22.072]: host trace FH:file=/lua/audio.lua,len=7015,offset=51
+[2020-04-07 11:54:22.072]: host trace parse_luadb_data:delupdpack=0,err=0,section=1,wrFile=0
+[2020-04-07 11:54:22.075]: host trace [fopen_ext]: /lua/main.lua 2!
+[2020-04-07 11:54:22.076]: host trace RUN main.lua
+[2020-04-07 11:54:22.078]: host trace [fopen_ext]: /lua/main.lua 2!
+[2020-04-07 11:54:22.081]: host trace [fopen_ext]: /lua/log.lua 2!
+[2020-04-07 11:54:22.085]: host trace [fopen_ext]: /lua/log.lua 2!
+[2020-04-07 11:54:22.085]: host trace [fopen_ext]: /lua/sys.lua 2!
+[2020-04-07 11:54:22.088]: host trace [fopen_ext]: /lua/sys.lua 2!
+[2020-04-07 11:54:22.089]: host trace [fopen_ext]: /lua/utils.lua 2!
+[2020-04-07 11:54:22.092]: host trace [fopen_ext]: /lua/utils.lua 2!
+[2020-04-07 11:54:22.092]: host trace [fopen_ext]: /lua/patch.lua 2!
+[2020-04-07 11:54:22.095]: host trace [fopen_ext]: /lua/patch.lua 2!
+[2020-04-07 11:54:22.096]: host trace [fopen_ext]: /lua/pm.lua 2!
+[2020-04-07 11:54:22.098]: host trace [fopen_ext]: /lua/pm.lua 2!
+[2020-04-07 11:54:22.099]: host trace [fopen_ext]: /lua/clib.lua 2!
+[2020-04-07 11:54:22.101]: host trace [fopen_ext]: /lua/clib.lua 2!
+[2020-04-07 11:54:22.104]: host trace [fopen_ext]: /lua/net.lua 2!
+[2020-04-07 11:54:22.105]: host trace [fopen_ext]: /lua/net.lua 2!
+[2020-04-07 11:54:22.107]: host trace [fopen_ext]: /lua/ril.lua 2!
+[2020-04-07 11:54:22.108]: host trace [fopen_ext]: /lua/ril.lua 2!
+[2020-04-07 11:54:22.111]: host trace [fopen_ext]: /lua/sim.lua 2!
+[2020-04-07 11:54:22.112]: host trace [fopen_ext]: /lua/sim.lua 2!
+[2020-04-07 11:54:22.115]: host trace [fopen_ext]: /lua/errDump.lua 2!
+[2020-04-07 11:54:22.117]: host trace [fopen_ext]: /lua/errDump.lua 2!
+[2020-04-07 11:54:22.118]: host trace [fopen_ext]: /lua/socket.lua 2!
+[2020-04-07 11:54:22.121]: host trace [fopen_ext]: /lua/socket.lua 2!
+[2020-04-07 11:54:22.122]: host trace [fopen_ext]: /lua/link.lua 2!
+[2020-04-07 11:54:22.124]: host trace [fopen_ext]: /lua/link.lua 2!
+[2020-04-07 11:54:22.125]: host trace [fopen_ext]: /lua/misc.lua 2!
+[2020-04-07 11:54:22.128]: host trace [fopen_ext]: /lua/misc.lua 2!
+[2020-04-07 11:54:22.128]: host trace [fopen_ext]: /lua/testCall.lua 2!
+[2020-04-07 11:54:22.131]: host trace [fopen_ext]: /lua/testCall.lua 2!
+[2020-04-07 11:54:22.132]: host trace [fopen_ext]: /lua/cc.lua 2!
+[2020-04-07 11:54:22.134]: host trace [fopen_ext]: /lua/cc.lua 2!
+[2020-04-07 11:54:22.137]: host trace [fopen_ext]: /lua/audio.lua 2!
+[2020-04-07 11:54:22.138]: host trace [fopen_ext]: /lua/audio.lua 2!
+[2020-04-07 11:54:22.140]: host trace [fopen_ext]: /lua/common.lua 2!
+[2020-04-07 11:54:22.141]: host trace [fopen_ext]: /lua/common.lua 2!
+[2020-04-07 11:54:22.355]: host trace [I]-[poweron reason:]	7	CALL	2.0.0	2.3.5	Luat_V0038_8955
+[2020-04-07 11:54:22.357]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.358]: host trace [I]-[ril.proatc]	RDY
+[2020-04-07 11:54:22.361]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.364]: host trace [I]-[ril.proatc]	+CFUN: 1
+[2020-04-07 11:54:22.367]: host trace [I]-[ril.defurc]	+CFUN: 1
+[2020-04-07 11:54:22.368]: host trace [I]-[ril.sendat]	ATE0
+[2020-04-07 11:54:22.371]: host trace [I]-[ril.proatc]	ATE0
+[2020-04-07 11:54:22.374]: host trace [I]-[ril.defurc]	ATE0
+[2020-04-07 11:54:22.377]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.380]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.384]: host trace [I]-[ril.defrsp]	ATE0	true	OK	nil
+[2020-04-07 11:54:22.385]: host trace [I]-[ril.sendat]	AT+CMEE=0
+[2020-04-07 11:54:22.388]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.391]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.394]: host trace [I]-[ril.defrsp]	AT+CMEE=0	true	OK	nil
+[2020-04-07 11:54:22.395]: host trace [I]-[ril.sendat]	AT+STON=0
+[2020-04-07 11:54:22.398]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.403]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.404]: host trace [I]-[ril.defrsp]	AT+STON=0	true	OK	nil
+[2020-04-07 11:54:22.407]: host trace [I]-[ril.sendat]	AT+CREG=2
+[2020-04-07 11:54:22.408]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.411]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.413]: host trace [I]-[ril.defrsp]	AT+CREG=2	true	OK	nil
+[2020-04-07 11:54:22.417]: host trace [I]-[ril.sendat]	AT+CREG?
+[2020-04-07 11:54:22.420]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.423]: host trace [I]-[ril.proatc]	+CREG: 2,0
+[2020-04-07 11:54:22.424]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.427]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.428]: host trace [I]-[ril.defrsp]	AT+CREG?	true	OK	nil
+[2020-04-07 11:54:22.430]: host trace [I]-[ril.sendat]	AT+CENG=1,1
+[2020-04-07 11:54:22.433]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.434]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.437]: host trace [I]-[net.rsp]	AT+CENG=1,1	true	OK	nil
+[2020-04-07 11:54:22.438]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-07 11:54:22.440]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.441]: host event 0x8181e810
+[2020-04-07 11:54:22.444]: host trace [I]-[ril.proatc]	+CSQ: 0,0
+[2020-04-07 11:54:22.447]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.447]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.451]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 0,0
+[2020-04-07 11:54:22.453]: host trace [I]-[ril.sendat]	AT+CENG?
+[2020-04-07 11:54:22.528]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.529]: host trace [I]-[ril.proatc]	+CENG:1,1
+[2020-04-07 11:54:22.530]: host trace [I]-[ril.proatc]	+CENG:0,"0000,00,00,000,00,00,0000,00,00,0000,00"
+[2020-04-07 11:54:22.551]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.552]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.555]: host trace [I]-[net.rsp]	AT+CENG?	true	OK	nil
+[2020-04-07 11:54:22.558]: host trace [I]-[ril.sendat]	AT+TCPUSERPARAM=6,4,7200,16
+[2020-04-07 11:54:22.559]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.561]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.562]: host trace [I]-[ril.defrsp]	AT+TCPUSERPARAM=6,4,7200,16	true	OK	nil
+[2020-04-07 11:54:22.565]: host trace [I]-[ril.sendat]	AT+VER
+[2020-04-07 11:54:22.566]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.569]: host trace [I]-[ril.proatc]	SW_V6005_Air202_LUA
+[2020-04-07 11:54:22.571]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.578]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.582]: host trace [I]-[ril.sendat]	AT+ATWMFT=99
+[2020-04-07 11:54:22.585]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.586]: host trace [I]-[ril.proatc]	SUCC
+[2020-04-07 11:54:22.588]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.591]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.592]: host trace [I]-[misc.ATWMFT]	SUCC
+[2020-04-07 11:54:22.595]: host trace [I]-[ril.sendat]	AT+WISN?
+[2020-04-07 11:54:22.596]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.598]: host trace [I]-[ril.proatc]	gLqjE06135727504
+[2020-04-07 11:54:22.601]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.604]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.608]: host trace [I]-[ril.sendat]	AT+CGSN
+[2020-04-07 11:54:22.611]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.614]: host trace [I]-[ril.proatc]	862285036323123
+[2020-04-07 11:54:22.615]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.618]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.621]: host trace [I]-[ril.sendat]	AT+MUID?
+[2020-04-07 11:54:22.622]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.625]: host trace [I]-[ril.proatc]	+MUID: "20190530002800A773950A4586598190"
+[2020-04-07 11:54:22.627]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.628]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.637]: host trace [I]-[ril.sendat]	ATX4
+[2020-04-07 11:54:22.638]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.641]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.644]: host trace [I]-[ril.defrsp]	ATX4	true	OK	nil
+[2020-04-07 11:54:22.645]: host trace [I]-[ril.sendat]	AT+CLIP=1
+[2020-04-07 11:54:22.648]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.650]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.651]: host trace [I]-[ril.defrsp]	AT+CLIP=1	true	OK	nil
+[2020-04-07 11:54:22.654]: host trace [I]-[ril.sendat]	ATS7=60
+[2020-04-07 11:54:22.663]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.665]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.668]: host trace [I]-[ril.defrsp]	ATS7=60	true	OK	nil
+[2020-04-07 11:54:22.671]: host trace [I]-[ril.sendat]	AT+CMIC=2,1
+[2020-04-07 11:54:22.673]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.674]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.677]: host trace [I]-[ril.sendat]	AT+DTMFDET=2,1,3
+[2020-04-07 11:54:22.678]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.687]: host error data len 0 0000
+[2020-04-07 11:54:22.688]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.691]: host trace [I]-[ril.defrsp]	AT+DTMFDET=2,1,3	true	OK	nil
+[2020-04-07 11:54:22.694]: host trace [I]-[ril.sendat]	AT+DTMFDET=1
+[2020-04-07 11:54:22.696]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.697]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.700]: host trace [I]-[ril.defrsp]	AT+DTMFDET=1	true	OK	nil
+[2020-04-07 11:54:22.703]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-07 11:54:22.704]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.707]: host trace [I]-[ril.proatc]	+CSQ: 0,0
+[2020-04-07 11:54:22.710]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:22.711]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:22.713]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 0,0
+[2020-04-07 11:54:22.947]: host trace LJD VSIM sim_ProcessInstruction:2751,sim_present=1,IsVsim=0
+[2020-04-07 11:54:23.138]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:23.141]: host trace [I]-[ril.proatc]	+CSIMTYPE: 1,0
+[2020-04-07 11:54:23.142]: host trace [I]-[ril.defurc]	+CSIMTYPE: 1,0
+[2020-04-07 11:54:25.660]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:25.663]: host trace [I]-[ril.proatc]	+CREG: 3
+[2020-04-07 11:54:25.664]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-07 11:54:25.667]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:25.670]: host trace [I]-[ril.proatc]	+CSQ: 24,0
+[2020-04-07 11:54:25.674]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:25.676]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:25.678]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 24,0
+[2020-04-07 11:54:26.736]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:26.739]: host trace [I]-[ril.proatc]	+ENCRET: 0
+[2020-04-07 11:54:26.742]: host trace [I]-[ril.defurc]	+ENCRET: 0
+[2020-04-07 11:54:26.743]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:26.747]: host trace [I]-[ril.proatc]	+CPIN: READY
+[2020-04-07 11:54:26.750]: host trace [I]-[ril.sendat]	AT+CCID
+[2020-04-07 11:54:26.752]: host trace [I]-[SIM.subscribe]	nil	RDY
+[2020-04-07 11:54:26.753]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:26.756]: host trace [I]-[ril.proatc]	898607a9101850140673
+[2020-04-07 11:54:26.759]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:26.760]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:26.763]: host trace [I]-[ril.sendat]	AT+CIMI
+[2020-04-07 11:54:26.765]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:26.766]: host trace [I]-[ril.proatc]	460071952200246
+[2020-04-07 11:54:26.769]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:26.770]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:26.908]: host event 0x2244420b
+[2020-04-07 11:54:26.930]: host event 0x22446804
+[2020-04-07 11:54:26.971]: host event 0x23000042
+[2020-04-07 11:54:26.993]: host event 0x23000068
+[2020-04-07 11:54:27.055]: host event 0x22445c9a
+[2020-04-07 11:54:27.076]: host event 0x22445d3c
+[2020-04-07 11:54:27.098]: host event 0x23000061
+[2020-04-07 11:54:27.181]: host event 0x2300005c
+[2020-04-07 11:54:27.223]: host event 0x2300005d
+[2020-04-07 11:54:27.224]: host event 0x2300003b
+[2020-04-07 11:54:27.244]: host event 0x23000063
+[2020-04-07 11:54:27.266]: host event 0x2300008e
+[2020-04-07 11:54:27.286]: host event 0x23000062
+[2020-04-07 11:54:27.308]: host event 0x2300003f
+[2020-04-07 11:54:27.328]: host event 0x22445f0c
+[2020-04-07 11:54:27.391]: host event 0x2300005f
+[2020-04-07 11:54:30.009]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.010]: host trace [I]-[ril.proatc]	CALL READY
+[2020-04-07 11:54:30.030]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.033]: host trace [I]-[ril.proatc]	+CREG: 1,"2485","1092"
+[2020-04-07 11:54:30.072]: host trace [I]-[ril.sendat]	AT+CCWA=1
+[2020-04-07 11:54:30.075]: host trace [I]-[tesCall.ready]
+[2020-04-07 11:54:30.076]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.079]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:30.082]: host trace [I]-[ril.defrsp]	AT+CCWA=1	true	OK	nil
+[2020-04-07 11:54:30.084]: host trace [I]-[ril.sendat]	AT+CSQ
+[2020-04-07 11:54:30.098]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.102]: host trace [I]-[ril.proatc]	+CSQ: 25,0
+[2020-04-07 11:54:30.105]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.107]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:30.111]: host trace [I]-[net.rsp]	AT+CSQ	true	OK	+CSQ: 25,0
+[2020-04-07 11:54:30.112]: host trace [I]-[ril.sendat]	AT+CENG?
+[2020-04-07 11:54:30.115]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.118]: host trace [I]-[ril.proatc]	+CENG:1,1
+[2020-04-07 11:54:30.119]: host trace [I]-[ril.proatc]	+CENG:0,"0630,25,99,460,00,39,4242,12,00,9349,00"
+[2020-04-07 11:54:30.124]: host trace [I]-[ril.proatc]	+CENG:1,"613,15,460,0,60,0,9349"
+[2020-04-07 11:54:30.125]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.128]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:30.131]: host trace [I]-[net.rsp]	AT+CENG?	true	OK	nil
+[2020-04-07 11:54:30.132]: host trace [I]-[ril.sendat]	ATD18576608994;
+[2020-04-07 11:54:30.134]: host trace DEBUG vgOpManModifyCcState 833:1
+[2020-04-07 11:54:30.148]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.151]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:30.154]: host trace [I]-[ril.sendat]	AT+CIICRMODE=2
+[2020-04-07 11:54:30.155]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.157]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:30.173]: host trace [I]-[ril.defrsp]	AT+CIICRMODE=2	true	OK	nil
+[2020-04-07 11:54:30.176]: host trace [I]-[ril.sendat]	AT+CIPMUX=1
+[2020-04-07 11:54:30.177]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.180]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:30.184]: host trace [I]-[ril.defrsp]	AT+CIPMUX=1	true	OK	nil
+[2020-04-07 11:54:30.186]: host trace [I]-[ril.sendat]	AT+CIPHEAD=1
+[2020-04-07 11:54:30.187]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.188]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:30.190]: host trace [I]-[ril.defrsp]	AT+CIPHEAD=1	true	OK	nil
+[2020-04-07 11:54:30.193]: host trace [I]-[ril.sendat]	AT+CIPQSEND=0
+[2020-04-07 11:54:30.200]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.203]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:30.206]: host trace [I]-[ril.defrsp]	AT+CIPQSEND=0	true	OK	nil
+[2020-04-07 11:54:30.207]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:30.210]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.213]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:30.216]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.217]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:30.220]: host trace [I]-[ril.sendat]	AT+CLCC
+[2020-04-07 11:54:30.229]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.230]: host trace [I]-[ril.proatc]	+CLCC: 1,0,2,0,0,"18576608994",129,""
+[2020-04-07 11:54:30.233]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:30.234]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:32.226]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:32.227]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:32.230]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:32.233]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:32.236]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:34.223]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:34.243]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:34.247]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:34.250]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:34.252]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:36.242]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:36.263]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:36.266]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:36.269]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:36.270]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:37.924]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:37.927]: host trace [I]-[ril.proatc]	SMS READY
+[2020-04-07 11:54:37.930]: host trace [I]-[ril.defurc]	SMS READY
+[2020-04-07 11:54:38.263]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:38.283]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:38.288]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:38.290]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:38.293]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:40.283]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:40.302]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:40.306]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:40.309]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:40.311]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:42.301]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:42.302]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:42.308]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:42.322]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:42.325]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:44.213]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:44.216]: host trace [I]-[ril.proatc]	CONNECT
+[2020-04-07 11:54:44.217]: host trace [I]-[audio.stop]	nil	nil
+[2020-04-07 11:54:44.236]: host trace [I]-[ril.sendat]	AT+CLCC
+[2020-04-07 11:54:44.239]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:44.240]: host trace [I]-[ril.proatc]	+CLCC: 1,0,0,0,0,"18576608994",129,""
+[2020-04-07 11:54:44.243]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:44.244]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:44.259]: host trace [I]-[testCall.connected]
+[2020-04-07 11:54:44.262]: host trace [I]-[ril.sendat]	AT+SENDSOUND="123",100,100
+[2020-04-07 11:54:44.954]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:44.957]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:44.960]: host trace [I]-[ril.defrsp]	AT+SENDSOUND="123",100,100	true	OK	nil
+[2020-04-07 11:54:44.963]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:44.964]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:44.967]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:44.970]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:44.973]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:46.977]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:46.980]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:46.983]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:46.986]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:46.987]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:48.997]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:49.000]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:49.003]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:49.005]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:49.022]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:49.253]: host trace audio.update	nil	0	TTSCC	通话中播放TTS测试	7	nil	nil	0
+[2020-04-07 11:54:49.315]: host event 0xbb77bb01
+[2020-04-07 11:54:49.316]: host event 0xbb770b02
+[2020-04-07 11:54:49.318]: host event 0x00000002
+[2020-04-07 11:54:49.319]: host event 0x00000006
+[2020-04-07 11:54:49.319]: host event 0xbb770b03
+[2020-04-07 11:54:49.322]: host trace [I]-[audio.taskAudio begin]	0	TTSCC	通话中播放TTS测试	7	nil	nil	0
+[2020-04-07 11:54:49.325]: host trace [I]-[ril.sendat]	AT+QTTS=1
+[2020-04-07 11:54:49.342]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:49.346]: host trace [I]-[ril.proatc]	ERROR
+[2020-04-07 11:54:49.349]: host trace [I]-[ril.sendat]	AT+QTTS=4,"1A90DD8B2D4EAD643E655400540053004B6DD58B"
+[2020-04-07 11:54:49.351]: host trace [I]-[audio.taskAudio resume msg]	ERROR
+[2020-04-07 11:54:49.354]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:49.355]: host trace [I]-[ril.proatc]	ERROR
+[2020-04-07 11:54:49.371]: host trace [I]-[ril.sendat]	AT+QTTS=3
+[2020-04-07 11:54:49.374]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:49.375]: host trace [I]-[ril.proatc]	ERROR
+[2020-04-07 11:54:49.377]: host trace [I]-[audio.playEnd]	1	nil
+[2020-04-07 11:54:51.012]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:51.035]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:51.038]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:51.039]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:51.042]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:51.289]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:51.290]: host trace [I]-[ril.proatc]	+DTMFDET:49
+[2020-04-07 11:54:51.292]: host trace [I]-[testCall.dtmfDetected]	1
+[2020-04-07 11:54:52.255]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:52.256]: host trace [I]-[ril.proatc]	+DTMFDET:50
+[2020-04-07 11:54:52.276]: host trace [I]-[testCall.dtmfDetected]	2
+[2020-04-07 11:54:52.677]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:52.678]: host trace [I]-[ril.proatc]	+DTMFDET:51
+[2020-04-07 11:54:52.698]: host trace [I]-[testCall.dtmfDetected]	3
+[2020-04-07 11:54:53.038]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:53.039]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:53.062]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:53.062]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:53.065]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:55.056]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:55.059]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:55.062]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:55.078]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:55.081]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:57.075]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:57.096]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:57.101]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:57.102]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:57.105]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:57.351]: host trace DEBUG vgOpManModifyCcState 833:1
+[2020-04-07 11:54:57.355]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:57.357]: host trace [I]-[ril.proatc]	NO CARRIER
+[2020-04-07 11:54:57.359]: host trace [I]-[ril.sendat]	AT+CLCC
+[2020-04-07 11:54:57.361]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:57.364]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:57.365]: host trace [I]-[ril.proatc]	OK
+[2020-04-07 11:54:57.378]: host trace [I]-[testCall.disconnected]
+[2020-04-07 11:54:57.421]: host event 0xbb77bb01
+[2020-04-07 11:54:57.421]: host event 0xbb770b02
+[2020-04-07 11:54:57.423]: host event 0x00000002
+[2020-04-07 11:54:57.423]: host event 0x00000006
+[2020-04-07 11:54:57.424]: host event 0xbb770b03
+[2020-04-07 11:54:59.101]: host trace [I]-[ril.sendat]	AT+CGATT?
+[2020-04-07 11:54:59.122]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:59.124]: host trace [I]-[ril.proatc]	+CGATT: 0
+[2020-04-07 11:54:59.124]: host trace [I]-[ril.proatc]	
+[2020-04-07 11:54:59.125]: host trace [I]-[ril.proatc]	OK

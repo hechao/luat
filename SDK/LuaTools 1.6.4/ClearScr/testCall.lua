@@ -44,7 +44,7 @@ end
 local function ready()
 log.info("tesCall.ready")
 
-cc.dial("10086")
+cc.dial("18576608994")
 end
 
 
