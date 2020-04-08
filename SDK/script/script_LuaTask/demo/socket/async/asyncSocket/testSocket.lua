@@ -1,14 +1,14 @@
---- testMqtt
--- @module testMqtt
--- @author ??
+--- testSocket
+-- @module asyncSocket
+-- @author AIRM2M
 -- @license MIT
 -- @copyright openLuat.com
--- @release 2017.10.24
-require "mqtt"
+-- @release 2018.10.27
+require "socket"
 module(..., package.seeall)
 
--- 这里请填写修改为自己的IP和端口
-local host, port = "iot.electrodragon.com", 1883
+-- 此处的IP和端口请填上你自己的socket服务器和端口
+local ip, port, c = "180.97.80.55", "12415"
 
 --[[
 TCP协议发送数据时，数据发送出去之后，必须等到服务器返回TCP ACK包，才认为数据发送成功，在网络较差的情况下，这种ACK确认就会导致发送过程很慢。
@@ -31,61 +31,44 @@ AT版本可以通过AT+CIPQSEND指令、Luat版本可以通过socket.setSendMode
 ]]
 --socket.setSendMode(1)
 
--- 测试MQTT的任务代码
+-- 异步接口演示代码
+local asyncClient
 sys.taskInit(function()
     while true do
         while not socket.isReady() do sys.wait(1000) end
-        local mqttc = mqtt.client(misc.getImei(), 300, "user", "password")
-        while not mqttc:connect(host, port) do sys.wait(2000) end
-        if mqttc:subscribe(string.format("/recv", misc.getImei())) then
-		
-            if mqttc:publish(string.format("/trans", misc.getImei()), "test publish " .. os.time()) then
-                while true do
-                    
-					-- button and drive
-					local relay_1 = pins.setup(pio.P0_2, 0) -- relay 1, low output 
-					local relay_2 = pins.setup(pio.P0_3, 0) -- relay 2, low output 
-
-					
-					local get_p0 = pins.setup(pio.P0_0) -- read pio-0 default high
-					local get_p1 = pins.setup(pio.P0_1) -- read pio-0 default high
-					
-					relay_1(0)
-					relay_2(0)
-					
-					if get_p0 == 0 then
-						mqttc:publish("/trans", "button pressed", 0) 
-						relay_1(1)
-					else
-						mqttc:publish("/trans", "button NOT pressed", 0) 
-					end
-					
-					-- receive message
-					local r, data, param = mqttc:receive(1000, "pub_msg") -- receive
-					
-                    if r then
-                        log.info("这是收到了服务器下发的消息:", data.payload or "nil")
-                    elseif data == "pub_msg" then
-                        log.info("这是收到了订阅的消息和参数显示:", data, param)
-                        mqttc:publish(string.format("/2", misc.getImei()), "response " .. param)
-                    elseif data == "timeout" then
-                        log.info("这是等待超时主动上报数据的显示!")
-                        mqttc:publish(string.format("/2", misc.getImei()), "test publish " .. os.time())
-                    else
-                        break
-                    end
-					
-                end
-            end
-        end
-        mqttc:disconnect()
+        asyncClient = socket.tcp()
+        while not asyncClient:connect(ip, port) do sys.wait(2000) end
+        while asyncClient:asyncSelect() do end
+        asyncClient:close()
     end
 end)
 
 -- 测试代码,用于发送消息给socket
 sys.taskInit(function()
-    while true do
-        sys.publish("pub_msg", "11223344556677889900AABBCCDDEEFF" .. os.time())
-        sys.wait(180000)
+    while not socket.isReady() do sys.wait(2000) end
+    sys.wait(10000)
+    -- 这是演示用异步接口发送数据
+    for i = 1, 100 do
+        asyncClient:asyncSend(string.rep("0123456789", 10))
+        sys.wait(500)
     end
 end)
+
+-- 测试代码,用于从socket接收消息
+sys.taskInit(function()
+    local cnt = 0
+    while not socket.isReady() do sys.wait(2000) end
+    sys.wait(10000)
+    -- 这是演示用异步接口直接读取服务器数据
+    while true do
+        local data = asyncClient:asyncRecv()
+        cnt = cnt + #data
+        log.info("这是服务器下发数据:", cnt, data:sub(1, 30))
+        sys.wait(1000)
+    end
+end)
+
+sys.timerLoopStart(function()
+    log.info("打印占用的内存:", _G.collectgarbage("count"))-- 打印占用的RAM
+    log.info("打印可用的空间", rtos.get_fs_free_size())-- 打印剩余FALSH，单位Byte
+end, 1000)

@@ -37,32 +37,10 @@ sys.taskInit(function()
         while not socket.isReady() do sys.wait(1000) end
         local mqttc = mqtt.client(misc.getImei(), 300, "user", "password")
         while not mqttc:connect(host, port) do sys.wait(2000) end
-        if mqttc:subscribe(string.format("/recv", misc.getImei())) then
-		
-            if mqttc:publish(string.format("/trans", misc.getImei()), "test publish " .. os.time()) then
+        if mqttc:subscribe(string.format("/1", misc.getImei())) then
+            if mqttc:publish(string.format("/2", misc.getImei()), "test publish " .. os.time()) then
                 while true do
-                    
-					-- button and drive
-					local relay_1 = pins.setup(pio.P0_2, 0) -- relay 1, low output 
-					local relay_2 = pins.setup(pio.P0_3, 0) -- relay 2, low output 
-
-					
-					local get_p0 = pins.setup(pio.P0_0) -- read pio-0 default high
-					local get_p1 = pins.setup(pio.P0_1) -- read pio-0 default high
-					
-					relay_1(0)
-					relay_2(0)
-					
-					if get_p0 == 0 then
-						mqttc:publish("/trans", "button pressed", 0) 
-						relay_1(1)
-					else
-						mqttc:publish("/trans", "button NOT pressed", 0) 
-					end
-					
-					-- receive message
-					local r, data, param = mqttc:receive(1000, "pub_msg") -- receive
-					
+                    local r, data, param = mqttc:receive(120000, "pub_msg")
                     if r then
                         log.info("这是收到了服务器下发的消息:", data.payload or "nil")
                     elseif data == "pub_msg" then
@@ -74,7 +52,6 @@ sys.taskInit(function()
                     else
                         break
                     end
-					
                 end
             end
         end
