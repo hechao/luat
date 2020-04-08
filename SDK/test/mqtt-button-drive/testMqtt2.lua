@@ -37,6 +37,7 @@ sys.taskInit(function()
         while not socket.isReady() do sys.wait(1000) end
         local mqttc = mqtt.client(misc.getImei(), 300, "user", "password")
         while not mqttc:connect(host, port) do sys.wait(2000) end
+		
         if mqttc:subscribe(string.format("/recv", misc.getImei())) then
 		
             if mqttc:publish(string.format("/trans", misc.getImei()), "test publish " .. os.time()) then
@@ -56,6 +57,7 @@ sys.taskInit(function()
 					if get_p0 == 0 then
 						mqttc:publish("/trans", "button pressed", 0) 
 						relay_1(1)
+						break 
 					else
 						mqttc:publish("/trans", "button NOT pressed", 0) 
 					end
