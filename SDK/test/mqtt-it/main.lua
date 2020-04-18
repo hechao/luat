@@ -23,7 +23,7 @@ require "misc"
 require "wdt"
 wdt.setup(pio.P0_30, pio.P0_31)
 
-require "testMqtt4"
+require "testMqtt3"
 require "ntp"
 ntp.timeSync(1,function()log.info("----------------> AutoTimeSync is Done ! <----------------")end)
 -- 启动系统框架

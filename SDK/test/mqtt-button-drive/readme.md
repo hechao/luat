@@ -1,5 +1,6 @@
-top 
+* system has three tasks in mqtt4.lua file
 
+** mqtt send 11 to mqtt server "/1" will drive relays
+** press button 0 will drive relays
 
-/trans to send message to mqtt server
-/recv receive message from server
+** sys.taskInlt will reset relays in every 5 seconds
